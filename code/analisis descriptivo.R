@@ -1,8 +1,8 @@
 trace(utils:::unpackPkgZip, edit=TRUE)
 # casa
-directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\portal presidencia'
+directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\Colombia-Pact-Text'
 # DNP
-directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\portal presidencia'
+directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
 
 
 # Funciones preprocesamiento y t-sne
