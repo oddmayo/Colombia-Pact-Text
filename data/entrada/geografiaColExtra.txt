@@ -1,0 +1,6148 @@
+Abejorral	Antioquia	Municipio	predio putumayo	Popular 1	Palmitas						
+Ábrego	Norte de Santander	Municipio	predio putumayo (puerto limón)	Santa Cruz	Santa Elena						
+Abriaquí	Antioquia	Municipio	predio putumayo	Manrique	Pedregal Alto						
+Acacías	Meta	Municipio	predio putumayo	Aranjuez	Altavista						
+Acandí	Chocó	Municipio	predio putumayo	Castilla	Aguas Frías						
+Acevedo	Huila	Municipio	predio putumayo	Doce De Octubre	La Loma						
+Achí	Bolívar	Municipio	predio putumayo	Robledo	San José Del Manzanillo						
+Agrado	Huila	Municipio	comeyafu	Villa Hermosa	Travesias						
+Agua	Cundinamarca	Municipio	curare-los ingleses	Buenos Aires	Abejorral						
+Aguachica	Cesar	Municipio	puerto cordoba	La Candelaria	Pantanillo						
+Aguada	Santander	Municipio	arara	Laureles-estadio	Purnia						
+Aguadas	Caldas	Municipio	el vergel	La America	El Cairo						
+Aguazul	Casanare	Municipio	isla de ronda	San Javier	Abriaquí						
+Agustín Codazzi	Cesar	Municipio	kilometro 6 y 11 leticia tarapaca	El Poblado	La Antigua						
+Aipe	Huila	Municipio	macedonia	Guayabal	Alejandría						
+Albán	Cundinamarca	Municipio	mocagua	Belen	Amagá						
+Albania	Caquetá	Municipio	nazaret	Norte-centro Histórico	Camilo C						
+Albania	La Guajira	Municipio	san antonio de los lagos	Murillo Sur-oriente	El Cedro						
+Albania	Santander	Municipio	san jose del rio	Murillo-sur Occidente	La Clarita						
+Alcalá	Valle del Cauca	Municipio	san sebastian	Usaquen	Amalfi						
+Aldana	Nariño	Municipio	santa sofia y el progreso	Chapinero	Portachuelo						
+Alejandría	Antioquia	Municipio	zaragoza	Santa Fe	Arenas Blancas						
+Algarrobo	Magdalena	Municipio	miriti parana	San Cristobal	El Zacatin						
+Algeciras	Huila	Municipio	yaigoje-rio apaporis	Usme	La Guayana						
+Almaguer	Cauca	Municipio	yaigoje-rio apaporis	Tunjuelito	Andes						
+Almeida	Boyacá	Municipio	puerto nariño	Bosa	Buenos Aires						
+Alpujarra	Tolima	Municipio	cothue-putumayo	Kennedy	San José						
+Altamira	Huila	Municipio	andoque de aduche	Fontibon	Santa Rita						
+Alto Baudó	Chocó	Municipio	nunuya de villa azul	Engativa	Tapartó						
+Altos del Rosario	Bolívar	Municipio	polines	Suba	Santa Inés						
+Alvarado	Tolima	Municipio	amparrado-alto-medio y quebrada chontaduro	Barrios Unidos	La Piedra						
+Amagá	Antioquia	Municipio	cañaverales antado	Teusaquillo	San Bartolo						
+Amalfi	Antioquia	Municipio	chimurro-nendo	Los Martires	Angelópolis						
+Ambalema	Tolima	Municipio	chuscal tuguridocito	Antonio Nariño	La Estación						
+Anapoima	Cundinamarca	Municipio	sever	Puente Aranda	La Clara						
+Ancuya	Nariño	Municipio	jenaturado	Candelaria	La Miranda						
+Andalucía	Valle del Cauca	Municipio	pavarando-amparrado medio	Rafael Uribe Uribe	Angostura						
+Andes	Antioquia	Municipio	chaquenoda	Ciudad Bolivar	Anorí						
+Angelópolis	Antioquia	Municipio	murri-pantanos	Sumapaz	Liberia						
+Angostura	Antioquia	Municipio	san matias o jai-dukama	Comuna 01	Montefrío						
+Anolaima	Cundinamarca	Municipio	cristiania	Comuna 02	Santo Domingo						
+Anorí	Antioquia	Municipio	rio murindo	Comuna 03	Cristalinas						
+Anserma	Caldas	Municipio	rio chajerado	Comuna 04	Las Nieves						
+Ansermanuevo	Valle del Cauca	Municipio	chontadural-cañero	Comuna 05	Madre Seca						
+Anzá	Antioquia	Municipio	caiman nuevo	Comuna 06	Santafé De Antioquia						
+Anzoátegui	Tolima	Municipio	caiman nuevo	Comuna 07	Cativo						
+Apartadó	Antioquia	Municipio	el volao	Comuna 08	Guasabra						
+Apía	Risaralda	Municipio	tagual-la po	Comuna 09	Las Azules						
+Apulo	Risaralda	Municipio	jaidezave	Comuna 10	Tonusco Arriba						
+Aquitania	Boyacá	Municipio	majore-ambura	Comuna 11	El Pescado						
+Aracataca	Magdalena	Municipio	valle de perdidas jengameconda	Comuna 12	Sabanas						
+Aranzazu	Caldas	Municipio	el salado	Comuna 13	Anza						
+Aratoca	Santander	Municipio	guaguando	Comuna 14	Guintar						
+Arauca	Arauca	Municipio	jengado-apartado	Comuna 15	La Cholina						
+Arauquita	Arauca	Municipio	rio jarapeto	Atardeceres	Los Llanos						
+Arbeláez	Cundinamarca	Municipio	el zamuro	San Jose	La Cejita						
+Arboleda	Nariño	Municipio	la voragine-la ilusion	Cumanday	La Higuina						
+Arboledas	Norte de Santander	Municipio	matecandela	La Estación	Apartadó						
+Arboletes	Antioquia	Municipio	san jose de lipa (conversion)	Ciudadela Del Norte	San José De Apartadó						
+Arcabuco	Boyacá	Municipio	el vigia 	Ecoturistico Cerro De Oro	Churidó						
+Arenal	Bolívar	Municipio	cusay-la colorada	Tesorito	Zungo Carretera						
+Argelia	Antioquia	Municipio	angostura	Palogrande	Los Naranjales						
+Argelia	Cauca	Municipio	caño claro	Universitaria	Vijagual						
+Argelia	Valle del Cauca	Municipio	cuiloto ii	La Fuente	El Reposo						
+Ariguaní	Magdalena	Municipio	genareros	La Macarena	El Salvador						
+Arjona	Bolívar	Municipio	julieros y velazqueros	Comuna 01	Puerto Giron						
+Armenia	Antioquia	Municipio	la esperanza	Comuna 02	Arboletes						
+Armenia	Quindío	Municipio	los iguanitos	Comuna 03	El Carmelo						
+Armero	Tolima	Municipio	macarieros san jose	Comuna 04	Las Naranjitas						
+Arroyohondo	Bolívar	Municipio	parreros	Comuna 05	El Yeso						
+Astrea	Cesar	Municipio	puyeros	Comuna 06	La Trinidad						
+Ataco	Tolima	Municipio	roqueros el dorado	Comuna 01	Las Platas (Santafé)						
+Ayapel	Córdoba	Municipio	sabanas de curripao	Comuna 02	La Candelaria						
+Bagadó	Chocó	Municipio	unido u'wa	Comuna 03	El Guadual						
+Bahía Solano	Chocó	Municipio	unido u'wa	Comuna 04	Arenosa Carmelo						
+Bajo Baudó	Chocó	Municipio	unido u'wa	Comuna 05	Barrancuda						
+Balboa	Cauca	Municipio	unido u'wa	Comuna 06	La Atoyosa						
+Balboa	Risaralda	Municipio	unido u'wa	Comuna 07	Pueblo Chino						
+Baranoa	Atlántico	Municipio	unido u'wa	Comuna 08	San José Del Carmelo						
+Baraya	Huila	Municipio	san juan de los parentes	Comuna 09	Argelia						
+Barbacoas	Nariño	Municipio	totumal	Comuna 10	Armenia						
+Barbosa	Antioquia	Municipio	cañamomo-lomaprieta	Comuna 01	La Herradura						
+Barbosa	Santander	Municipio	cañamomo-lomaprieta	Comuna 02	El Socorro						
+Barichara	Santander	Municipio	la montaña	Comuna 03	Mojones						
+Barranca de Upía	Meta	Municipio	la albania	Comuna 04	Cartagüeño						
+Barrancabermeja	Santander	Municipio	la albania	Comuna 05	Filo Seco						
+Barrancas	La Guajira	Municipio	el guayabal	Comuna 06	La Pescadora						
+Barranco de Loba	Bolívar	Municipio	la esperanza	Comuna 07	La Quiebra						
+Barranquilla	Atlántico	Municipio	honduras	Comuna 08	Palmichal						
+Becerril	Cesar	Municipio	el cedrito	Comuna 09	Palo Blanco						
+Belalcázar	Caldas	Municipio	aguanegra	Comuna 10	Barbosa						
+Belén	Boyacá	Municipio	hericha	Villa Santana	Hatillo						
+Belén	Nariño	Municipio	getucha	Rio Otun	El Tablazo						
+Belén de los Andaquíes	Caquetá	Municipio	gorgonia	Centro	El Verde						
+Belén de Umbría	Risaralda	Municipio	jacome	Villavicencio	El Guayabo						
+Bello	Antioquia	Municipio	la esperanza	Oriente	Las Victorias						
+Belmira	Antioquia	Municipio	maticuru	Universidad	Aguas Claras						
+Beltrán	Cundinamarca	Municipio	san luis	Boston	Popalito						
+Berbeo	Boyacá	Municipio	siberia 	Jardin	Filoverde						
+Betania	Antioquia	Municipio	el portal	Cuba	Yarumito						
+Betéitiva	Boyacá	Municipio	san antonio de fragua	Consota	Tablazo Hatillo						
+Betulia	Antioquia	Municipio	san miguel 	Olimpica	Belmira						
+Betulia	Santander	Municipio	altamira	Ferrocarril	Labores						
+Bituima	Cundinamarca	Municipio	yaguara ii-llanos del yari	San Joaquin	Quebraditas						
+Boavita	Boyacá	Municipio	aguas negras	Perla Del Otun	Playas						
+Bochalema	Norte de Santander	Municipio	mesai	El Oso	Bello						
+Bogotá	Cundinamarca	Municipio	coropoya	San Nicolas	San Félix						
+Bojacá	Cundinamarca	Municipio	cuerazo	El Rocio	El Pinar						
+Bojayá	Chocó	Municipio	el diamante	Del Cafe	El Albergue						
+Bolívar	Antioquia	Municipio	el quince	El Poblado	Hato Viejo						
+Bolívar	Cauca	Municipio	el triunfo	Aeropuerto	La China						
+Bolívar	Santander	Municipio	jerico-consaya-peñas altas	Comuna 01	La						
+Bolívar	Valle del Cauca	Municipio	la cerinda	Comuna 02	Betania						
+Bosconia	Cesar	Municipio	huitoto de monochoa	Comuna 03	San Luis						
+Boyacá	Boyacá	Municipio	niñeras	Comuna 04	Betulia						
+Brazuelo de Papayal	Bolívar	Municipio	peñas rojas	Comuna 05	Altamira						
+Briceño	Antioquia	Municipio	puerto naranjo	Comuna 06	Ciudad Bolívar						
+Briceño	Boyacá	Municipio	puerto zabalo-los monos	Comuna 07	Alfonso López						
+Bucaramanga	Santander	Municipio	san miguel	Comuna 08	San Bernardo De Los Farallones						
+Bucarasica	Norte de Santander	Municipio	witora o huitora	Comuna 09	San Gregorio						
+Buenaventura	Valle del Cauca	Municipio	cusumbe-agua blanca	Comuna 10	La Linda						
+Buenavista	Boyacá	Municipio	caño mochuelo-hato corozal	Comuna 11	Villa Alegría						
+Buenavista	Córdoba	Municipio	caño mochuelo-hato corozal	Comuna 12	Briceño						
+Buenavista	Quindío	Municipio	el consejo  	Norte	Berlín (Pueblo Nuevo)						
+Buenavista	Sucre	Municipio	el duya  	Nororiental	El Roblal						
+Buenos Aires	Cauca	Municipio	el medano  	San Francisco	Las Auras						
+Buesaco	Nariño	Municipio	el saladillo  	Occidental	Buriticá						
+Buga	Valle del Cauca	Municipio	el suspiro  	Garcia Rovira	El Naranjo						
+Bugalagrande	Valle del Cauca	Municipio	macucuana  	La Concordia	Guarco						
+Buriticá	Antioquia	Municipio	paravare  	Ciudadela Real De Minas	Tabacal						
+Busbanzá	Boyacá	Municipio	san juanito  	Suroccidente	Urarco						
+Cabrera	Cundinamarca	Municipio	chaparral y barro negro 	La Pedregosa	La Angelina						
+Cabrera	Santander	Municipio	caquiona	Provenza	Cáceres						
+Cabuyaro	Meta	Municipio	la paila-naya	Sur	El Jardín (Tamaná)						
+Cáceres	Antioquia	Municipio	las delicias	Cabecera Del Llano	Guarumo						
+Cachipay	Cundinamarca	Municipio	las delicias	Oriental	Manizales						
+Cáchira	Norte de Santander	Municipio	la aguada-san antonio	Morrorico	Puerto Bélgica						
+Cácota	Norte de Santander	Municipio	laguna siberia	Centro	Piamonte						
+Caicedo	Antioquia	Municipio	laguna siberia	Tejar	Nueva Esperanza						
+Caicedonia	Valle del Cauca	Municipio	pioya	Mutis	Río Man						
+Caimito	Sucre	Municipio	pueblo nuevo	Comuna 01	Caicedo						
+Cajamarca	Tolima	Municipio	san lorenzo de caldono 	Comuna 02	Asesí						
+Cajibío	Cauca	Municipio	corinto	Comuna 03	La Salazar						
+Cajicá	Cundinamarca	Municipio	corinto	Comuna 04	Caldas						
+Calamar	Bolívar	Municipio	alto del rey	Comuna 05	El Caño						
+Calamar	Guaviare	Municipio	san andres de pisimbala	Comuna 06	La Raya						
+Calarcá	Quindío	Municipio	santa rosa de capisco	Comuna 07	La Miel						
+Caldas	Antioquia	Municipio	tumbichucue	Comuna 08	La Corrala						
+Caldas	Boyacá	Municipio	yaquiva	Comuna 09	Primavera						
+Caldono	Cauca	Municipio	jambalo	Comuna 10	El Raizal						
+Cali	Valle del Cauca	Municipio	guachicono	Comuna 11	La Salada Parte Baja						
+California	Santander	Municipio	pancitara	Comuna 12	La Tolva						
+Calima	Valle del Cauca	Municipio	iguana	Comuna 13	La Valeria						
+Caloto	Cauca	Municipio	agua negra	Comuna 14	Campamento						
+Campamento	Antioquia	Municipio	chimborazo	Comuna 15	La Chiquita						
+Campo de la Cruz	Atlántico	Municipio	honduras	Comuna 16	La Solita						
+Campoalegre	Huila	Municipio	avirama	Comuna 17	Llanadas						
+Campohermoso	Boyacá	Municipio	belalcazar	Comuna 18	Morropelón						
+Canalete	Córdoba	Municipio	chinas	Comuna 19	Los Chorros						
+Candelaria	Atlántico	Municipio	huila	Comuna 20	Cañasgordas						
+Candelaria	Valle del Cauca	Municipio	lame	Comuna 21	Cestillal						
+Cantagallo	Bolívar	Municipio	mosoco	Comuna 22	Juntas De Uramita						
+Cantón de San Pablo	Chocó	Municipio	san jose	Comuna 01	San Pascual						
+Cañasgordas	Antioquia	Municipio	suin	Comuna 02	Versalles						
+Caparrapí	Cundinamarca	Municipio	talaga	Comuna 03	La Balsa						
+Capitanejo	Santander	Municipio	toez	Comuna 04	El Madero						
+Cáqueza	Cundinamarca	Municipio	togoima		Caracolí						
+Caracolí	Antioquia	Municipio	vitonco		Sardinas						
+Caramanta	Antioquia	Municipio	guayuyaco		Cascaron						
+Carcasí	Santander	Municipio	la leona		El Bagre						
+Carepa	Antioquia	Municipio	las brisas		Las Águilas						
+Carmen de Apicalá	Tolima	Municipio	las brisas		Caramanta						
+Carmen de Carupa	Cundinamarca	Municipio	san rafael		Alegrías						
+Carolina del Príncipe	Antioquia	Municipio	la maria		Sucre						
+Cartagena de Indias	Bolívar	Municipio	paez de quintana		Barro Blanco						
+Cartagena del Chairá	Caquetá	Municipio	poblazon		Chirapoto						
+Cartago	Valle del Cauca	Municipio	coconuco		Carepa						
+Carurú	Vaupés	Municipio	paletara		Piedras Blancas						
+Casabianca	Tolima	Municipio	paletara		Zungo Embarcadero (Pueblo Nuevo)						
+Castilla la Nueva	Meta	Municipio	purace		Zungo Embarcadero (11 De Noviembre)						
+Caucasia	Antioquia	Municipio	san sebastian		Casa Verde						
+Cepitá	Santander	Municipio	el descanse		El Encanto						
+Cereté	Córdoba	Municipio	el descanse		Zungo Embarcadero (28 De Octubre)						
+Cerinza	Boyacá	Municipio	canoas		El Carmen De Viboral						
+Cerrito	Santander	Municipio	guadualito		La Chapa						
+Cerro de San Antonio	Magdalena	Municipio	la concepcion		La Esperanza						
+Cértegui	Chocó	Municipio	tigres y munchique		La Aurora (Las Brisas)						
+Chachagüí	Nariño	Municipio	ambalo		La Madera						
+Chaguaní	Cundinamarca	Municipio	guambia		Carolina						
+Chalán	Sucre	Municipio	pitayo		Caucasia						
+Chámeza	Casanare	Municipio	quichaya		Cuturú						
+Chaparral	Tolima	Municipio	quizgo		Margento						
+Charalá	Santander	Municipio	tumburao		Colombia						
+Charta	Santander	Municipio	rio blanco		Palanca						
+Chía	Cundinamarca	Municipio	calle santa rosa - rio saija		Palomar						
+Chibolo	Magdalena	Municipio	rio guangui		Santa Rosita						
+Chigorodó	Antioquia	Municipio	infi		Puerto Triana						
+Chima	Santander	Municipio	san francisco		La Ilusión						
+Chimá	Córdoba	Municipio	tacueyo		Cacerí						
+Chimichagua	Cesar	Municipio	toribio		El Pando						
+Chinácota	Norte de Santander	Municipio	jebala		Alegre						
+Chinavita	Boyacá	Municipio	novirao 		El Chino						
+Chinchiná	Caldas	Municipio	paniquita		La Esmeralda						
+Chinú	Córdoba	Municipio	polindara		La Union						
+Chipaque	Cundinamarca	Municipio	totoro		Las Malvinas						
+Chipatá	Santander	Municipio	iroka		Puerto España						
+Chiquinquirá	Boyacá	Municipio	menkue-misaya y la pista		Villa Del Socorro						
+Chíquiza	Boyacá	Municipio	campoalegre 		Chigorodó						
+Chiriguaná	Cesar	Municipio	socorpa		Barranquillita						
+Chiscas	Boyacá	Municipio	businchama		Cisneros						
+Chita	Boyacá	Municipio	arhuaco de la sierra		Fátima						
+Chitagá	Norte de Santander	Municipio	arhuaco de la sierra		El Limón						
+Chitaraque	Boyacá	Municipio	arhuaco de la sierra		Cocorná						
+Chivatá	Boyacá	Municipio	kogui-malayo-arhuaco		Agua Linda						
+Chivolo	Magdalena	Municipio	kogui-malayo-arhuaco		La Piñuela						
+Chivor	Boyacá	Municipio	kogui-malayo-arhuaco		Las Cruces						
+Choachí	Cundinamarca	Municipio	kogui-malayo-arhuaco		La Primavera						
+Chocontá	Cundinamarca	Municipio	kogui-malayo-arhuaco		La Florida						
+Cicuco	Bolívar	Municipio	kogui-malayo-arhuaco		Pailania						
+Ciénaga	Magdalena	Municipio	kogui-malayo-arhuaco		Concepción						
+Ciénaga de Oro	Córdoba	Municipio	agua clara-bellaluz		Concordia						
+Ciénega	Boyacá	Municipio	dominico-londoño-partado		El Golpe						
+Cimitarra	Santander	Municipio	puerto alegre-la divisa		Salazar						
+Circasia	Quindío	Municipio	rios catru y dubasa		Copacabana						
+Cisneros	Antioquia	Municipio	rios jurubida-chori-alto baudo		Salado						
+Clemencia	Bolívar	Municipio	rios jurubida-chori-alto baudo		Cabuyal						
+Cocorná	Antioquia	Municipio	tahami del andagueda		Zarzal (La Luz)						
+Coello	Tolima	Municipio	valle boroboro-pozo manza-brazo		Alvarado						
+Cogua	Cundinamarca	Municipio	bellavista-union pitalito		El 						
+Colombia	Huila	Municipio	la juagua-guachal-pitalito		El Noral						
+Colón	Nariño	Municipio	ordo-sivaru-aguaclara		Dabeiba						
+Colón	Putumayo	Municipio	pavasa-jella		Galilea						
+Colosó	Sucre	Municipio	puerto libre-rio pepe		San José De Urama (Uramagrande)						
+Cómbita	Boyacá	Municipio	quebrada quera		Carra						
+Concepción	Antioquia	Municipio	rio orpua		Armenia (Camparrusia)						
+Concepción	Santander	Municipio	rio purricha		Llano Grande						
+Concordia	Antioquia	Municipio	rio torreido-chimani		Las Cruces De Urama						
+Concordia	Magdalena	Municipio	santa cecilia-quebrada oro		Arenera						
+Condoto	Chocó	Municipio	santa rosa de ijua		Chimiandó						
+Confines	Santander	Municipio	trapiche-rio pepe		El Botón						
+Consacá	Nariño	Municipio	alto rio bojaya		Camparrusia						
+Contadero	Nariño	Municipio	alto rio cuia		El Encierro						
+Contratación	Santander	Municipio	buchado-amparrado		Don Matías						
+Convención	Norte de Santander	Municipio	napipi		Bellavista						
+Copacabana	Antioquia	Municipio	opogado-guaguando		Riogrande						
+Coper	Boyacá	Municipio	rio uva y pogue		Ebéjico						
+Córdoba	Bolívar	Municipio	tungina-apartado-zuñiga		Brasil						
+Córdoba	Nariño	Municipio	el doce-quebrada borbollon		Sevilla						
+Córdoba	Quindío	Municipio	rio la playa-choco		Puerto Claver						
+Corinto	Cauca	Municipio	sabaleta		Puerto López						
+Coromoro	Santander	Municipio	"puado, matare, la lerma, terdo"		El Real						
+Corozal	Sucre	Municipio	"puado, matare, la lerma, terdo"		La Corona						
+Corrales	Boyacá	Municipio	union choco san cristobal		Las Negritas						
+Cota	Cundinamarca	Municipio	guayabal de partado		Santa Bárbara						
+Cotorra	Córdoba	Municipio	jurado-choco		Muqui						
+Covarachía	Boyacá	Municipio	santa marta de curiche		Entrerrios						
+Coveñas	Sucre	Municipio	buenavista		Calle 10						
+Coyaima	Tolima	Municipio	burujon-la union san bernardo		Calle La Paz						
+Cravo Norte	Arauca	Municipio	chagpien-tordo		El Altico						
+Cuaspud	Nariño	Municipio	docordo-balsalito		Guanteros						
+Cubará	Boyacá	Municipio	rio pichima		La Bomba						
+Cubarral	Meta	Municipio	rio taparal		Minuto De Dios						
+Cucaita	Boyacá	Municipio	santa maria de pangala		Mirador						
+Cucunubá	Cundinamarca	Municipio	tiosilidio		Obrero						
+Cúcuta	Norte de Santander	Municipio	togoroma		San Isidro						
+Cucutilla	Norte de Santander	Municipio	hurtado-tegavera		San Vicente						
+Cuítiva	Boyacá	Municipio	rio lanas o capa		Toñito Ruíz						
+Cumaral	Meta	Municipio	rio mumbu		Envigado						
+Cumaribo	Vichada	Municipio	wanchirado-choco		Las Palmas						
+Cumbal	Nariño	Municipio	rio nuqui		Fredonia						
+Cumbitara	Nariño	Municipio	rio pangui		Los Palomos						
+Cunday	Tolima	Municipio	alto rio buey		Minas						
+Curillo	Caquetá	Municipio	alto rio tagachi		Iglesias						
+Curití	Santander	Municipio	ame		Marsella						
+Curumaní	Cesar	Municipio	"bete-auro bete,auro del buey"		Combia Grande						
+Dabeiba	Antioquia	Municipio	caimanero de jampapa		Zabaletas						
+Dagua	Valle del Cauca	Municipio	chique-rio tangui		El Zancudo						
+Dibulla	La Guajira	Municipio	el veinte playa alta y el noventa		La Loma Del Plan						
+Distracción	La Guajira	Municipio	el veintiuno		El Plan						
+Dolores	Tolima	Municipio	motordo		Uvital						
+Donmatías	Antioquia	Municipio	rio bebarama		Piedra						
+Dosquebradas	Risaralda	Municipio	rio icho quebrada baratudo		Frontino						
+Duitama	Boyacá	Municipio	rio munguido		Carauta						
+Duranía	Norte de Santander	Municipio	rio negua		El Cerro						
+Ebéjico	Antioquia	Municipio	rios pato-jengado		Chontaduro						
+El Águila	Valle del Cauca	Municipio	jagual rio chintado		Murrí						
+El Atrato	Chocó	Municipio	jagual rio chintado		Musinga						
+El Bagre	Antioquia	Municipio	peña blanca-rio truando		Nutibara						
+El Banco	Magdalena	Municipio	peranchito		Pontón						
+El Cairo	Valle del Cauca	Municipio	perancho		Fuemía						
+El Calvario	Meta	Municipio	rio domingodo		San Lazaro						
+El Carmen	Norte de Santander	Municipio	rio domingodo		Noboga						
+El Carmen de Atrato	Chocó	Municipio	rio la raya		Jengamecoda						
+El Carmen de Bolívar	Bolívar	Municipio	rio quiparado		Pantanos						
+El Carmen de Chucurí	Santander	Municipio	salaqui-pavarando		La Clarita (Las Minas)						
+El Carmen de Viboral	Antioquia	Municipio	yarumal y el barranco		Giraldo						
+El Carmen del Darién	Chocó	Municipio	copeg del rio ingara 		Manglar						
+El Castillo	Meta	Municipio	bochoroma-bochoromacito		Pingurto						
+El Cerrito	Valle del Cauca	Municipio	mondo-mondocito		Cuajarón						
+El Charco	Nariño	Municipio	tarena		El Tambo						
+El Cocuy	Boyacá	Municipio	arquia		Sierrita						
+El Colegio	Cundinamarca	Municipio	cuti		Tinajitas						
+El Copey	Cesar	Municipio	"tanela, (dadichi, citara)"		Girardota						
+El Doncello	Caquetá	Municipio	quebrada cañaveral-r san jorge		San Andrés						
+El Dorado	Meta	Municipio	san andres de sotavento		Juan Cojo						
+El Dovio	Valle del Cauca	Municipio	san andres de sotavento		San Esteban						
+El Espinal	Tolima	Municipio	san andres de sotavento		Gómez Plata						
+El Espino	Boyacá	Municipio	san andres de sotavento		El Salto						
+El Guacamayo	Santander	Municipio	san andres de sotavento		San Matías						
+El Guamo	Bolívar	Municipio	alto sinu(karagavi e iwagado)		La Estrella						
+El Molino	La Guajira	Municipio	la puria		Vega De Botero						
+El Paso	Cesar	Municipio	arrecifal		Cañaveral						
+El Paujil	Caquetá	Municipio	guaco bajo-guaco alto		El Brasil						
+El Peñol	Antioquia	Municipio	laguna curvina-sapuara		Granada						
+El Peñol	Nariño	Municipio	minitas-miralindo		Santa Ana						
+El Peñón	Bolívar	Municipio	murcielago-altamira		Guadalupe						
+El Peñón	Cundinamarca	Municipio	pueblo nuevo-laguna colorada		Barrio Nuevo						
+El Peñón	Santander	Municipio	almidon la ceiba		El Machete						
+El Piñón	Magdalena	Municipio	bachaco buenavista		La Bramadora						
+El Pital	Huila	Municipio	bajo rio guainia y rio negro		Acacias						
+El Playón	Santander	Municipio	caranacoa yuri laguna morocoto		Guarne						
+El Retén	Magdalena	Municipio	carrizal		Guatape						
+El Retiro	Antioquia	Municipio	chigüiro		Heliconia						
+El Retorno	Guaviare	Municipio	coayare el coco		Alto Del Corral						
+El Roble	Sucre	Municipio	concordia		Pueblito						
+El Rosal	Cundinamarca	Municipio	cuenca media y alta rio inirida		Llanos De San José						
+El Rosario	Nariño	Municipio	"cumaral, guamuco"		La Chorrera						
+El Santuario	Antioquia	Municipio	el venado		El Hatillo						
+El Socorro	Santander	Municipio	parte alta rio guainia		La Pava						
+El Tablón	Nariño	Municipio	paujil		Hispania						
+El Tambo	Cauca	Municipio	remanso chorro bocon		Itagüí						
+El Tambo	Nariño	Municipio	rios atabapo e inirida (cacahual)		Los Gómez						
+El Tarra	Norte de Santander	Municipio	rios cuiari e isana  (pto.colombia)		El Ajizal						
+El Zulia	Norte de Santander	Municipio	tonina-sejal-san jose		La Loma De Los Zuleta						
+Elías	Huila	Municipio	la yuquera		El Pedregal						
+Encino	Santander	Municipio	la asuncion		El Porvenir						
+Entrerríos	Antioquia	Municipio	nukak-maku		El Progreso						
+Envigado	Antioquia	Municipio	nukak-maku		La María						
+Facatativá	Cundinamarca	Municipio	barranquillita		Los Olivares						
+Falán	Tolima	Municipio	lagos del dorado y otros		Ituango						
+Filadelfia	Caldas	Municipio	barranco ceiba-laguna araguato		Badillo						
+Filandia	Quindío	Municipio	barranco colorado		El Aro (Builópolis)						
+Firavitoba	Boyacá	Municipio	barrancon		La Granja						
+Flandes	Tolima	Municipio	caño negro		Pascuita						
+Florencia	Cauca	Municipio	corocoro		Santa Lucía						
+Florencia	Caquetá	Municipio	la fuga		Pío X La Fondita						
+Floresta	Boyacá	Municipio	panure (venezuela)		Jardín						
+Florián	Santander	Municipio	la gaitana		Cristianía						
+Florida	Valle del Cauca	Municipio	tama-paez-la gabriela		La Cascada						
+Floridablanca	Santander	Municipio	bache		La Casiana						
+Fómeque	Cundinamarca	Municipio	tamas del caguan		Jericó						
+Fonseca	La Guajira	Municipio	la tatacoa		Guacamayal						
+Fortul	Arauca	Municipio	el zahino guayabito muriaytuy		El Sacatín						
+Fosca	Cundinamarca	Municipio	provincial		La Fe						
+Francisco Pizarro	Nariño	Municipio	san francisco		La Ceja						
+Fredonia	Antioquia	Municipio	trupiogacho-la meseta		Vueltecitas						
+Fresno	Tolima	Municipio	caicemapa		San Judas						
+Frontino	Antioquia	Municipio	potrerito 		Santo Domingo Sabio						
+Fuente de Oro	Meta	Municipio	mayabangloma		Toledo						
+Fundación	Magdalena	Municipio	wayuu de lomamato  		La Tablaza						
+Funes	Nariño	Municipio	alta y media guajira		Pueblo Viejo						
+Funza	Cundinamarca	Municipio	alta y media guajira		Vieja						
+Fúquene	Cundinamarca	Municipio	alta y media guajira		El Pedrero						
+Fusagasugá	Cundinamarca	Municipio	alta y media guajira		La Tablacita						
+Gachalá	Cundinamarca	Municipio	cuatro de noviembre		Sagrada 						
+Gachancipá	Cundinamarca	Municipio	las delicias		San José (Meleguindo)						
+Gachantivá	Boyacá	Municipio	chimila de san angel		Tarapacá						
+Gachetá	Cundinamarca	Municipio	caño jabon 		San Miguel						
+Galán	Santander	Municipio	caño ovejas 		La Pintada						
+Galapa	Atlántico	Municipio	charco caiman		La Unión						
+Galeras	Sucre	Municipio	macuare		Mesopotamia						
+Gama	Cundinamarca	Municipio	paez de villa lucia		Chuscalito						
+Gamarra	Cesar	Municipio	la sal		La Concha						
+Gámbita	Santander	Municipio	awaliba (abariba)		María Auxiliadora						
+Gámeza	Boyacá	Municipio	corozal tapaojo		Liborina						
+Garagoa	Boyacá	Municipio	domo planas (san rafael)		El Carmen (La Venta)						
+Garzón	Huila	Municipio	el tigre		La Honda						
+Génova	Quindío	Municipio	el unuma		La Merced (Playón)						
+Gigante	Huila	Municipio	el unuma (parte)		San Diego (Placita)						
+Ginebra	Valle del Cauca	Municipio	ibibi (iwiwi)		Curití						
+Giraldo	Antioquia	Municipio	"wacoyo (corocito,yopalito,g.)"		El Potrero						
+Girardot	Cundinamarca	Municipio	walliani		San Cristóbal						
+Girardota	Antioquia	Municipio	el turpial		Belén						
+Girón	Santander	Municipio	la victoria (umapo)		Sobresabana						
+Gómez Plata	Antioquia	Municipio	aldana  		El Guamal						
+González	Cesar	Municipio	guelnambi-carano		Los Peñoles						
+Gramalote	Norte de Santander	Municipio	pipalta palbi yaguapi		Maceo						
+Granada	Antioquia	Municipio	cordoba (males)		La Susana						
+Granada	Cundinamarca	Municipio	carlosama		La Floresta						
+Granada	Meta	Municipio	chiles		San José Del Nus (San José De Nuestra Señora)						
+Guaca	Santander	Municipio	cumbal		Marinilla						
+Guacamayas	Boyacá	Municipio	mayasquer		Montebello						
+Guacarí	Valle del Cauca	Municipio	panan  		Sabaletas						
+Guachené	Cauca	Municipio	aponte		Monte De Venado						
+Guachetá	Cundinamarca	Municipio	colimba		Murindó						
+Guachucal	Nariño	Municipio	guachucal		Opogado						
+Guadalupe	Antioquia	Municipio	muellamues		San Alejandro						
+Guadalupe	Huila	Municipio	ipiales  		Guadualito						
+Guadalupe	Santander	Municipio	san juan		Jedega						
+Guaduas	Cundinamarca	Municipio	yaramal  		Tadía						
+Guaitarilla	Nariño	Municipio	mallama		Mutatá						
+Gualmatán	Nariño	Municipio	rio sanquianga		Bejuquillo						
+Guamal	Magdalena	Municipio	rio satinga (bacao)		Pavarandocito						
+Guamal	Meta	Municipio	potosi		Villa Arteaga						
+Guamo	Tolima	Municipio	awa del alto albi		Pavarando Grande						
+Guapí	Cauca	Municipio	cuasbil-la faldada		Caucheras						
+Guapotá	Santander	Municipio	cuascuabi-paldubi		Nariño						
+Guaranda	Sucre	Municipio	cuchilla-palmar		Puerto Venus (Samaná)						
+Guarne	Antioquia	Municipio	el sande		El Faro						
+Guasca	Cundinamarca	Municipio	guadual-cumbas-invina-arrayan		Necoclí						
+Guatapé	Antioquia	Municipio	gualcala		El Totumo						
+Guataquí	Cundinamarca	Municipio	guambi-yaslambi		Mulatos						
+Guatavita	Cundinamarca	Municipio	nulpe medio-alto rio san juan		Pueblo Nuevo						
+Guateque	Boyacá	Municipio	pialapi pueblo viejo		Zapata						
+Guática	Risaralda	Municipio	pingullos-sardinero		Caribia						
+Guavatá	Santander	Municipio	ramos-mongon-manchuria		Vereda Blanca						
+Guayabal de Síquima	Cundinamarca	Municipio	guachavez 		Vereda El Bobal						
+Guayabetal	Cundinamarca	Municipio	el gran sabalo		Las Changas						
+Guayatá	Boyacá	Municipio	gran rosario -calvi-las peñas-otros		El Mellito						
+Güepsa	Santander	Municipio	la turbia		Nechí						
+Güicán	Boyacá	Municipio	piedra sellada-q.tronqueria		Bijagual						
+Gutiérrez	Cundinamarca	Municipio	san agustin-la floresta		Colorado						
+Hacarí	Norte de Santander	Municipio	tuquerres		Las Flores						
+Hatillo de Loba	Bolívar	Municipio	yascual		Cargueros						
+Hato Corozal	Casanare	Municipio	gabarra		Olaya						
+Hato	Santander	Municipio	gabarra		Peñol						
+Hatonuevo	La Guajira	Municipio	gabarra		Peque						
+Heliconia	Antioquia	Municipio	motilon-bari		Barbacoas						
+Herrán	Norte de Santander	Municipio	motilon-bari		Lomitas						
+Herveo	Tolima	Municipio	motilon-bari		La Vega Del Inglés						
+Hispania	Antioquia	Municipio	motilon-bari		El Agrio						
+Hobo	Huila	Municipio	valle de sibundoy		Jerigua						
+Honda	Tolima	Municipio	valle de sibundoy		Pueblorrico						
+Ibagué	Tolima	Municipio	valle de sibundoy		California						
+Icononzo	Tolima	Municipio	valle de sibundoy		Sinaí						
+Iles	Nariño	Municipio	choromando alto y medio		Puerto Berrío						
+Imués	Nariño	Municipio	inga de condagua		Puerto Murillo						
+Inírida	Guainía	Municipio	inga de puerto limon		Virginias						
+Inzá	Cauca	Municipio	inga-kamsa de mocoa		Cabañas						
+Ipiales	Nariño	Municipio	la aguadita		Cristalina						
+Íquira	Huila	Municipio	yunguillo		Malena						
+Isnos	Huila	Municipio	yunguillo		Calera						
+Itagüí	Antioquia	Municipio	la cristalina		Bodegas						
+Istmina	Chocó	Municipio	buenavista		Dorado/Calamar						
+Ituango	Antioquia	Municipio	santa cruz de piñuña blanco		La Carlota						
+Iza	Boyacá	Municipio	calenturas		Del Vapor						
+Jambaló	Cauca	Municipio	el descanso		Santa Martina						
+Jamundí	Valle del Cauca	Municipio	agua negra		Puerto Nare						
+Jardín	Antioquia	Municipio	calarca		Arabia						
+Jenesano	Boyacá	Municipio	cecilia cocha		Los Delirios						
+Jericó	Antioquia	Municipio	consara-mecaya		La Sierra						
+Jericó	Boyacá	Municipio	el hacha		La Pesca						
+Jerusalén	Cundinamarca	Municipio	el progreso		El Delirio						
+Jesús María	Santander	Municipio	el tablero		Las Angelitas						
+Jordán	Santander	Municipio	jirijiri		Puerto Triunfo						
+Juan	Atlántico	Municipio	la paya		Puerto Perales Nuevo						
+Junín	Cundinamarca	Municipio	lagarto cocha		Estación Cocorná						
+Juradó	Chocó	Municipio	witoto de tukunare		Doradal						
+La Apartada	Córdoba	Municipio	sibundoy parte alta		La Mercedes						
+La Argentina	Huila	Municipio	unificado chami rio san juan		Pita						
+La Belleza	Santander	Municipio	unificado chami rio san juan		Remedios						
+La Calera	Cundinamarca	Municipio	amayarco		La Cruzada						
+La Capilla	Boyacá	Municipio	chenche buenos aires tradicional		Santa Isabel						
+La Ceja	Antioquia	Municipio	chenche-socorro-los guayabos		Otul						
+La Celia	Risaralda	Municipio	el tambo		Martana						
+La Cruz	Nariño	Municipio	la tutira		Río Bagre						
+La Cumbre	Valle del Cauca	Municipio	las palmas		Retiro						
+La Dorada	Caldas	Municipio	nueva esperanza		Alto De Carrizales						
+La Esperanza	Norte de Santander	Municipio	potrerito-doyare		San Diego						
+La Estrella	Antioquia	Municipio	san miguel		El Chuscal						
+La Florida	Nariño	Municipio	santa marta palmar  		Lejos Del Nido						
+La Gloria	Cesar	Municipio	santa marta-diamante		Los Salados						
+La Jagua de Ibirico	Cesar	Municipio	totarco dinde tradicional		El Portento						
+La Jagua del Pilar	La Guajira	Municipio	totarco dinde-independiente		La Lorena						
+La Llanada	Nariño	Municipio	totarco niple		Martín Pescador						
+La Macarena	Meta	Municipio	totarco piedras		Rionegro						
+La Merced	Caldas	Municipio	totarco tamarindo		La Playa						
+La Mesa	Cundinamarca	Municipio	tres esquinas		Sabanalarga						
+La Montañita	Caquetá	Municipio	anacarco		El Junco						
+La Palma	Cundinamarca	Municipio	bateas		El Oro						
+La Paz	Cesar	Municipio	palma alta		Membrillal						
+La Paz	Santander	Municipio	pocharco		Pendiente						
+La Peña	Cundinamarca	Municipio	san miguel		Remartín						
+La Pintada	Antioquia	Municipio	tamirco		Sabaneta						
+La Plata	Huila	Municipio	tinajas		Cañaveralejo						
+La Playa de Belén	Norte de Santander	Municipio	aico  		La Inmaculada						
+La Primavera	Vichada	Municipio	guaipa centro		Pan De Azúcar						
+La Salina	Casanare	Municipio	guatavita tua 		La Doctora						
+La Sierra	Cauca	Municipio	la sortija		Las Lomitas						
+La Tebaida	Quindío	Municipio	nicolas ramirez		Las Brisas						
+La Tola	Nariño	Municipio	paso ancho-chicuambe		Loma Del Taburete Parte Baja						
+La Uvita	Boyacá	Municipio	recinto palmarosa		Los Henao						
+La Unión	Antioquia	Municipio	vuelta del rio		Playas Placer						
+La Unión	Nariño	Municipio	gaitania		Salgar						
+La Unión	Sucre	Municipio	las mercedes		El Concilio						
+La Unión	Valle del Cauca	Municipio	cañon rio san quinini		La Cámara						
+La Uribe	Meta	Municipio	rio garrapatas		La Margarita						
+La Vega	Cauca	Municipio	rio garrapatas		La Siberia						
+La Vega	Cundinamarca	Municipio	cabeceras		La Taborda						
+La Victoria	Boyacá	Municipio	chachajo		Peñalisa						
+La Victoria	Valle del Cauca	Municipio	guayacan-santa rosa		La Gulunga						
+La Virginia	Risaralda	Municipio	nuevo pitalito		San Andrés De Cuerquía						
+Labateca	Norte de Santander	Municipio	nuevo pitalito		San Carlos						
+Labranzagrande	Boyacá	Municipio	papayo		El Jordán						
+Landázuri	Santander	Municipio	rio dagua		Samaná						
+Lebrija	Santander	Municipio	rio naya (joaquincito)		Puerto Garza						
+Leiva	Nariño	Municipio	el triunfo-cristal paez		Dos Quebradas						
+Lejanías	Meta	Municipio	kwet wala (piedra grande)		La Hondita						
+Lenguazaque	Cundinamarca	Municipio	los niasa		Vallejuelo						
+Lérida	Tolima	Municipio	wasiruma 		San Francisco						
+Leticia	Amazonas	Municipio	bacati-arara		Aquitania						
+Líbano	Tolima	Municipio	bacati-arara 		San Jerónimo						
+Liborina	Antioquia	Municipio	parte oriental del vaupes		Los Cedros						
+Linares	Nariño	Municipio	parte oriental del vaupes		Llanos De San Juan						
+Litoral de San Juan	Chocó	Municipio	parte oriental del vaupes		Llanos De Aguirre						
+Lloró	Chocó	Municipio	parte oriental del vaupes		Mestizal						
+López de Micay	Cauca	Municipio	cali-barranquilla		Poleal						
+Lorica	Córdoba	Municipio	carpintero-palomas		Buenos Aires Parte Alta						
+Los Andes	Nariño	Municipio	chocon		El Calvario						
+Los Córdobas	Córdoba	Municipio	chololobo-matatu		El Pomar						
+Los Palmitos	Sucre	Municipio	egua-guariacana		La Ciénaga						
+Los Patios	Norte de Santander	Municipio	flores-sombrero		La Palma						
+Los Santos	Santander	Municipio	guacamaya mamiyare		Quimbayo						
+Lourdes	Norte de Santander	Municipio	kawanaruba		Veliguarín						
+Luruaco	Atlántico	Municipio	la esmeralda		San José De La Montaña						
+Macanal	Boyacá	Municipio	merey la veraita		San Juan De Urabá						
+Macaravita	Santander	Municipio	muco-mayoragua		Damaquiel						
+Maceo	Antioquia	Municipio	rio muco y guarrojo		San Juancito						
+Machetá	Cundinamarca	Municipio	rio siare-barranco lindo		Uveros						
+Madrid	Cundinamarca	Municipio	rio tomo y weberi		Siete Vueltas						
+Magangué	Bolívar	Municipio	san luis del tomo		San Nicolás Del Río						
+Magüí Payán	Nariño	Municipio	santa teresita del tuparro		El Silencio						
+Mahates	Bolívar	Municipio	saracure rio cada		El Prodigio						
+Maicao	La Guajira	Municipio	valdivia		Alta Vista						
+Majagual	Sucre	Municipio	campoalegre-ripialito		Salambrina						
+Málaga	Santander	Municipio	la pascua		Monteloro (La Josefina)						
+Malambo	Atlántico	Municipio	caño bachaco		La Tebaida						
+Mallama	Nariño	Municipio	caño guaripa		Sopetrán						
+Manatí	Atlántico	Municipio	caño hormiga		San Pedro De Los Milagros						
+Manaure Balcón del Cesar	Cesar	Municipio	caño mesetas-dagua		La Cuchilla						
+Manaure	La Guajira	Municipio	guacamayas-maipore		El Espinal						
+Maní	Casanare	Municipio	la llanura		Ovejas						
+Manizales	Caldas	Municipio	santa rosalia		La Lana						
+Manta	Cundinamarca	Municipio	altomira		Río Chico						
+Manzanares	Caldas	Municipio	la maria		San Pedro De Uraba						
+Mapiripán	Meta	Municipio	la palma		Santa Catalina						
+Margarita	Bolívar	Municipio	peñas del olvido		Arenas Monas						
+María la Baja	Bolívar	Municipio	el refugio		Zapindonga						
+Marinilla	Antioquia	Municipio	santa maria el charcon		Almagrás						
+Maripí	Boyacá	Municipio	yavilla ii		El						
+Mariquita	Tolima	Municipio	yarinal-san marcelino		El Zumbido						
+Marmato	Caldas	Municipio	yarinal-san marcelino		Molenillo						
+Marquetalia	Caldas	Municipio	santa rosa del guamuez		Pelayito						
+Marsella	Risaralda	Municipio	santa rosa de sucumbios		Quebrada Del Medio						
+Marulanda	Caldas	Municipio	afilador-campoalegre		Ralito						
+Matanza	Santander	Municipio	la maria		San Rafael						
+Medellín	Antioquia	Municipio	cibariza		El Bizcocho						
+Medio Atrato	Chocó	Municipio	playas de bojaba		San Roque						
+Medio Baudó	Chocó	Municipio	la loma		Cristales						
+Medio San Juan	Chocó	Municipio	tortugaña-telembi-otros		Providencia						
+Medina	Cundinamarca	Municipio	kamentza-biya		San José Del Nus						
+Melgar	Tolima	Municipio	nusido		Corrientes						
+Mercaderes	Cauca	Municipio	la isla		Damasco						
+Mesetas	Meta	Municipio	huellas		Trece De Junio						
+Miraflores	Boyacá	Municipio	rio bebara		El Helechal						
+Miraflores	Guaviare	Municipio	san jose amia de pato		Los Almendros						
+Miranda	Cauca	Municipio	pichicora		Yarumalito						
+Mistrató	Risaralda	Municipio	puerto libia tripicay		Santa Rosa De Osos						
+Mitú	Vaupés	Municipio	puerto antioquia		Aragón						
+Mocoa	Putumayo	Municipio	"laguna niñal, cucuy, lomabaja"		Hoyo Rico						
+Mogotes	Santander	Municipio	santa rosa cerro cucuy morichalviejo		San Pablo						
+Molagavita	Santander	Municipio	vuelta del alivio		Río Grande						
+Momil	Córdoba	Municipio	puerto viejo y puerto esperanza		Alto De La						
+Mompós	Bolívar	Municipio	monte harmon		El Caney						
+Mongua	Boyacá	Municipio	suratena		Llanos De Cuiva						
+Monguí	Boyacá	Municipio	vania chami de argelia		El Chaquiro						
+Moniquirá	Boyacá	Municipio	dachi drua chami		Malambo						
+Montebello	Antioquia	Municipio	lomitade curundo		Botero						
+Montecristo	Bolívar	Municipio	paina		Porcecito						
+Montelíbano	Córdoba	Municipio	la playa		Santiago						
+Montenegro	Quindío	Municipio	la mirla		Porce						
+Montería	Córdoba	Municipio	la gaitana		El Santuario						
+Monterrey	Casanare	Municipio	mañature		Segovia						
+Moñitos	Córdoba	Municipio	ondas del cafre		Fraguas						
+Morales	Bolívar	Municipio	los planes		Puerto Calavera						
+Morales	Cauca	Municipio	wasipungo		Campo Alegre						
+Morelia	Caquetá	Municipio	chenche buenos aires independiente		El Cenizo						
+Morroa	Sucre	Municipio	guasimal		El Cristo						
+Mosquera	Cundinamarca	Municipio	hilarquito		El Chispero						
+Mosquera	Nariño	Municipio	los angeles		La Caliente						
+Motavita	Boyacá	Municipio	pocara		Sonson						
+Murillo	Tolima	Municipio	potrerito		Alto De Sabanas						
+Murindó	Antioquia	Municipio	san diego		Los Medios						
+Mutatá	Antioquia	Municipio	santa marta inspeccion		Río Verde De Los Henaos						
+Mutiscua	Norte de Santander	Municipio	vencedor piriri		Río Verde De Los Montes						
+Muzo	Boyacá	Municipio	andabu		Los Potreros						
+Nariño	Antioquia	Municipio	jaikerazavi (abibe mutata)		La Danta						
+Nariño	Cundinamarca	Municipio	las playas		Jerusalén						
+Nariño	Nariño	Municipio	yaberarado (abibe chigorodo)		Córdoba						
+Nátaga	Huila	Municipio	bayoneros		Horizontes						
+Natagaima	Tolima	Municipio	cajaros		San Nicolás						
+Nechí	Antioquia	Municipio	valles del sol		El Rodeo						
+Necoclí	Antioquia	Municipio	isla del mono		Támesis						
+Neira	Caldas	Municipio	guarando carrizal		Palermo						
+Neiva	Huila	Municipio	miasa de partado		Tarazá						
+Nemocón	Cundinamarca	Municipio	mungarado		El Doce						
+Nilo	Cundinamarca	Municipio	piguambi palangala		Puerto Antioquia						
+Nimaima	Cundinamarca	Municipio	pulgande campoalegre		La Caucana						
+Nobsa	Boyacá	Municipio	chenche media luna		El Guaimaro						
+Nocaima	Cundinamarca	Municipio	rincon de anchique		Piedras						
+Norcasia	Caldas	Municipio	drua do (portales del rio)		Tarso						
+Norosí	Bolívar	Municipio	nasa kwe's kiwe		Titiribí						
+Nóvita	Chocó	Municipio	el vergel		La Meseta						
+Nueva Granada	Magdalena	Municipio	castilla - angosturas		Albania						
+Nuevo Colón	Boyacá	Municipio	puerto triunfo		Otramina						
+Nunchía	Casanare	Municipio	san pablo el para		Sitio Viejo						
+Nuquí	Chocó	Municipio	nasa kiwe		Corcovado						
+Obando	Valle del Cauca	Municipio	abejero		Balsal						
+Ocamonte	Santander	Municipio	sanquianguita		Bosque						
+Ocaña	Norte de Santander	Municipio	albania		Caracol						
+Oiba	Santander	Municipio	pacande		Falda Del Cauca						
+Oicatá	Boyacá	Municipio	yaco molana		Loma Del Guamo						
+Olaya	Antioquia	Municipio	nasa tha		Micos						
+Olaya Herrera	Nariño	Municipio	hermeregildo chakiama		Morro						
+Onzaga	Santander	Municipio	cananama		La Peña						
+Oporapa	Huila	Municipio	san lorenzo		Porvenir						
+Orito	Putumayo	Municipio	santa marta		Pueblito De Los Bolívares						
+Orocué	Casanare	Municipio	caño padilla		Escondido						
+Ortega	Tolima	Municipio	dearade - biakirude		Sinifana						
+Ospina	Nariño	Municipio	la cristalina		Volcán						
+Otanche	Boyacá	Municipio	okochi		Zancudo						
+Ovejas	Sucre	Municipio	cachivera de nare		Buenavista						
+Pachavita	Boyacá	Municipio	ukumari kankhe		El Valle						
+Pacho	Cundinamarca	Municipio	"el cedro, las peñas, la brava, pilvi"		Brugo						
+Pácora	Caldas	Municipio	chaluayaco		Distrito Especial De Turbo						
+Padilla	Cauca	Municipio	villa catalina de puerto rosario		Currulao						
+Páez	Cauca	Municipio	chaquira		Nueva Colonia						
+Páez	Boyacá	Municipio	pueblo nuevo		El Tres						
+Paicol	Huila	Municipio	ricaurte		Nuevo Oriente						
+Pailitas	Cesar	Municipio	cohetando		San Vicente Del Congo						
+Paime	Cundinamarca	Municipio	el rosario-bellavista-yucatan		Tie						
+Paipa	Boyacá	Municipio	nussi purru		Lomas Aisladas						
+Pajarito	Boyacá	Municipio	tierra alta		Bocas Del Atrato						
+Palermo	Huila	Municipio	integrado del charco		El Dos						
+Palestina	Caldas	Municipio	san juan pampon		Pueblo Bello						
+Palestina	Huila	Municipio	laguna tranquila		San José De Mulatos						
+Palmar de Varela	Atlántico	Municipio	kwe's kiwe nasa (la cristalina)		Puerto Rico						
+Palmar	Santander	Municipio	soldado parate bien		Nuevo Antioquia						
+Palmas del Socorro	Santander	Municipio	soldado parate bien		Macondo						
+Palmira	Valle del Cauca	Municipio	una apuchon		Alto De Mulatos						
+Palocabildo	Tolima	Municipio	lomas de hilarco		Blanquicet						
+Pamplona	Norte de Santander	Municipio	zaragoza tamarindo		Casanoviembrea						
+Pamplonita	Norte de Santander	Municipio	diamante		Las Garzas						
+Pandi	Cundinamarca	Municipio	rincon bodega		Villa María Arriba						
+Panqueba	Boyacá	Municipio	mesa de ortega		Coldesa/Barrio Las Palmas						
+Páramo	Santander	Municipio	san antonio de calarma		Nueva Granada						
+Paratebueno	Cundinamarca	Municipio	narikizavi		Punta De Piedra						
+Pasca	Cundinamarca	Municipio	porvenir-kananguchal		Uramita						
+Pasto	Nariño	Municipio	zit-sek del quecal		Ambalema						
+Patía	Cauca	Municipio	calderas		El Pital						
+Pauna	Boyacá	Municipio	chidima tolo		Urrao						
+Paya	Boyacá	Municipio	el piñal		La Encarnación						
+Paz de Ariporo	Casanare	Municipio	pescadito		Mandé						
+Paz del Río	Boyacá	Municipio	sanandocito		Punta De Ocaido						
+Pedraza	Magdalena	Municipio	tokolloro		Valdivia						
+Pelaya	Cesar	Municipio	"gegora,quipara,murando,tiravenado,jiguado"		Puerto Valdivia						
+Pensilvania	Caldas	Municipio	bajo grande		Raudal Viejo						
+Peque	Antioquia	Municipio	"tronqueria,pulgrande,palicito"		Valparaíso						
+Pereira	Risaralda	Municipio	barzaloza		Tartarin Moreira						
+Pesca	Boyacá	Municipio	imba		Itima						
+Piamonte	Cauca	Municipio	olirco		Murrapal						
+Piedecuesta	Santander	Municipio	guaipa		Vegachí						
+Piedras	Tolima	Municipio	la flecha altozano		El Tigre						
+Piendamó	Cauca	Municipio	palermo		Venecia						
+Pijao	Quindío	Municipio	dokerazavi		Bolombolo						
+Pijiño del Carmen	Magdalena	Municipio	sirena berrecuy		La						
+Pinchote	Santander	Municipio	cerro de hatonuevo		Vigía Del Fuerte						
+Pinillos	Bolívar	Municipio	san agustin		San Antonio De Padua						
+Piojó	Atlántico	Municipio	la reforma		Vegaez						
+Pisba	Boyacá	Municipio	gito docabu		Neudo						
+Pitalito	Huila	Municipio	mercadillo		Buchado						
+Pivijay	Magdalena	Municipio	quebraditas		Nendo						
+Planadas	Tolima	Municipio	doxura		Bajo Murrí						
+Planeta Rica	Córdoba	Municipio	villanueva juna		Yalí						
+Plato	Magdalena	Municipio	cerrodeo		Casamora						
+Policarpa	Nariño	Municipio	"chagüi, chimbuza, vegas, san antonio, otros"		El Briceño						
+Polonuevo	Atlántico	Municipio	punta bandera		El Cinismo						
+Ponedera	Atlántico	Municipio	camaritagua		El Jardín						
+Popayán	Cauca	Municipio	pablo muera		La Alondra						
+Pore	Casanare	Municipio	los pijaos		La Argentina						
+Potosí	Nariño	Municipio	"almorzadero, san isidro, y la nueva union"		La Brillantina						
+Pradera	Valle del Cauca	Municipio	alto bonito vira vira		La Cabaña						
+Prado	Tolima	Municipio	guadualito		La Mariana						
+Providencia	Nariño	Municipio	el itilla		La Máscara						
+Providencia y Santa Catalina Islas	San Andrés y Providencia	Municipio	rumiyaco		La Mascota						
+Pueblo Viejo	Magdalena	Municipio	cuaiquer integrado la milagrosa		Las Agüitas						
+Pueblo Bello	Cesar	Municipio	palmar imbi		Las Dantas						
+Pueblo Nuevo	Córdoba	Municipio	alto cartagena		Las Margaritas						
+Pueblo Rico	Risaralda	Municipio	santa rita		Montañita						
+Pueblorrico	Antioquia	Municipio	san miguel de la castellana		Puerto Estafa						
+Puente Nacional	Santander	Municipio	dachi drua mundi		San Jorge						
+Puerres	Nariño	Municipio	nabera drua		San Mauricio						
+Puerto Asís	Putumayo	Municipio	nueva esperanza del tomo		San Pedrito						
+Puerto Berrío	Antioquia	Municipio	embera-drua		Villanita						
+Puerto Boyacá	Boyacá	Municipio	coribi-bedado		Yarumal						
+Puerto Caicedo	Putumayo	Municipio	escopetera-pirza		Cedeño						
+Puerto Carreño	Vichada	Municipio	yurayaco		Ochalí						
+Puerto Colombia	Atlántico	Municipio	la teofila		El Pueblito						
+Puerto Concordia	Meta	Municipio	pat yu		Mina Vieja						
+Puerto Escondido	Córdoba	Municipio	paez de toez		Yolombó						
+Puerto Gaitán	Meta	Municipio	la floresta-laespañola		La Leona						
+Puerto Guzmán	Putumayo	Municipio	san joaquin		La Cancana						
+Puerto Leguízamo	Putumayo	Municipio	kankuamo		El Rubí						
+Puerto Libertador	Córdoba	Municipio	do imama tuma y bella luz		Abisinia						
+Puerto Lleras	Meta	Municipio	embera de chigorodo-menba		Bengala						
+Puerto López	Meta	Municipio	patio bonito		Bareño						
+Puerto Milán	Caquetá	Municipio	puerto de chinchiliano		Casabe						
+Puerto Nare	Antioquia	Municipio	pared y parecito		San Luis Beltrán						
+Puerto Nariño	Amazonas	Municipio	sabaletera san onofre el tigre		San Miguel Del Tigre						
+Puerto Parra	Santander	Municipio	mamey de diburdu		Cuatro Bocas						
+Puerto Rico	Caquetá	Municipio	wayuu rodelto el pozo		Américas						
+Puerto Rico	Meta	Municipio	puerto nare		Bagre						
+Puerto Rondón	Arauca	Municipio	nuevo amanecer la meseta		Bocas De Barbacoas						
+Puerto Salgar	Cundinamarca	Municipio	la estacion-talaga		Campo Vijao						
+Puerto Santander	Norte de Santander	Municipio	la julia		Congoja						
+Puerto Tejada	Cauca	Municipio	honda rio guiza		Poza						
+Puerto Triunfo	Antioquia	Municipio	inga de mocoa		Puerto Mango						
+Puerto Wilches	Santander	Municipio	saunde gulguay		Puerto Matilde						
+Pulí	Cundinamarca	Municipio	chinquirito mira		Puerto Nuevo						
+Pupiales	Nariño	Municipio	inda zabaleta		Puerto Tamos						
+Puracé	Cauca	Municipio	kejuambi feliciana		Zaragoza						
+Purificación	Tolima	Municipio	nunalbi alto ulbi		Pato						
+Purísima	Córdoba	Municipio	damasco vides		Puerto Colombia						
+Quebradanegra	Cundinamarca	Municipio	la argelia		Vegas De Segovia						
+Quetame	Cundinamarca	Municipio	nuevo horizonte		"Distrito Especial, Industrial Y Portuario De Barranquilla"						
+Quibdó	Chocó	Municipio	chonara huena		Juan						
+Quimbaya	Quindío	Municipio	monzhomandó		Pinar Del Rio						
+Quinchía	Risaralda	Municipio	paez del libano		Baranoa						
+Quípama	Boyacá	Municipio	paez de las mercedes		Campeche						
+Quipile	Cundinamarca	Municipio	la cilia		Pital						
+Ragonvalia	Norte de Santander	Municipio	inga de wasipanga		Sibarco						
+Ramiriquí	Boyacá	Municipio	mandiyaco		Campo De La Cruz						
+Ráquira	Boyacá	Municipio	urada jiguamiandó		Bohórquez						
+Recetor	Casanare	Municipio	huila		Candelaria						
+Regidor	Bolívar	Municipio	pic ´kue ikh		San José Del Carretal						
+Remedios	Antioquia	Municipio	nasa-paez de juan tama		Buenaventura De Leña						
+Remolino	Magdalena	Municipio	potrerito 		Galapa						
+Repelón	Atlántico	Municipio	pic-kwe-tha-fiw		Paluato						
+Restrepo	Meta	Municipio	awa  de cañaveral		Juan De Acosta						
+Restrepo	Valle del Cauca	Municipio	awa  de los guaduales		Bocatocino						
+Ricaurte	Cundinamarca	Municipio	la italia		Chorrera						
+Ricaurte	Nariño	Municipio	vegas de santa ana		San José De Saco						
+Río de Oro	Chocó	Municipio	alto lorenzo		Santa Verónica						
+Río Iró	Chocó	Municipio	chenche balsillas		Urbanización Punta Cangrejo						
+Río Quito	Chocó	Municipio	cocana		Luruaco						
+Río Viejo	Bolívar	Municipio	natacoy pijao		Arroyo De Piedra						
+Rioblanco	Tolima	Municipio	bocas de tetuan		Palmar De Candelaria						
+Riofrío	Valle del Cauca	Municipio	selva de mataven		Los Pendales						
+Riohacha	La Guajira	Municipio	la florida		San Juan De Tocagua						
+Rionegro	Antioquia	Municipio	el porvenir la barrialosa		Santa Cruz						
+Rionegro	Santander	Municipio	blasiaku		Los Límites						
+Riosucio	Caldas	Municipio	tucan de caño giriza y puerto la palma		La Puntica						
+Riosucio	Chocó	Municipio	llano buco		Barrigón						
+Risaralda	Caldas	Municipio	alto orito		Socavón						
+Rivera	Huila	Municipio	bellavista		La Aguada						
+Roberto Payán	Nariño	Municipio	caicedonia		Pitalito						
+Roldanillo	Valle del Cauca	Municipio	selva verde		Manatí						
+Roncesvalles	Tolima	Municipio	simorna o la venada		El Porvenir (Las Compuertas)						
+Rondón	Boyacá	Municipio	san andres-las vegas-villaunion		Palmar De Varela						
+Rosas	Cauca	Municipio	alpamanga		Burruscos						
+Rovira	Tolima	Municipio	piaroa de cachicamo		Piojó						
+Sabana de Torres	Santander	Municipio	bernardo panchí		Aguas Vivas						
+Sabanas de San Ángel	Magdalena	Municipio	santa rosa de juanambu		Hibacharo						
+Sabanagrande	Atlántico	Municipio	santa rosa de juanambu		Polonuevo						
+Sabanalarga	Antioquia	Municipio	espigo		Pital Del Carlín (Pitalito)						
+Sabanalarga	Atlántico	Municipio	beltrán		Ponedera						
+Sabanalarga	Casanare	Municipio	bonanza		La Retirada						
+Sabaneta	Antioquia	Municipio	nam misak		Martillo						
+Saboyá	Boyacá	Municipio	nam misak		Puerto Giraldo						
+Sácama	Casanare	Municipio	maiz blanco		Cascajal						
+Sáchica	Boyacá	Municipio	morrito		Sabanilla (Monte Carmelo)						
+Sahagún	Córdoba	Municipio	quebrada grande		Urbanización Barranquilla Sport Club						
+Saladoblanco	Huila	Municipio	musse ukwe		Country Club Villas						
+Salamina	Caldas	Municipio	centro miraflores		Country Mar						
+Salamina	Magdalena	Municipio	perratpu		Lagos De Caujaral						
+Salazar de las Palmas	Norte de Santander	Municipio	balsillas		Villa Campestre						
+Saldaña	Tolima	Municipio	balsillas el limón		Repelón						
+Salento	Quindío	Municipio	yu yik kwe		Arroyo Negro						
+Salgar	Antioquia	Municipio	piedra sagrada la gran familia		Cien Pesos						
+Samacá	Boyacá	Municipio	canime		Las Tablas						
+Samaná	Caldas	Municipio	cxayuce fiw		Rotinet						
+Samaniego	Nariño	Municipio	planadas de telembi		Villa Rosa						
+Sampués	Sucre	Municipio	floral tradicional		Sabanagrande						
+San Agustín	Huila	Municipio	la delfina		Aguada De Pablo						
+San Alberto	Cesar	Municipio	playita san francisco 		Isabel López						
+San Andrés	San Andrés y Providencia	Municipio	playa bendita 		Molinero						
+San Andrés	Santander	Municipio	"yukpa de la laguna, el coso, cinco caminos "		Gallego						
+San Andrés de Cuerquia	Antioquia	Municipio	"jerusalén, san luis alto picudito "		Patilla						
+San Andrés de Sotavento	Córdoba	Municipio	refugio del sol		Algodonal						
+San Antero	Córdoba	Municipio	awa de playa larga 		Santo Tomás						
+San Antonio	Tolima	Municipio	zanja honda		El Uvito						
+San Antonio de Palmito	Sucre	Municipio	peña la alegría 		Soledad						
+San Antonio del Tequendama	Cundinamarca	Municipio	bocana de luzon		Suan						
+San Benito	Santander	Municipio	santa rosita		Tubará						
+San Benito Abad	Sucre	Municipio	inda guacaray 		El Morro						
+San Bernardo	Cundinamarca	Municipio	inkal awa 		Guaimaral						
+San Bernardo	Nariño	Municipio	bajo casa cunte 		Juaruco						
+San Bernardo del Viento	Córdoba	Municipio	el fiera		Playa Mendoza						
+San Calixto	Norte de Santander	Municipio	uitiboc		Playas De Edrimán						
+San Carlos	Antioquia	Municipio	dachi agore drua		Villas De Palmarito						
+San Carlos	Córdoba	Municipio	puerto monfort		Usiacurí						
+San Carlos de Guaroa	Meta	Municipio	los almendros		"Bogotá, D.C."						
+San Cayetano	Cundinamarca	Municipio	villa maría de anamú		Nazareth						
+San Cayetano	Norte de Santander	Municipio	witac´kwe		San Juan De Sumapaz						
+San Cristóbal	Bolívar	Municipio	rincón velú		Mochuelo Abajo						
+San Diego	Cesar	Municipio	gegenadó		Pasquilla						
+San Eduardo	Boyacá	Municipio	el silencio		San Juan						
+San Estanislao	Bolívar	Municipio	guadualito		Distrito Turístico Y Cultural De Cartagena De Indias						
+San Fernando	Bolívar	Municipio	guadualito		Arroyo Grande						
+San Francisco	Antioquia	Municipio	agua blanca		Barú						
+San Francisco	Cundinamarca	Municipio	bajo cáceres		Bayunca						
+San Francisco	Putumayo	Municipio	nasa chamb		Bocachica						
+San Gil	Santander	Municipio	ishu awa		Caño Del Oro						
+San Jacinto del Cauca	Bolívar	Municipio	rumiyaco		Isla Fuerte						
+San Jacinto	Bolívar	Municipio	lomas de guaguarco		La Boquilla						
+San Jerónimo	Antioquia	Municipio	nasa uh		Pasacaballos						
+San Joaquín	Santander	Municipio	la perecera		Punta Canoa						
+San José	Caldas	Municipio	papallaqta		Tierra Bomba						
+San José de Albán	Nariño	Municipio	el peñon		Punta Arena						
+San José de Miranda	Santander	Municipio	pueblo kokonuco		Ararca						
+San José de Pare	Boyacá	Municipio	nasa kiwe tekh ksxaw		Leticia						
+San José de Uré	Córdoba	Municipio	san antonio		Archipielago De San Bernardo						
+San José de la	Antioquia	Municipio	san antonio		El Recreo						
+San José del Fragua	Caquetá	Municipio	el oso		Puerto Rey						
+San José del Guaviare	Guaviare	Municipio	piscitau		Pontezuela						
+San José del Palmar	Chocó	Municipio	chenche buenavista		Islas Del Rosario						
+San Juan de Arama	Meta	Municipio	meche san cayetano		Palenquillo						
+San Juan de Betulia	Sucre	Municipio	dogibi		Piedrecitas						
+San Juan de Rioseco	Cundinamarca	Municipio	fonquetá y cerca de piedra		Playa Dorada						
+San Juan de Urabá	Antioquia	Municipio	velú centro		Arroyo De Las Canoas						
+San Juan del Cesar	La Guajira	Municipio	banderas del recaibo		Las Europas						
+San Juan Nepomuceno	Bolívar	Municipio	vegas de segovia		Manzanillo Del Mar						
+San Juanito	Meta	Municipio	vegas de segovia		Tierra Baja						
+San Lorenzo	Nariño	Municipio	la libertad 2		Boquillita						
+San Luis	Antioquia	Municipio	el dieciocho		Achí						
+San Luis	Tolima	Municipio	guarapamba		Boyacá						
+San Luis de Gaceno	Boyacá	Municipio	chicuambe las brisas		Algarrobo						
+San Luis de Palenque	Casanare	Municipio	zenú del alto san jorge		Guacamayo						
+San Marcos	Sucre	Municipio	zenú del alto san jorge		Guamo						
+San Martín	Cesar	Municipio	funes		Playalta						
+San Martín	Meta	Municipio	maguaré		Río Negro						
+San Martín de Loba	Bolívar	Municipio	mesas de san juan		Tacuyalta						
+San Mateo	Boyacá	Municipio	aco viejo patio bonito		Tres Cruces						
+San Miguel	Putumayo	Municipio	gualeras		Payandé						
+San Miguel	Santander	Municipio	nataroco		Río Nuevo						
+San Miguel de Sema	Boyacá	Municipio	anaba		Puerto Isabel						
+San Onofre	Sucre	Municipio	campoalegre		Centro Alegre						
+San Pablo	Bolívar	Municipio	chimbagal		Puerto Venecia						
+San Pablo	Nariño	Municipio	wopumuin junain maikou		Gallego Arriba						
+San Pablo de Borbur	Boyacá	Municipio	iles		Los Nísperos						
+San Pedro	Sucre	Municipio	ñambí piedra verde		Paraíso Sincerín						
+San Pedro	Valle del Cauca	Municipio	la nueva esperanza		Vida Tranquila						
+San Pedro de Cartago	Nariño	Municipio	inga de colón		Altos Del Rosario						
+San Pedro de Urabá	Antioquia	Municipio	paso río salado 		El Rubio						
+San Pedro de los Milagros	Antioquia	Municipio	cxhab wala luucx		La Pacha						
+San Pelayo	Córdoba	Municipio	nueva bellavista y partidero		Arenal						
+San Rafael	Antioquia	Municipio	san juan		Carnizala						
+San Roque	Antioquia	Municipio	yanacona el moral		La Bonita						
+San Sebastián	Cauca	Municipio	kuitua		Las Sabanas						
+San Sebastián de Buenavista	Magdalena	Municipio	pueblo nuevo ceral		Los Peñones						
+San Vicente	Antioquia	Municipio	yaporogos taira		Soya						
+San Vicente de Chucurí	Santander	Municipio	kamentsa inga de san francisco		Arjona						
+San Vicente del Caguán	Caquetá	Municipio			Puerto Badel (Caño Salado)						
+San Zenón	Magdalena	Municipio			Gambote						
+Sandoná	Nariño	Municipio			Rocha						
+Santa Ana	Magdalena	Municipio			Sincerín						
+Santa Bárbara	Antioquia	Municipio			San Rafael De La Cruz						
+Santa Bárbara	Nariño	Municipio			Cruz Del Vizo						
+Santa Bárbara	Santander	Municipio			Arroyohondo						
+Santa Bárbara de Pinto	Magdalena	Municipio			Machado						
+Santa Catalina	Bolívar	Municipio			Monroy						
+Santa Fe de Antioquia	Antioquia	Municipio			Pilón						
+Santa Helena del Opón	Santander	Municipio			Sato						
+Santa Isabel	Tolima	Municipio			San Francisco (Solabanda)						
+Santa Lucía	Atlántico	Municipio			Barranco De Loba						
+Santa María	Boyacá	Municipio			Rionuevo						
+Santa María	Huila	Municipio			San Antonio						
+Santa Marta	Magdalena	Municipio			Los Cerritos						
+Santa Rosa	Bolívar	Municipio			Las Delicias						
+Santa Rosa	Cauca	Municipio			Calamar						
+Santa Rosa de Cabal	Risaralda	Municipio			Barranca Nueva						
+Santa Rosa de Osos	Antioquia	Municipio			Barranca Vieja						
+Santa Rosa de Viterbo	Boyacá	Municipio			Yucal						
+Santa Rosa del Sur	Bolívar	Municipio			Cantagallo						
+Santa Rosalía	Vichada	Municipio			San Lorenzo						
+Santa Sofía	Boyacá	Municipio			Brisas De Bolívar						
+Santacruz	Nariño	Municipio			Cagui						
+Santana	Boyacá	Municipio			El Caraño						
+Santander de Quilichao	Cauca	Municipio			El Firme						
+Santiago	Norte de Santander	Municipio			La Nutria						
+Santiago	Putumayo	Municipio			La Poza						
+Santo Domingo	Antioquia	Municipio			La Victoria (Sepultura)						
+Santo Domingo de Silos	Norte de Santander	Municipio			Las Pavas						
+Santo Tomás	Atlántico	Municipio			Lejanía						
+Santuario	Risaralda	Municipio			Los Coroncoros						
+Sapuyes	Nariño	Municipio			Los Paticos						
+Saravena	Arauca	Municipio			Muriba						
+Sardinata	Norte de Santander	Municipio			No Hay Como Dios						
+Sasaima	Cundinamarca	Municipio			Sinzona						
+Sativanorte	Boyacá	Municipio			Yanacué						
+Sativasur	Boyacá	Municipio			Cicuco						
+Segovia	Antioquia	Municipio			Campo Sereno						
+Sesquilé	Cundinamarca	Municipio			San Francisco De Loba						
+Sevilla	Valle del Cauca	Municipio			San Javier						
+Siachoque	Boyacá	Municipio			Isla De Córdoba						
+Sibaté	Cundinamarca	Municipio			La Montaña De Alonso (Martín Alonso)						
+Sibundoy	Putumayo	Municipio			Sincelejito						
+Silvania	Cundinamarca	Municipio			Tacamochito						
+Silvia	Cauca	Municipio			Tacamocho						
+Simacota	Santander	Municipio			Las Marías						
+Simijaca	Cundinamarca	Municipio			Sanahuare						
+Simití	Bolívar	Municipio			Socorro 1						
+Sincé	Sucre	Municipio			Clemencia						
+Sincelejo	Sucre	Municipio			Las Caras						
+Sipí	Chocó	Municipio			El Peñique						
+Sitionuevo	Magdalena	Municipio			El Carmen De Bolívar						
+Soacha	Cundinamarca	Municipio			Bajo Grande						
+Soatá	Boyacá	Municipio			Caracolí Grande						
+Socha	Boyacá	Municipio			El Salado						
+Socotá	Boyacá	Municipio			Jesús Del Monte						
+Sogamoso	Boyacá	Municipio			Macayepos						
+Solano	Caquetá	Municipio			Hato Nuevo						
+Soledad	Atlántico	Municipio			Santo Domingo De Meza						
+Solita	Caquetá	Municipio			El Hobo						
+Somondoco	Boyacá	Municipio			El Guamo						
+Sonsón	Antioquia	Municipio			La Enea						
+Sopetrán	Antioquia	Municipio			San José De Lata						
+Soplaviento	Bolívar	Municipio			Nervití						
+Sopó	Cundinamarca	Municipio			Robles						
+Sora	Boyacá	Municipio			Tasajera						
+Soracá	Boyacá	Municipio			El Peñón						
+Sotaquirá	Boyacá	Municipio			Castañal						
+Sotará	Cauca	Municipio			La Chapetona						
+Suaita	Santander	Municipio			Japón						
+Suán	Atlántico	Municipio			La Humareda						
+Suárez	Cauca	Municipio			Peñoncito						
+Suárez	Tolima	Municipio			Hatillo De Loba						
+Suaza	Huila	Municipio			El Pozón						
+Subachoque	Cundinamarca	Municipio			Juana Sánchez						
+Sucre	Cauca	Municipio			La Ribona						
+Sucre	Santander	Municipio			La Victoria						
+Sucre	Sucre	Municipio			Cerro De Las Aguadas						
+Suesca	Cundinamarca	Municipio			Guacalí						
+Supatá	Cundinamarca	Municipio			Magangué						
+Supía	Caldas	Municipio			Barranca De Yuca						
+Suratá	Santander	Municipio			Boca De San Antonio						
+Susa	Cundinamarca	Municipio			Ceibal						
+Susacón	Boyacá	Municipio			Coyongal						
+Sutamarchán	Boyacá	Municipio			El Retiro						
+Sutatausa	Cundinamarca	Municipio			Guazo						
+Sutatenza	Boyacá	Municipio			Henequén						
+Tabio	Cundinamarca	Municipio			Isla Grande						
+Tadó	Chocó	Municipio			Juan Arias						
+Talaigua Nuevo	Bolívar	Municipio			La Pascuala						
+Tamalameque	Cesar	Municipio			La Ventura						
+Támara	Casanare	Municipio			Madrid						
+Tame	Arauca	Municipio			Palmarito						
+Támesis	Antioquia	Municipio			Pansegüita						
+Taminango	Nariño	Municipio			Piñalito						
+Tangua	Nariño	Municipio			San Rafael De Cortina						
+Tarazá	Antioquia	Municipio			San José De Las Martas						
+Tarquí	Huila	Municipio			San Sebastián De Buenavista						
+Tarso	Antioquia	Municipio			Santa Fe						
+Tasco	Boyacá	Municipio			Santa Mónica						
+Taraira	Vaupés	Municipio			Santa Pabla						
+Tauramena	Casanare	Municipio			Sitio Nuevo						
+Tausa	Cundinamarca	Municipio			Puerto Kennedy						
+Tello	Huila	Municipio			Tacaloa						
+Tena	Cundinamarca	Municipio			Tacasaluma						
+Tenerife	Magdalena	Municipio			Tolú						
+Tenjo	Cundinamarca	Municipio			Playa De Las Flores						
+Tenza	Boyacá	Municipio			San Antoñito						
+Teorama	Norte de Santander	Municipio			El Cuatro						
+Teruel	Huila	Municipio			Boca De Guamal						
+Tesalia	Huila	Municipio			Tres Puntas						
+Tibacuy	Cundinamarca	Municipio			Emaus						
+Tibaná	Boyacá	Municipio			Isla De Perico						
+Tibasosa	Boyacá	Municipio			Puerto Nariño						
+Tibirita	Cundinamarca	Municipio			Punta De Cartagena						
+Tibú	Norte de Santander	Municipio			Santa Coita						
+Tierralta	Córdoba	Municipio			Florencia						
+Timaná	Huila	Municipio			Mahates						
+Timbío	Cauca	Municipio			Gamero						
+Timbiquí	Cauca	Municipio			Malagana						
+Tinjacá	Boyacá	Municipio			San Basilio De Palenque						
+Tipacoque	Boyacá	Municipio			San Joaquín						
+Tiquisio	Bolívar	Municipio			Mandinga						
+Titiribí	Antioquia	Municipio			Margarita						
+Toca	Boyacá	Municipio			Botón De Leiva						
+Tocaima	Cundinamarca	Municipio			Cantera						
+Tocancipá	Cundinamarca	Municipio			Causado						
+Togüí	Boyacá	Municipio			Chilloa						
+Toledo	Antioquia	Municipio			Doña Juana						
+Toledo	Norte de Santander	Municipio			Guataca Sur						
+Tolú	Sucre	Municipio			Mamoncito						
+Tolú Viejo	Sucre	Municipio			Sandoval						
+Tona	Santander	Municipio			San José De Los Trapiches						
+Tópaga	Boyacá	Municipio			Corocito						
+Topaipí	Cundinamarca	Municipio			Guataquita						
+Toribío	Cauca	Municipio			Caimital						
+Toro	Valle del Cauca	Municipio			Caño Mono						
+Tota	Boyacá	Municipio			El Barranco						
+Totoró	Cauca	Municipio			El Zafiro						
+Trinidad	Casanare	Municipio			La Montaña						
+Trujillo	Valle del Cauca	Municipio			Los Mangos						
+Tubará	Atlántico	Municipio			Sandovalito						
+Tuchín	Córdoba	Municipio			San Ignacio						
+Tuluá	Valle del Cauca	Municipio			San Martín						
+Tumaco	Nariño	Municipio			María La Baja						
+Tunja	Boyacá	Municipio			Correa						
+Tununguá	Boyacá	Municipio			El Níspero						
+Túquerres	Nariño	Municipio			Flamenco						
+Turbaco	Bolívar	Municipio			Manpuján						
+Turbaná	Bolívar	Municipio			Ñanguma						
+Turbo	Antioquia	Municipio			Retiro Nuevo						
+Turmequé	Boyacá	Municipio			San José Del Playón						
+Tuta	Boyacá	Municipio			El Majagua						
+Tutazá	Boyacá	Municipio			Los Bellos						
+Ubalá	Cundinamarca	Municipio			Matuya						
+Ubaque	Cundinamarca	Municipio			Colú						
+Ubaté	Cundinamarca	Municipio			Palo Altico						
+Ulloa	Valle del Cauca	Municipio			Nueva Florida						
+Úmbita	Boyacá	Municipio			Primero De Julio						
+Une	Cundinamarca	Municipio			El Sena						
+Unión Panamericana	Chocó	Municipio			La Curva						
+Unguía	Chocó	Municipio			La Pista						
+Uramita	Antioquia	Municipio			Marquez						
+Uribia	La Guajira	Municipio			Munguia						
+Urrao	Antioquia	Municipio			Cacao						
+Urumita	La Guajira	Municipio			Cañas						
+Usiacurí	Atlántico	Municipio			Cedrito						
+Útica	Cundinamarca	Municipio			Florido Viejo						
+Valdivia	Antioquia	Municipio			Guarismo						
+Valencia	Córdoba	Municipio			La Suprema						
+Valle de San José	Santander	Municipio			Los Ochenta						
+Valle de San Juan	Tolima	Municipio			Majaguas						
+Valle del Guamuez	Putumayo	Municipio			Mundo Nuevo						
+Valledupar	Cesar	Municipio			Nueva Jerusalén						
+Valparaíso	Antioquia	Municipio			Nuevo Porvenir						
+Valparaíso	Caquetá	Municipio			Puerto Santander						
+Vegachí	Antioquia	Municipio			Santafé De Icotea						
+Vélez	Santander	Municipio			Sucesión						
+Venadillo	Tolima	Municipio			Toma Razón						
+Venecia	Antioquia	Municipio			Montecristo						
+Venecia	Cundinamarca	Municipio			El Dorado						
+Ventaquemada	Boyacá	Municipio			Paraíso						
+Vergara	Cundinamarca	Municipio			Pueblo Lindo						
+Versalles	Valle del Cauca	Municipio			Pueblo Nuevo/Regencia						
+Vetas	Santander	Municipio			Platanal						
+Vianí	Cundinamarca	Municipio			San Agustín						
+Victoria	Caldas	Municipio			San Mateo						
+Vigía del Fuerte	Antioquia	Municipio			Taburetera						
+Vijes	Valle del Cauca	Municipio			Villa Uribe						
+Villa Caro	Norte de Santander	Municipio			Rangel						
+Villa de Leyva	Boyacá	Municipio			Mompós						
+Villa del Rosario	Norte de Santander	Municipio			Caldera						
+Villa Rica	Cauca	Municipio			Carmen Del Cicuco						
+Villagarzón	Putumayo	Municipio			Guataca						
+Villagómez	Cundinamarca	Municipio			La Jagua						
+Villahermosa	Tolima	Municipio			La Lobata						
+Villamaría	Caldas	Municipio			La Rinconada						
+Villanueva	Bolívar	Municipio			Las Boquillas						
+Villanueva	Casanare	Municipio			Loma De Simón						
+Villanueva	La Guajira	Municipio			Los Piñones						
+Villanueva	Santander	Municipio			Santa Rosa						
+Villapinzón	Cundinamarca	Municipio			Santa Teresita						
+Villarrica	Tolima	Municipio			Ancón						
+Villavicencio	Meta	Municipio			La Travesía						
+Villavieja	Huila	Municipio			Pueblonuevo						
+Villeta	Cundinamarca	Municipio			Bomba						
+Viotá	Cundinamarca	Municipio			El Rosario						
+Viracachá	Boyacá	Municipio			Guáimaro						
+Vista Hermosa	Meta	Municipio			Villanueva						
+Viterbo	Caldas	Municipio			El Carmen						
+Yacopí	Cundinamarca	Municipio			Morales						
+Yacuanquer	Nariño	Municipio			Bodega Central						
+Yaguará	Huila	Municipio			El Dique						
+Yalí	Antioquia	Municipio			Las Pailas						
+Yarumal	Antioquia	Municipio			Boca De La Honda						
+Yolombó	Antioquia	Municipio			Mico Ahumado						
+Yondó	Antioquia	Municipio			Paredes De Ororia						
+Yopal	Casanare	Municipio			Pinillos						
+Yotoco	Valle del Cauca	Municipio			La Rufina						
+Yumbo	Valle del Cauca	Municipio			Las Conchitas						
+Zambrano	Bolívar	Municipio			Mantequera						
+Zapatoca	Santander	Municipio			Palenquito						
+Zapayán	Magdalena	Municipio			Palomino						
+Zaragoza	Antioquia	Municipio			Santa Coa						
+Zarzal	Valle del Cauca	Municipio			Rufina Nueva						
+Zetaquirá	Boyacá	Municipio			Regidor						
+Zipacón	Cundinamarca	Municipio			Piñal						
+Zipaquirá	Cundinamarca	Municipio			San Cayetano						
+Zona Bananera	Magdalena	Municipio			Santa Teresa						
+Barranco Minas	Guainía	Corregimiento			Río Viejo						
+Cacahual	Guainía	Corregimiento			Norosí						
+El Encanto	Amazonas	Corregimiento			Buenaseña						
+La Chorrera	Amazonas	Corregimiento			Casa E Barro						
+La Guadalupe	Guainía	Corregimiento			Cobadillo						
+La Pedrera	Amazonas	Corregimiento			Macedonia						
+La Victoria	Amazonas	Corregimiento			Olivares						
+Mapiripana	Guainía	Corregimiento			Santa Helena						
+Mirití-Paraná	Amazonas	Corregimiento			Higueretal						
+Morichal Nuevo	Guainía	Corregimiento			San Estanislao De Kostka						
+Pacoa	Vaupés	Corregimiento			Bayano						
+Pana Pana	Guainía	Corregimiento			Las Piedras						
+Papunaua	Vaupés	Corregimiento			San Fernando						
+Puerto Alegría	Amazonas	Corregimiento			Guasimal						
+Puerto Arica	Amazonas	Corregimiento			Menchiquejo						
+Puerto Colombia	Guainía	Corregimiento			Punta De Hornos						
+Puerto Santander	Amazonas	Corregimiento			El Palmar						
+San Felipe	Guainía	Corregimiento			El Contadero						
+Tarapacá	Amazonas	Corregimiento			El Gato						
+Yavaraté	Vaupés	Corregimiento			El Jolon						
+Amazonia	ND	Región			La Guadua						
+Andina	ND	Región			Las Cuevas						
+Caribe	ND	Región			Pampanillo						
+Insular	ND	Región			San Jacinto						
+Orinoquía	ND	Región			Arenas						
+Pacífico	ND	Región			Las Charquitas						
+Amazonas	Leticia	Departamento			Las Mercedes						
+Antioquia	Medellín	Departamento			San Jacinto Del Cauca						
+Arauca	Arauca	Departamento			Tenche						
+Atlántico	Barranquilla	Departamento			Bermúdez						
+Bogotá	Bogotá	Departamento			Galindo						
+Bolívar	Cartagena de Indias	Departamento			Méjico						
+Boyacá	Tunja	Departamento			Astilleros						
+Caldas	Manizales	Departamento			San Juan Nepomuceno						
+Caquetá	Florencia	Departamento			Corralito						
+Casanare	Yopal	Departamento			La Haya						
+Cauca	Popayán	Departamento			San José Del Peñón (Las Porqueras)						
+Cesar	Valledupar	Departamento			San Pedro Consolado						
+Chocó	Quibdó	Departamento			San Martín De Loba						
+Córdoba	Montería	Departamento			Chimi						
+Cundinamarca	Bogotá	Departamento			Papayal						
+Guainía	Inírida	Departamento			Las Playitas						
+Guaviare	San José del Guaviare	Departamento			Pueblo Nuevo Cerro De Julio						
+Huila	Neiva	Departamento			El Jobo						
+La Guajira	Riohacha	Departamento			El Varal						
+Magdalena	Santa Marta	Departamento			Canaletal						
+Meta	Villavicencio	Departamento			Pozo Azul						
+Nariño	Pasto	Departamento			San Juan Alto						
+Norte de Santander	San José de Cúcuta	Departamento			Cañabraval						
+Putumayo	Mocoa	Departamento			Aguasucia						
+Quindío	Armenia	Departamento			Cerro Azul						
+Risaralda	Pereira	Departamento			Vallecito						
+San Andrés y Providencia	San Andrés	Departamento			La Virgencita						
+Santander	Bucaramanga	Departamento			Cañabraval Bajo						
+Sucre	Sincelejo	Departamento			Cucu						
+Tolima	Ibagué	Departamento			La Fría						
+Valle del Cauca	Cali	Departamento			Los Caguises						
+Vaupés	Mitú	Departamento			Patio Bonito						
+Vichada	Puerto Carreño	Departamento			Galerazamba						
+					Loma De Arena						
+					Santa Rosa De Lima						
+					Santa Rosa Del Sur						
+					Canelos						
+					San Lucas						
+					Villa						
+					Arrayanes						
+					Simití						
+					Campo Pallares						
+					Veracruz						
+					San Blas						
+					Monterrey						
+					Animas Altas						
+					Animas Bajas						
+					Diamante						
+					Garzal						
+					Soplaviento						
+					Talaigua Nuevo						
+					Cañohondo						
+					Vesubio						
+					Patico						
+					Talaigua Viejo						
+					Ladera De San Martín						
+					Peñón De Durán						
+					Tupe						
+					Aguas Negras						
+					Bocas De Solis						
+					Dos Bocas						
+					El Sudán						
+					Palma Esteral						
+					Puerto Coca						
+					Sabanas Del Firme						
+					Tiquisio Nuevo						
+					Turbaco						
+					San José De Chiquito						
+					Turbaná						
+					Ballestas						
+					El Cobado (El Pueblito)						
+					Zipacoa						
+					Zambrano						
+					Distrito Histórico Y Cultural De Tunja						
+					Almeida						
+					Diganome						
+					Suse						
+					Susaca						
+					Daito						
+					Hato Laguna						
+					Soriano						
+					Pérez						
+					Quebradas						
+					Arcabuco						
+					Berbeo						
+					Betéitiva						
+					Otenga						
+					Boavita						
+					El Espigon						
+					Busbanzá						
+					Quipe Chungaguta						
+					El Cubo						
+					Campohermoso						
+					Vistahermosa						
+					Cerinza						
+					Chinavita						
+					Chiquinquirá						
+					Chiscas						
+					Gibraltar						
+					Mercedes						
+					Samore						
+					Tamara						
+					La Upa						
+					Las Cañas						
+					Llano De Tabaco						
+					Chita						
+					Chipaviejo						
+					El Moral						
+					Monserrate						
+					Chipa Centro						
+					Canoas						
+					El Arenal						
+					Chitaraque						
+					Guamo Y Ladera						
+					Chivatá						
+					Ciénega						
+					Cómbita						
+					El Barne						
+					La Concepción						
+					San Onofre						
+					Coper						
+					Cantino						
+					Turtur						
+					Corrales						
+					Covarachía						
+					La Palmera						
+					Las Tapias						
+					Limón Dulce						
+					Los Siates						
+					Nogontova (La Capilla De San Luis)						
+					Satoba Arriba						
+					Cubará						
+					Chuscal						
+					Agua Blanca						
+					Bojabá						
+					Covaría						
+					Tegria						
+					Cucaita						
+					Cuítiva						
+					Llano De Alarcón						
+					Chíquiza						
+					San Pedro De Iguaque						
+					Chivor						
+					Duitama						
+					San Lorenzo Abajo						
+					Trinidad						
+					Ciudadela Industrial						
+					Santa Clara						
+					Tocogua						
+					El Cocuy						
+					El Espino						
+					La Laguna						
+					La Barrera						
+					Firavitoba						
+					Floresta						
+					Tobasía						
+					Gachantivá						
+					Gameza						
+					Garagoa						
+					Guacamayas						
+					Chichimita						
+					Guiragón						
+					Guateque						
+					Gaunza Abajo						
+					Gaunza Arriba						
+					Chorro De Oro						
+					Piedra Parada						
+					Rosales						
+					Guayatá						
+					Güicán						
+					Bocotá						
+					La Cueva						
+					Bachira						
+					Tunebia Arriba						
+					Iza						
+					Jenesano						
+					Foraquirá						
+					Cheva						
+					Labranzagrande						
+					La Capilla						
+					El Zinc						
+					Chapón O Guadua						
+					Humbo						
+					La Uvita						
+					Cusagüi						
+					Villa De Leyva						
+					El Roble						
+					Macanal						
+					San Pedro De Muceño						
+					Maripí						
+					Zulia						
+					Narapay						
+					Guayabal						
+					La Pita						
+					Miraflores						
+					Mongua						
+					Sirguaza						
+					Centro Tunjuela						
+					Tunjuelo						
+					Monguí						
+					Moniquirá						
+					Los Cayenos						
+					Los Sauces						
+					Motavita						
+					Panelas						
+					Muzo						
+					Nobsa						
+					Belencito						
+					Chameza Mayor						
+					Dicho						
+					Punta Larga						
+					Ucuenga						
+					Caleras						
+					Bonza						
+					Chamez Men						
+					Guaquira						
+					Santana						
+					Nuevo Colón						
+					Sorca						
+					Oicatá						
+					Otanche						
+					Pizarra						
+					San José De Nazareth						
+					Pachavita						
+					Páez						
+					La Ururia						
+					Sirasí						
+					Paipa						
+					El Volcán						
+					Romita						
+					Pantano De Vargas						
+					El Venado						
+					Canocas						
+					Cruz De Bonza						
+					El Tejar						
+					Pajarito						
+					Corinto						
+					Panqueba						
+					Pauna						
+					Quebrada Seca						
+					Paya						
+					Morcote						
+					Paz De Río						
+					Paz Vieja						
+					Concentra						
+					Pesca						
+					El Hato						
+					Suaneme						
+					Pisba						
+					Puerto Boyacá						
+					Guanegro						
+					Puerto Gutiérrez						
+					Cruce Palagua						
+					Puerto Serviez						
+					Kilómetro Dos Y Medio						
+					Kilómetro 25						
+					El Marfil						
+					Puerto Pinzón						
+					Puerto Romero						
+					Cruce El Chaparro						
+					El Ermitaño						
+					El Okal						
+					El Trique						
+					Kilómetro 11						
+					Muelle Velásquez						
+					Puerto Niño						
+					Kilómetro Uno Y Medio						
+					La Ceiba						
+					Quípama						
+					Cormal						
+					Ramiriquí						
+					Guayabal (Fátima)						
+					El Escobal						
+					Ráquira						
+					Rondón						
+					Ranchogrande						
+					Saboyá						
+					Garavito						
+					Merchán						
+					El Molino						
+					Velandia						
+					Sáchica						
+					Samacá						
+					La Cumbre						
+					La						
+					Salamanaca						
+					Tibaquirá						
+					San Eduardo						
+					San José De Pare						
+					San Luis De Gaceno						
+					San Miguel De Sema						
+					San Pablo De Borbur						
+					Sector Peña Blanca						
+					Coscuez						
+					Santa María						
+					Caño Negro						
+					Santa Rosa De Viterbo						
+					El Imperio						
+					Santa Sofía						
+					Sativanorte						
+					Sativa Viejo						
+					La Jupa						
+					Sativasur						
+					Siachoque						
+					Soatá						
+					Puente Pinzón						
+					La Costa						
+					La Jobonera						
+					Socotá						
+					Los Pinos						
+					Puebloviejo						
+					Coscativa						
+					Socha						
+					Sogamoso						
+					Morcá						
+					Mortiñal						
+					Vanegas						
+					Siatame						
+					El Crucero						
+					Alcaparral						
+					Milagro Y Playita						
+					Somondoco						
+					Sora						
+					Sotaquirá						
+					Bosigas						
+					Cerreño						
+					Soracá						
+					Susacón						
+					Sutamarchán						
+					Sutatenza						
+					Tasco						
+					Libertadores						
+					Tenza						
+					Tibaná						
+					Tibasosa						
+					El Paraíso						
+					Tinjacá						
+					Tipacoque						
+					El Nogal						
+					La						
+					La Variante						
+					Toca						
+					Togüí						
+					Garibay						
+					Tópaga						
+					Bado Castro						
+					Tota						
+					La Puerta						
+					Tununguá						
+					Turmequé						
+					Tuta						
+					Bosiga Sur						
+					El Cruce						
+					Siderúrgica						
+					Tutazá						
+					Páramo						
+					Umbita						
+					Ventaquemada						
+					Estancia Grande						
+					Boyacá						
+					Negra						
+					El Capri						
+					El Manzano						
+					Viracachá						
+					Zetaquira						
+					Alto De Lisboa						
+					Kilometro 41/Colombia						
+					Bajo Tablazo						
+					La Cuchilla Del Salado						
+					San Peregrino						
+					Alto Tablazo						
+					Alto Del Naranjo						
+					El Arenillo						
+					La Aurora						
+					Alto Bonito						
+					Mina Rica						
+					La Garrucha						
+					Bajo Corinto						
+					Alto Corinto						
+					Agua Bonita						
+					El Aguila						
+					Aguadas						
+					Arma						
+					La Mermita						
+					Eden						
+					Alto De Pito						
+					Alto De La Montaña						
+					Viboral						
+					Pore						
+					Anserma						
+					Marapra						
+					San Pedro						
+					Concharí						
+					Alsacia						
+					Miravalle						
+					Chapata						
+					El Horro						
+					Aranzazu						
+					Campoalegre						
+					Las Camelias						
+					Belalcázar						
+					El Madroño						
+					La Habana						
+					Asentamiento Indígena						
+					Chinchiná						
+					El Trébol						
+					Alto De La						
+					La Quiebra Del Naranjo						
+					Filadelfia						
+					El Pintado						
+					El Verso						
+					La Paila						
+					Morritos						
+					Samaria						
+					Balmoral						
+					La Marina						
+					La Dorada						
+					Guarinocito						
+					Purnio						
+					La Atarraya						
+					Camelias						
+					Horizonte						
+					La Agustina						
+					Prosocial La Humareda						
+					La Merced						
+					La Felisa						
+					El Palo						
+					La Chuspa						
+					Toscana/Vergel						
+					Manzanares						
+					Aguabonita						
+					Los Planes						
+					Marmato						
+					Cabras						
+					El Llano						
+					Jimenez Alto						
+					Jimenez Bajo						
+					Ladrillera						
+					Loaiza						
+					Marquetalia						
+					Marulanda						
+					Montebonito						
+					Mollejones						
+					Páramo Herveo						
+					Neira						
+					Pueblo Rico						
+					Tapias						
+					La Cristalina						
+					La Felicia						
+					Barrio Medellín						
+					La Isla						
+					Agrovilla						
+					Norcasia						
+					Pácora						
+					Castilla						
+					Las Coles						
+					San Bartolomé						
+					Los Morros						
+					Palestina						
+					Arauca						
+					El Jardín (Reposo)						
+					La Plata						
+					Cartagena						
+					Pensilvania						
+					Arboleda						
+					Bolivia						
+					El Higuerón						
+					La Rioja						
+					San Daniel						
+					La Torre						
+					La Soledad Alta						
+					Riosucio						
+					Bonafont						
+					Quiebralomo						
+					Sipirra						
+					Las Estancias						
+					La Playa (Imurra)						
+					Tumbabarreto						
+					Risaralda						
+					Alto De Arauca						
+					Quiebra Santa Bárbara						
+					Quiebra Varillas						
+					Calle Larga						
+					Salamina						
+					Berlín						
+					Encimadas						
+					Los Pomos						
+					Rancholargo						
+					El Congal						
+					La Libertad						
+					Primavera Alta						
+					Condominios Valles De Acapulco Y Los Seis Y Punto						
+					Supía						
+					La Quinta						
+					Hojas Anchas						
+					Guamal						
+					Victoria						
+					Isaza						
+					La Pradera						
+					Villamaría						
+					Alto De La Cruz (Los Cuervos)						
+					El Pindo						
+					Llanitos						
+					Rioclaro						
+					San Julián						
+					Alto Villarazo						
+					Gallinazo						
+					La Nueva Primavera						
+					Bajo Arroyo						
+					Corozal						
+					Partidas						
+					Granja Agrícola La Paz						
+					Nuevo Río Claro						
+					Viterbo						
+					Altos De Jaen						
+					El Remanso						
+					Los Alcaravanes						
+					Los Andes						
+					Quintas De Catalina						
+					Bosques Del Palmar						
+					Villa Del Río						
+					San Antonio De Atenas						
+					Santana Las Hermosas						
+					Norcacia						
+					El Para						
+					San Guillermo						
+					Puerto Arango						
+					Dorado						
+					Belén De Los Andaquíes						
+					El Portal La Mono						
+					Puerto Torres						
+					Pueblo Nuevo Los Ángeles						
+					Aletones						
+					Cartagena Del Chairá						
+					Remolino Del Caguán						
+					Santa Fe Del Caguán						
+					Peñas Coloradas						
+					Puerto Camelia						
+					Los Cristales						
+					Cumarales						
+					El Café						
+					Nápoles						
+					Peñas Blancas						
+					Curillo						
+					Noviembreia Puerto Valdivia						
+					Palizadas						
+					El Doncello						
+					Maguare						
+					Puerto Manrique						
+					El Berlín						
+					El Paujil						
+					La Montañita						
+					Santuario						
+					La Unión Peneya						
+					El Triunfo						
+					Mateguadua						
+					Milán						
+					San Antonio De Getucha						
+					Maticuru (Granario)						
+					La Rastra						
+					Remolinos De Aricuntí						
+					Remolino Bajo Orteguaza						
+					Morelia						
+					Lusitania						
+					Santana Ramos						
+					La Aguililla						
+					San José Del Fragua						
+					Fraguita						
+					Yurayaco						
+					Sabaleta						
+					Cristal						
+					San Vicente Del Caguán						
+					Ciudad Yarí						
+					Balsillas (San Luis Del Oso)						
+					Campo Hermoso						
+					Tres Esquinas						
+					Puerto Betania						
+					Los Pozos						
+					Troncales						
+					La Sombra						
+					San Juan De Lozada						
+					Alto Palermo						
+					Cristo Rey						
+					Delicias						
+					El Ruby						
+					La Tunia (Caquetania)						
+					Luz Grande Los Angeles						
+					Playa Rica						
+					Puerto Lozada						
+					Rovira						
+					Yaguará Ii						
+					Solano						
+					Araracuara						
+					Danubio (Campo Alegre)						
+					Cuemani						
+					Mononguete						
+					Puerto Tejada						
+					Peña Roja						
+					Solita						
+					Kilómetro 28						
+					Kilómetro 30						
+					Puerto Bolivia						
+					Unión Sincelejo						
+					Santiago De La Selva						
+					Kilómetro 18						
+					"Distrito Especial Ecoturístico, Histórico Y Universitario De Popayán"						
+					Cajete						
+					Calibío						
+					El Charco						
+					El Placer						
+					El Tablón						
+					Figueroa						
+					Julumito						
+					La Rejoya						
+					La Yunga						
+					Pueblillo Alto						
+					Puelenje						
+					Quintana						
+					Samanga						
+					Yanaconas						
+					El Sendero						
+					El Canelo						
+					Poblazón						
+					Samuel Silverio						
+					Crucero De Puelenje						
+					El						
+					Julumito Alto						
+					La Cabuyera						
+					Lame						
+					Río Blanco						
+					Vereda De Torres						
+					Jardines De Paz						
+					La Fortaleza						
+					Parcelacion Atardeceres De La Pradera						
+					Almaguer						
+					Caquiona						
+					Tablón						
+					Llacuanas						
+					Saují						
+					San Jorge Herradura						
+					El Mango						
+					La Belleza						
+					El Diviso						
+					El Plateado						
+					El Naranjal						
+					Botafogo						
+					Cristales Alto						
+					Las Perlas						
+					Puente Tierra						
+					San J. Guadua						
+					Balboa						
+					La Planada						
+					San Alfonso						
+					La Bermeja						
+					Pureto						
+					Guadalito						
+					La Lomita						
+					El Vijal						
+					Bermeja Alta						
+					Bolívar						
+					Capellanías						
+					Guachicono						
+					La Cumbre De Santa Inés						
+					Las Cascadas						
+					Las Cejas						
+					Lerma						
+					Los Milagros						
+					Los Rastrojos						
+					Melchor						
+					San José Del Morro						
+					La Carbonera						
+					Villa Nueva						
+					Honduras						
+					Timba						
+					El Ceral						
+					El Llanito						
+					Paloblanco						
+					Munchique						
+					Cajibío						
+					Chaux						
+					Dinde						
+					La Pedregosa						
+					La Venta						
+					Ortega						
+					Casas Bajas						
+					El Recuerdo						
+					Caldono						
+					Cerro Alto						
+					Pescador						
+					Pioyá						
+					Plan De Zuñiga						
+					Siberia						
+					Andalucía						
+					Granadillo						
+					Caloto						
+					Huasano						
+					La Palomera						
+					Quintero						
+					La Arrobleda						
+					Pedregal						
+					Crucero De Gualí						
+					Alto El Palo						
+					Bodega Arriba						
+					El Nilo						
+					El Guásimo						
+					Toez						
+					El Credo						
+					Guabito						
+					López Adentro						
+					Tierrero						
+					Vergel						
+					El Jagual						
+					Media Naranja						
+					Alto Del Rey						
+					Baraya						
+					Cuatro Esquinas						
+					Chapa						
+					Chisquío						
+					El Zarzal						
+					Gamboa						
+					Huisitó						
+					La Alianza						
+					La Paz						
+					Los Anayes						
+					Los Angeles						
+					Mosquera						
+					Pandiguando						
+					Piagua						
+					Quilcacé						
+					Sabanetas						
+					San Juan De Mechenque						
+					Seguengue						
+					Uribe						
+					Villa Al Mar						
+					Buena Vista						
+					Las Botas						
+					El Crucero Del Pueblo						
+					La Romelia						
+					Puerta Llave						
+					Río Hondo						
+					Veinte De Julio						
+					Calichales						
+					El Ochentayuno (La Gallera)						
+					Guazaravita						
+					La Banda						
+					Las Huertas						
+					Río Sucio						
+					Murgueitio						
+					Pepital						
+					Juana Castaña						
+					La Ventana						
+					Monterredondo						
+					La Paloma						
+					Guachené						
+					El Centro						
+					Veredas Nororientales						
+					Veredas Unidas						
+					Guapi						
+					Alfonso López (Balsitas)						
+					Benjamín Herrera (San Vicente)						
+					Callelarga						
+					Concepción De Guajuí						
+					La Soledad						
+					Limones						
+					Olaya Herrera (Guare)						
+					Rosario						
+					San Antonio De Guajuí						
+					Uribe Uribe (El Naranjo)						
+					Boca De Napí						
+					El Atajo						
+					Llantín						
+					Cascajero						
+					Chamón						
+					Chanzará						
+					Las Junta						
+					Quiroga						
+					Chuare						
+					San José De Guapi						
+					Inzá						
+					Calderas						
+					Puerto Valencia						
+					Topa						
+					Tumbichucue						
+					Turminá						
+					Guanacas						
+					Carmen De Viboral						
+					Los Alpes						
+					Jambaló						
+					La María (El Trapiche)						
+					Loma Redonda						
+					Valles Hondos						
+					Loma Gruesa						
+					La Vega						
+					Arbela						
+					Los Uvos						
+					Pancitará						
+					Placer						
+					Santa Juana						
+					Chaupiloma						
+					Dominical						
+					Los Ciruelos						
+					Villa María						
+					Barbillas						
+					Micay						
+					Agua Clara (Golondro)						
+					Alto De Chuare						
+					El Playón (Siguí)						
+					El Trapiche						
+					Jolí						
+					La Sagrada Familia						
+					Noanamito						
+					Playa Grande						
+					Río Maya (Dos Quebradas)						
+					San Antonio De Chuare						
+					San Pedro De Naya						
+					Taparal						
+					Bajo Siguí						
+					El Coco						
+					San Francisco Adentro						
+					Calle Larga (Naya)						
+					Chiguero						
+					Alto Naya						
+					Eltrueno						
+					San Antonio De Gurumendy						
+					Boca Grande						
+					Brazo De La Rotura						
+					Santa Cruz De Siguín						
+					Mercaderes						
+					Alto De Mayo						
+					Arboledas						
+					El Pilón						
+					Esmeraldas						
+					San Juanito						
+					Tablones Altos						
+					Cajamarca						
+					El Bado						
+					Tabloncito						
+					El Carbonero						
+					Mojarras						
+					Miranda						
+					El Cañón						
+					Ortigal						
+					Tulipan						
+					Zanjón Rico						
+					Carpintero						
+					Chimborazo						
+					Padilla						
+					Yarumales						
+					El Chamizo						
+					Cuernavaca						
+					Araujo						
+					Avirama						
+					Cohetando						
+					Chinas						
+					El Colorado						
+					Itaibe						
+					Mosoco						
+					Ricaurte						
+					Riochiquito						
+					San Luis (Potrerillo)						
+					Talaga						
+					Tóez						
+					Togoima						
+					Villa Rodríguez						
+					Vitonco						
+					La Troja						
+					El Cabuyo						
+					Taravira						
+					Cuetandó						
+					El Bordo						
+					Brisas						
+					Don Alonso						
+					Galíndez						
+					La Fonda						
+					La Mesa						
+					Las Tallas						
+					Patía						
+					Piedrasentada						
+					Chondural						
+					Sajandí						
+					El Estrecho						
+					El Hoyo						
+					Angulo						
+					Bello Horizonte						
+					El Puro						
+					Sachamates						
+					Santa Rosa Baja						
+					Versalles Boquirroto						
+					El Tuno						
+					Méndez						
+					Quebrada Oscura						
+					Miraflor						
+					Yapurá						
+					Piendamó						
+					Tunía						
+					Bocas Del Palo						
+					Perico Negro						
+					Coconuco						
+					Puracé						
+					Santa Leticia						
+					Paletará						
+					Rosas						
+					Gualoto						
+					Párraga						
+					Ufugu						
+					Lomabajo						
+					Lombajo						
+					Cefiro						
+					Diviso						
+					Lomagrande						
+					Marques						
+					Sauce						
+					San Sebastián						
+					El Rosal						
+					Valencia						
+					Santander De Quilichao						
+					El Turco						
+					Mondomo						
+					Paramillo						
+					Tres Quebradas						
+					Agua Azul						
+					Dominguillo						
+					Quinamayo						
+					Llano De Alegrías						
+					Cambalache						
+					El Broche						
+					El Tajo						
+					La Quebrada						
+					Lomitas Abajo						
+					Lomitas Arriba						
+					Lourdes						
+					Descanse						
+					Santa Martha						
+					San Juan De Villalobos						
+					Villa Mosquera						
+					Curiaco						
+					Sector Mandiyaco						
+					Silvia						
+					Guambia						
+					Pitayo						
+					Quichayá						
+					Pueblecito						
+					Usenda						
+					Valle Nuevo						
+					La Campana						
+					El Cacique						
+					Puente Real						
+					San Pedro Del Bosque						
+					Tumburao						
+					Alto Grande						
+					Laguna Seca						
+					Loma Del Carmen						
+					Michambe						
+					La Ovejera						
+					Paispamba						
+					Chiribío						
+					Hatofrío						
+					Piedra De León						
+					Sachacoco						
+					Puebloquemado						
+					Suárez						
+					Asnazu						
+					Gelima La Toma						
+					Matecana						
+					La Roma						
+					La Betulia						
+					Mindala						
+					Agua Clara Canelar						
+					Cascadas						
+					Crucero Bello						
+					El Fresno						
+					El Tesoro						
+					Mazamorras						
+					Tequendama						
+					Timbío						
+					Camposano						
+					Cincodias						
+					Cruces						
+					Antomoreno						
+					La Martica						
+					Timbiquí						
+					Bubuey						
+					Camarones						
+					Coteje						
+					El Cuerval						
+					Pete						
+					San Bernardo						
+					Santa Rosa De Saija						
+					Chete						
+					Boca De Patía						
+					El Realito						
+					Chacón						
+					Brazo Corto						
+					Infí						
+					Cupi						
+					Soledad De Yantín						
+					Cabecital						
+					Puerto Saija						
+					Guangui						
+					Toribio						
+					Natala						
+					Tacueyo						
+					Totoró						
+					Gabriel López						
+					Paniquitá						
+					Polindara						
+					Villa Rica						
+					Cantarito						
+					Chalo						
+					Gallinaza						
+					Juan Ignacio						
+					Valledupar						
+					Aguas Blancas						
+					Atanquez						
+					Chemesquemena						
+					Guatapurí						
+					Guacoche						
+					Los Venados						
+					Maríangola						
+					Patillal						
+					Valencia De Jesus						
+					Guacochito						
+					Los Calabazos						
+					Los Corazones						
+					Los Haticos						
+					Azúcar Buena (La Mesa)						
+					Las Raíces						
+					Río Seco						
+					Vega Arriba						
+					Villa Germania						
+					El Jabo						
+					Alto De La Vuelta						
+					Haticos Ii						
+					San Martín (El Perro)						
+					Sabana Crespo						
+					Las Casitas						
+					El Alto						
+					Aguachica						
+					Barrancalebrija						
+					Loma De Corredor						
+					Puerto Patiño						
+					Buturama						
+					Norean						
+					Villa De San Andrés						
+					Campo Amalia						
+					El Juncal						
+					Agustín Codazzi						
+					Casacaza						
+					Llerasca						
+					Sicarare						
+					Punta Arrecha						
+					San Ramón						
+					Astrea						
+					El Yucal						
+					Santa Cecilia						
+					El Hebrón						
+					Becerril						
+					Estados Unidos						
+					Tamaquito						
+					Campo/Alegre/Arzario						
+					La Guajirita						
+					Bosconia						
+					Bocas De Tigre						
+					Loma Colorada						
+					Alto De						
+					El Edén						
+					El Tropezón						
+					Loma Linda						
+					Nueva Idea						
+					Puerto Lajas						
+					Chimichagua						
+					Las Vegas						
+					Mandinguilla						
+					Saloa						
+					Sempegua						
+					La Mata						
+					Higo Amarillo						
+					Chiriguaná						
+					Poponte						
+					Rincón Hondo						
+					Estación Chiriguaná						
+					Agua Fría						
+					El Cruce De La Sierra						
+					Los Cerrajones						
+					Ojo De						
+					Curumaní						
+					Barrio Acosta						
+					Hojancha						
+					El Mamey La Serena						
+					El Copey						
+					Caracolicito						
+					Chimila						
+					San Francisco De Asís						
+					El Paso						
+					El Vallito						
+					Potrerillo						
+					Cuatro Vientos						
+					Pueblo Regado						
+					Gamarra						
+					El Contento						
+					Puerto Mosquito						
+					Puerto Viejo						
+					Mahoma						
+					Puerto Capulco						
+					González						
+					Bujaravita						
+					Búrbura						
+					Culebrita						
+					Montera						
+					Mata De Fique						
+					La Gloria						
+					Ayacucho						
+					Molina						
+					Simaña						
+					Besote						
+					Bubeta						
+					La Jagua De Ibirico						
+					Las Palmitas						
+					La Victoria De San Isidro						
+					Boquerón						
+					Balcon Del Cesar						
+					Pailitas						
+					Rivera						
+					El Burro						
+					Pelaya						
+					Costilla						
+					La Caja						
+					Las Minas De Iracal						
+					Palmarito (Nuevo Colón)						
+					Nabusimake (San Sebastián)						
+					Río De Oro						
+					El M Arquéz						
+					Montecitos						
+					Morrison						
+					Los Encantos						
+					San José Del Oriente						
+					Varas Blancas						
+					San José De Oriente (Betania)						
+					San Alberto						
+					La Llana						
+					Líbano						
+					Puerto Carreño						
+					La Carolina						
+					Los Ortegas						
+					Los Tupes						
+					Media Luna						
+					El Rincón						
+					Las Pitillas						
+					Los Brasiles						
+					Tocaimo						
+					Nuevas Flores						
+					El Barro						
+					Puerto Oculto						
+					San José De Las Américas						
+					Candelia						
+					Terraplen						
+					Torcoroma						
+					Los Bagres						
+					Pita Limón						
+					Las Salinas						
+					Tamalameque						
+					Palestina La Nueva						
+					La Boca						
+					Zapatosa						
+					Antequera						
+					Pasacorriendo						
+					Montería						
+					Palotal						
+					El Cerrito						
+					El Sabanal						
+					Jaraquiel						
+					La Manta						
+					Las Palomas						
+					Loma Verde						
+					Los Garzones						
+					Nuevo Paraíso						
+					Nueva Lucía						
+					Pueblo Buho						
+					San Anterito						
+					Tres Palmas						
+					Tres Piedras						
+					El Barsal						
+					El Cocuelo						
+					Martinica						
+					Tenerife						
+					Morindó Central						
+					Boca De La Ceiba						
+					Broquelito						
+					El Quince						
+					El Vidrial						
+					Ensenada De La Hamaca						
+					Maquencal						
+					Maracayo						
+					Matamoros						
+					Mochilas						
+					Nuevos Horizontes						
+					Palmito Picao						
+					Pereira						
+					Villavicencio						
+					Ya La Lleva						
+					Agua Vivas						
+					Pueblo Seco						
+					Villa Cielo						
+					Ayapel						
+					Cecilia						
+					Marralú						
+					Pueblo Nuevo (Popales)						
+					Tierra Santa						
+					Villa Fátima						
+					Nueva Estación						
+					Puerto Córdoba						
+					Cotorra						
+					Ciénaga De Sambo						
+					Costa Rica						
+					Mejor Esquina						
+					El Viajano						
+					Santa Fe Del Arcial						
+					Coyongo						
+					Canalete						
+					Popayán						
+					Cadillo						
+					Cordobita Central						
+					Cordobita Frontera						
+					El Guineo						
+					La Alcancia						
+					La Lorenza						
+					Pueblo Mono						
+					Tierradentro						
+					Urango						
+					Buenos Aires (Las Pavas)						
+					El Tomate						
+					Si Se Van						
+					Cereté						
+					Martínez						
+					Mateo Gómez						
+					Rabolargo						
+					Severa						
+					Cuero Curtido						
+					Retiro De Los Indios						
+					El Quemado						
+					Tres Maria						
+					Buenavista Del Retiro						
+					Buenavista El Quemado						
+					Oriente						
+					Playarica						
+					Venado/Campanito						
+					Chimá						
+					Arache						
+					Campo Bello						
+					Corozalito						
+					Punta Verde						
+					Sabanacosta						
+					Pimental						
+					Sabanal						
+					Chinú						
+					Cacaotal						
+					Carbonero						
+					Heredia						
+					Flechas Sevilla						
+					Tierra Grata						
+					Flechas Sabanas						
+					Garbado						
+					La Panamá						
+					La Pilona						
+					Retiro De Los Pérez						
+					Los Algarrobos						
+					Palmital						
+					Chorrillo						
+					El Deseo						
+					Arrimadero						
+					Boca De Monte						
+					Ceja Grande						
+					Las Lomas						
+					Las Jarabas						
+					Noviembrea						
+					Pajonal						
+					Pisa Bonito						
+					San Quirre						
+					El Brillante						
+					El Orozco						
+					Floral						
+					Lomas De Piedra						
+					Termoelectrica						
+					Bajo De Piedra						
+					Bleo						
+					Cañahuate						
+					Canoa						
+					Jaraba						
+					Piñuelas						
+					Raicero						
+					Raizal						
+					Ciénaga De Oro						
+					Berástegui						
+					El Siglo						
+					Laguneta						
+					Los Mimbres						
+					Punta De Yáñez						
+					Santiago Del Sur						
+					Puerto De La Cruz						
+					Charcón						
+					El Bobo						
+					Salguero						
+					Pijiguayal						
+					La Barra						
+					Santiago Pobre						
+					San Antonio Del Táchira						
+					Rosa Vieja						
+					El Higal						
+					Las Balsas						
+					Egipto						
+					Barro Prieto						
+					El Guáimaro						
+					El Templo						
+					La Arena						
+					La Draga						
+					La Saca						
+					Mayoría						
+					Noche Azul						
+					Playa Blanca						
+					Poza Redonda						
+					Santiago Arriba						
+					Venado Central						
+					El Bongo						
+					El Binde						
+					Chamarra						
+					El Vivero						
+					Montón						
+					Playas Del Campano						
+					La Apartada Y La Frontera						
+					Margen Izquierda De Puerto Córdoba						
+					Margen Izquierda De Campo Alegre						
+					Nuevo Pueblo						
+					Margen Derecha De Puerto Córdoba						
+					Margen Derecha De Campo Alegre						
+					La Virgen						
+					La Escobilla						
+					La Magdalena						
+					Los Noviembreillos						
+					Santa Cruz De Lorica						
+					El Carito						
+					La Doctrina						
+					Los Monos						
+					Palo De Agua						
+					Tierralta						
+					El Lazo						
+					El Campano De Los Indios						
+					Cotoca Arriba						
+					Los Higales						
+					Remolino						
+					Villa Concepcion						
+					Mata De Caña						
+					Castilleral						
+					Cotoca Abajo						
+					Las Camorras						
+					San Nicolás De Barí						
+					Manantial						
+					La Subida						
+					El Playón						
+					La Peinada						
+					Los Morales						
+					El Guanabano						
+					Juan De Dios Garis						
+					Los Córdobas						
+					El Ebano						
+					Santa Rosa La Caña						
+					La Salada						
+					Morindó Santana						
+					Jalisco						
+					Barrio Mamey						
+					La Ponderancia						
+					Brisas Del Caribe						
+					El Mamby						
+					El Oasis						
+					Las Tinas						
+					Los Esquimales						
+					Morindó La Unión						
+					Morindó Santa Cruz						
+					Nuevo Nariño						
+					Momil						
+					Sacana Abajo						
+					Trementino						
+					Cedro De Piedra						
+					Pueblecito (San Miguel)						
+					Guaymaral						
+					Montelíbano						
+					El Anclar						
+					San Francisco Del Rayo						
+					Uré						
+					Pica Pica						
+					El Disparo						
+					El Sol						
+					Bocas De Perro						
+					Moralito						
+					La Nueva						
+					Puerto Carepa						
+					Puerto Anchica						
+					Boca De Ure						
+					Juan José						
+					Los Cordobas						
+					Moñitos						
+					Río Cedro						
+					Santander De La Cruz						
+					Broqueles						
+					La Rada						
+					Las Mujeres						
+					Mangle						
+					Perpetuo Socorro						
+					Planeta Rica						
+					Arenoso						
+					Santana (Centro Alegre)						
+					El Almendro						
+					Marañonal						
+					Plaza Bonita						
+					Medio Rancho						
+					Pamplona						
+					El Reparo						
+					Los Cerros						
+					Las Pelonas						
+					Pueblo Rizo						
+					Planetica						
+					San Jerónimo (Golero)						
+					Loma De Piedra						
+					Arena Del Sur						
+					Cintura						
+					El Poblado						
+					La Granjita						
+					Los Limones						
+					Puerto Santo						
+					Palmira						
+					Neiva						
+					Arroyo De Arena						
+					El Campano						
+					Pueblo Regao						
+					Puerto Leticia						
+					El Arcial						
+					Apart. De Betulia						
+					Café Pisao						
+					Centro América						
+					El Pantano						
+					San José De Canalete						
+					Villa Ester						
+					Arizal						
+					Morindó						
+					Caña De Canañete						
+					El Contento Arriba						
+					Jaramagal						
+					Puerto Libertador						
+					La Rica						
+					Pica Pica Viejo						
+					Buenos Aires Abajo						
+					Santa Fé Las Claras						
+					Puerto Belén						
+					Torno Rojo						
+					Purísima						
+					Aserradero						
+					El Hueso						
+					Los Corales						
+					San Pedro De Arroyo Hondo						
+					Sahagún						
+					Arenas Del Norte						
+					Catalina						
+					Colomboy						
+					La Ye						
+					Morrocoy						
+					Rodania (Rodáculo)						
+					Salitral						
+					Santiago Abajo						
+					Las Bocas						
+					Pisa Flores						
+					El Olivo						
+					El Remolino						
+					Ranchería						
+					Guáimarito						
+					Las Aguaditas						
+					Dividivi						
+					Las Manuelitas						
+					Los Galanes						
+					Salguerito						
+					Brisas Del Mar						
+					Ceiba De Leche						
+					Escobalito						
+					Kilómetro 32						
+					Los Placeres						
+					Morrocoicito						
+					Alpujarra Ii						
+					Los Amarillos						
+					Los Chibolos						
+					Sabana De La Fuente						
+					San Andrés De Sotavento						
+					El						
+					Flechas						
+					Los Carretos						
+					Los Vidales						
+					Nueva Estrella						
+					San Juan De La Cruz						
+					Tuchín						
+					Los Castillos						
+					Los Guayacanes						
+					Carretal						
+					Cruz Chiquita						
+					Jején						
+					Alemania						
+					Cruz De Guayabo						
+					El Hoyal						
+					El Algodoncillo						
+					San Antero						
+					Los Secos						
+					Nuevo Agrado						
+					Santa Rosa Del Bálsamo						
+					Tijeretas						
+					Bijaito						
+					Calao						
+					Cerropetrona						
+					Cispata						
+					El Tributo						
+					Grau						
+					La Bonguita						
+					La Parrilla						
+					Las Nubes						
+					Punta Bolivar						
+					San Jose						
+					San Bernardo Del Viento						
+					José Manuel De Altamira						
+					Paso Nuevo						
+					Caño Grande						
+					Playas Del Viento						
+					San Blas De Junín						
+					Sicará						
+					Chiquí						
+					San José De Las Cañas						
+					Miramar						
+					Barbascal De Asturias						
+					Barcelona						
+					Camino Real						
+					El Castilo						
+					Tinajones						
+					Villa Clara						
+					Carrizal						
+					Guacharacal						
+					Remedio Pobre						
+					Cabuya						
+					Callemar						
+					Cienaguita						
+					Arriba						
+					San Pelayo						
+					Carrillo						
+					Las Guamas						
+					Sabananueva						
+					Las Lauras						
+					El Tapón						
+					Boca De López						
+					Los Borrachos						
+					El Chiqui						
+					El Obligado						
+					Bongas Mellas						
+					Pompeya						
+					Cañuelar						
+					El Bálsamo						
+					El Corozo						
+					El Napal						
+					La Chamarra						
+					La Majagua						
+					La Trampa						
+					Terron						
+					Callejas						
+					Caramelo						
+					Mantagordal						
+					Saiza						
+					Santa Fe Ralito						
+					Severinera						
+					Volador						
+					Nuevo Frasquillo						
+					Santa Marta						
+					Villa Providencia						
+					Crucito						
+					Águila Batata						
+					Pueblo Cedro						
+					Bonito Viento						
+					San Felipe Cadillo						
+					La Osa						
+					Loma Larga						
+					Mata De Maíz						
+					Jaraguay						
+					Cocuelo Arriba						
+					Guadual Central						
+					Agua De Dios						
+					La Puna						
+					Albán						
+					Chimbe (Danubio)						
+					Anapoima						
+					San Antonio De Anapoima						
+					Anolaima						
+					Reventones						
+					Canazejas						
+					Boquerón De Ilo						
+					Corralejas						
+					Arbeláez						
+					Tisince						
+					Beltrán						
+					Paquiló						
+					La Popa						
+					Puerto Gramalotal						
+					Puerto Teja						
+					Chácara						
+					Tabor						
+					Bituima						
+					Boquerón De Iló						
+					Bojacá						
+					Cabrera						
+					Sumapaz La Playa						
+					Simón Bolívar						
+					Cachipay						
+					Peña Negra						
+					Cajicá						
+					Rincón Santo						
+					Chuntame						
+					Canelón						
+					Río (La Florida)						
+					Calahorra						
+					Aguanica						
+					Río (La Palma)						
+					Río Grande (El Misterio)						
+					Río Grande (La Esperanza)						
+					Río Grande (Vargas)						
+					Chuntame Entrada A Vicente León						
+					Sector Prado Entrada A Canelon						
+					Caparrapí						
+					Cambras						
+					Canchimay						
+					El Dindal						
+					Tati						
+					Azauncha						
+					Cambulo						
+					Mata De Plátano						
+					Puerto Cajuche						
+					San Ramón Alto						
+					San Ramón Bajo						
+					Caqueza						
+					Carmen De Carupa						
+					Hato						
+					Chaguaní						
+					Melgas						
+					Nuquía						
+					Rincón						
+					Chía						
+					Fonqueta						
+					Sindamanoy I						
+					Tiquiza						
+					Cerca De Piedra						
+					Fagua						
+					La Balsa Sabaneta						
+					Chipaque						
+					Abasticos						
+					Choachí						
+					Chocontá						
+					El Sisga						
+					Cogua						
+					Rodamontal						
+					Cardonal						
+					El Mortiño						
+					La Plazuela						
+					El Cascajal						
+					El Durazno						
+					El Olivo (La Autopista)						
+					Sector Alvarez						
+					Sector Zamora						
+					Cota						
+					Cucunubá						
+					El Colegio						
+					Pradilla						
+					Talauta						
+					Cruz Verde						
+					Puente El Rosal						
+					Facatativá						
+					Los Llanitos						
+					La Hierbabuena						
+					Alto De Córdoba						
+					El Pesebre						
+					Los Manzanos						
+					Paso Ancho						
+					San Antonio I						
+					San Antonio Ii						
+					Sagrado Corazón						
+					Villa Myriam						
+					Los Robles						
+					Tierra Grata Alta						
+					Tierra Grata (El Cruce)						
+					La Holanda						
+					La Recebera						
+					Toro Barroso						
+					Fomeque						
+					Fosca						
+					Sáname						
+					El Ramal						
+					Funza						
+					Fúquene						
+					Capellanía						
+					Nuevo Fúquene						
+					Fusagasugá						
+					La Aguadita						
+					El Triunfo Boquerón						
+					Usatama Bajo						
+					Gachala						
+					Santa Rita Del Río Negro						
+					El Guavio						
+					Palomas						
+					Bocademonte						
+					Gachancipá						
+					Roble Sur						
+					Roble Centro						
+					Gachetá						
+					Los López						
+					Gama						
+					Girardot						
+					Acapulco						
+					Guabinal						
+					Barzalosa						
+					Aguablanca						
+					Guabinal Cerro						
+					Presidente						
+					La Veintidos						
+					San Raimundo						
+					Guachetá						
+					Guaduas						
+					Guaduero						
+					La Paz De Calamoima						
+					Puerto Bogotá						
+					Alto Del						
+					Guasca						
+					La Cabrerita						
+					Guataquí						
+					Las Islas						
+					Guatavita						
+					Montecillo						
+					Guayabal De Siquima						
+					Guayabetal						
+					Tunque Del Naranjal						
+					Las Mesas						
+					Limoncitos						
+					Susumuco						
+					Gutiérrez						
+					Pascote						
+					Junín						
+					Claraval						
+					Chuscales						
+					El Salitrico						
+					Sueva						
+					Puente Lisio						
+					Ramal						
+					La Calera						
+					Mundonuevo						
+					El Salitre						
+					Treinta Y Seis						
+					Murca						
+					La Hoya Tudela						
+					Minasal						
+					Cancuena						
+					Balcones						
+					El Vino						
+					Hoya Grande						
+					La Campiña						
+					Lenguazaque						
+					Macheta						
+					La Cuesta						
+					El Corzo						
+					Puente De Piedra						
+					Chauta						
+					Moyano						
+					Pablo Vi						
+					Manta						
+					Medina						
+					San Pedro De Guajaray						
+					Mesa De Los Reyes						
+					Gazatavena						
+					Gazaduje						
+					Gazabina						
+					La Naguaya						
+					Los Puentes						
+					El Charquito						
+					El Charquito San Joaquin						
+					La Reforma Buscavida						
+					Nemocón						
+					El Oratorio						
+					Divino Niño						
+					Camacho						
+					Nilo						
+					Nimaima						
+					Tobia						
+					Paso Del Rejo						
+					Nocaima						
+					Tobia Chica						
+					Aposentos						
+					Pacho						
+					Pasuncha						
+					Paime						
+					Cuatro Caminos						
+					Tudela						
+					El Plomo (El Paraíso)						
+					Pandi						
+					Paratebueno						
+					Maya						
+					El Engaño						
+					Villa Pacelly						
+					Guaicaramo						
+					El Japón						
+					Pasca						
+					Alto Del Molino						
+					Guchipas						
+					Puerto Salgar						
+					Colorados						
+					Puerto Libre						
+					Tres Y Medio						
+					Pulí						
+					Paramón						
+					Talipa						
+					Quebradanegra						
+					Quetame						
+					Puente Quetame						
+					Quipile						
+					La Botica						
+					Apulo						
+					Manuel Sur						
+					El Portal						
+					Las Varas						
+					San Marcos Poblado						
+					San Antonio Del Tequendama						
+					Santandercito						
+					Los Naranjos						
+					Villa Pradilla						
+					Villa Shyn (Casa Moviles)						
+					Portones						
+					Primer Campamento						
+					Segundo Campamento						
+					Tercer Campamento						
+					Camancha						
+					Cuibuco						
+					Pinipay						
+					Albergue						
+					Laguna Verde						
+					San Juan De Río Seco						
+					Cambao						
+					Sasaima						
+					Santa Ines						
+					Sesquilé						
+					Boitiva San Roque						
+					Siatoya						
+					Boitiva La Esperanza						
+					Sibaté						
+					San Benito						
+					Chacua						
+					Perico Sector La Honda						
+					Perico Sector La Macarena						
+					San Benito Sector Centro						
+					San Fortunato Sector Los Zorros						
+					San Miguel Sector Sur						
+					Silvania						
+					Azafranal						
+					Subia						
+					Simijaca						
+					El Retén						
+					Centro Sector Juan Pacho						
+					Soacha						
+					Charquito						
+					Chacua Cabrera						
+					Sopó						
+					Meusa						
+					Hatogrande						
+					Gratamira						
+					Mercenario						
+					La Diana						
+					Pueblo Viejo Sector Niño						
+					Subachoque						
+					Galdamez						
+					Suesca						
+					Hato Grande						
+					Cacicazgo						
+					Supatá						
+					La Magola						
+					Susa						
+					Sutatausa						
+					Las Peñas						
+					Tabio						
+					Carrón						
+					El Pencil						
+					Parcelación Termales						
+					Palo Verde Chicú						
+					Tausa						
+					Roma (Tausa Viejo)						
+					Tena						
+					Tenjo						
+					La Punta						
+					Sector Cementerio						
+					Sector Pan De Azucar						
+					Tibacuy						
+					Bateas						
+					Cumaca						
+					Tibirita						
+					Tocaima						
+					Pubenza						
+					La Colorada						
+					Tocancipá						
+					Sectores Chauta Y Chaparro						
+					Dulcinea						
+					Pelpak						
+					Tolima						
+					La Fuente						
+					Cetina						
+					Champiñones Verganzo						
+					Chauta/Verganzo						
+					Chicalá/Canavita						
+					Las Quintas/Tibitó						
+					Topaipí						
+					San Antonio De Aguilera						
+					Ubalá						
+					Laguna Azul						
+					Mámbita						
+					San Pedro De Jagua						
+					Ubaque						
+					Villa De San Diego De Ubate						
+					Guatancuy						
+					Volcán Bajo						
+					Palogordo						
+					Centro Del Llano						
+					Tausavita Bajo						
+					Viento Libre/Las Brisas						
+					Une						
+					Útica						
+					Vergara						
+					Villa Olarte						
+					Corcega						
+					Vianí						
+					Alto El Rosario						
+					Villagómez						
+					Villapinzón						
+					Villeta						
+					Bagazal						
+					Chapaima						
+					Ilo Grande						
+					Puente De Bagazal						
+					Viotá						
+					San Gabriel						
+					El Piñal						
+					Yacopí						
+					Guayabales						
+					Ibama						
+					Llano Mateo						
+					Terán						
+					Montañas De Linares						
+					Yasal						
+					Alto De Cañas						
+					El Chapón						
+					Patevaca						
+					La Collareja						
+					Cabo Verde						
+					El Castillo						
+					El Cauco						
+					Zipacón						
+					El Ocaso						
+					Zipaquirá						
+					El Tunal						
+					Río						
+					San Jorge Palo Bajo						
+					San Jorge Palo Alto						
+					Alto Del Águila						
+					Aposento Alto						
+					El Empalizado						
+					Loteo Banoy						
+					Loteo La Paz						
+					Loteo Pedraza						
+					Sector Care Perro						
+					La Mariela						
+					El Codito						
+					El Kiosko La Granja						
+					San Francisco De Quibdo						
+					Altagracia						
+					Bellaluz						
+					Boca De Tanandó						
+					Campobonito						
+					Guarandó						
+					La Troje						
+					San Rafael De Negua						
+					San Francisco De Icho						
+					Tagachí						
+					Tutunendó						
+					Gitrado						
+					Mojaudo						
+					Sanceno						
+					Alto Munguidó						
+					Boca De Nauritá (Nauritá)						
+					El Fuerte						
+					San Antonio De Icho						
+					Boca De Nemotá (Nemotá)						
+					Pacurita (Cabí)						
+					Villa Del Rosario						
+					Winando						
+					Barranco						
+					Boca De Tanando						
+					El Futuro						
+					Acandí						
+					Capurganá						
+					La Caleta						
+					Chugandí						
+					Sapzurro						
+					Peñalosa						
+					Titiza						
+					Ciudad Baudó						
+					Amparrado						
+					Chachajó						
+					Nauca						
+					San Francisco De Cugucho						
+					Santa Catalina De Catru						
+					Batatal						
+					Bella Vista						
+					El Salto (Bella Luz)						
+					Docacina						
+					Dominico						
+					Geando						
+					Iruto						
+					La Divisa						
+					Mojaudó						
+					Nuncidó						
+					Puesto Indio						
+					Santa Maria De Condoto						
+					Amparraida (Santa Rita)						
+					Bagrera (Puerto Martínez)						
+					Guineo						
+					Miacora						
+					Playita						
+					Puerto Alegre						
+					Puerto Córdoba Urudo						
+					Puerto Echeverry						
+					Puerto Libia						
+					Punto Caiminto						
+					Yuto						
+					Doña Josefa						
+					Samurindó						
+					Real De Tanandó						
+					Motoldó						
+					San José De Purré						
+					San Martín De Purré						
+					La Molana						
+					Puente De Tanandó						
+					Puente De Paimadó						
+					Isla De Los Pinilla						
+					Plaa De Oro						
+					La Toma						
+					Brazo De Los Naranjos						
+					Bagadó						
+					Aguasal						
+					Chambare						
+					Dabaibe						
+					Engrivadó						
+					Piedra Honda						
+					San Marino						
+					Tapera						
+					Playa Bonita						
+					Vivícora						
+					Pescadito						
+					Mútis						
+					Cupica						
+					Huaca						
+					Huina						
+					Juna						
+					Mecana						
+					Nabugá						
+					Tebada						
+					Pizarro						
+					Belén De Docampodo						
+					Cuevita						
+					Dotenedó						
+					Hijuá						
+					Orpúa						
+					Pavasa						
+					Piliza						
+					Punta Purricha						
+					Purricha						
+					Sivirú						
+					Torreidó De Abajo						
+					Torreidó De Arriba						
+					Virudó						
+					Curundó						
+					Punta De Igua						
+					Guineal						
+					Puerto Echeverri						
+					Usaragá						
+					San Miguel De Baudó						
+					Puerto Abadía						
+					Villa Colombia						
+					Belén De Bajirá						
+					Blanquiset						
+					Llano Rico						
+					Playa Roja						
+					Tumaradocito						
+					Leoncito						
+					Tierra Adentro						
+					La Loma De Bojayá						
+					Isla De Los Palacios						
+					La Boba						
+					Napipi						
+					Boca De Opogado						
+					Puerto Contó						
+					Pogue						
+					Piedra Candela						
+					Managrú						
+					Boca De Raspadura						
+					Puerto Pervel						
+					Taridó						
+					Guapandó						
+					Jorodó						
+					Pavaza						
+					Curbaradó						
+					Domingodó						
+					La Grande						
+					Puerto Lleras						
+					Turriquitadó						
+					Vigia De Curbadó						
+					Villa Nueva De Montaño						
+					Apartadó Buena Vista						
+					Brisas Del Cetino						
+					Chicao						
+					Gengadodenio						
+					La Madre						
+					Cértegui						
+					Parecito						
+					Paredes						
+					Variante De Certergui						
+					Ibordo						
+					Condoto						
+					Acosó						
+					Corodó						
+					La Muriña						
+					Opogodó						
+					Tajuato						
+					Viroviro						
+					La Planta						
+					Ilaria						
+					Consuelo Andrapa						
+					La Encharcazon						
+					El Carmen De Atrato						
+					La Mansa						
+					El Siete 2						
+					El Siete 1						
+					Santa Genoviembreeva De Docordó						
+					Copomá						
+					Cucurrupí						
+					Quebrada De Togoromá						
+					Corriente Palo						
+					Pichimá						
+					Charambirá						
+					Descolgadero						
+					El Choncho						
+					Quícharo						
+					García Gómez						
+					Guachal						
+					Guagualito						
+					Jigualito						
+					La Peñitas						
+					Los Perea						
+					Munguidó						
+					Chappien						
+					Burujón						
+					Pangalita						
+					Papayo						
+					Quebrada Girón						
+					Quebrada De Pichimá						
+					Pangalá						
+					Taparalito						
+					Tío Cirilo						
+					Tordó						
+					Trojita						
+					Venado						
+					Unión Valsalito						
+					Istmina						
+					Basuru						
+					Cocove						
+					Olave Indio						
+					Panamacito						
+					Potedo						
+					La Víbora						
+					Mungidó						
+					Suruco Santa Mónica						
+					Negria						
+					Boca De San Luis						
+					Guiniguini						
+					Paito						
+					Chigorodó (Puerto Salazar)						
+					Suruco San José						
+					Primera Mojarra						
+					Juradó						
+					Aguacate						
+					Coredo						
+					Curiche						
+					Punta Ardita						
+					Punta De Cruces						
+					Guarín						
+					Punta Piña						
+					Cabo Marzo						
+					Lloró						
+					Chagratadá						
+					Guaitadó						
+					La Vuelta						
+					Las Hamacas						
+					Mumbarado						
+					Tumutumbudó						
+					Boraudo						
+					Nipordu						
+					Ogodó						
+					Villa Claret						
+					Beté						
+					Boca De Amé						
+					Boca De Bebará						
+					El Llano De Bebará						
+					El Llano De Bebaramá						
+					San Antonio Del Buey (Campo Santo)						
+					San José De Buey (Alto Buey)						
+					Tangüí						
+					Medio Baudó						
+					Almendro						
+					Boca De Baudocito						
+					Beriguadó						
+					Cirundó La Banca						
+					Nuevo Platanares						
+					Pie De Pepe						
+					Puerto Adán						
+					San José De Querá						
+					San Miguel Baudocito						
+					Quera						
+					Boca De Pepe						
+					Unión Misara						
+					Andagoya						
+					Bebedó						
+					Boca De Suruco						
+					Chiquichoqui						
+					Dipurdú El Guasimo						
+					La Rancha						
+					Noanamá						
+					Paimadó						
+					Pringamó						
+					Fujiadó						
+					Isla De Cruz						
+					Unión Waunaán						
+					Nóvita						
+					El Cajón						
+					Irabubú						
+					Juntas De Tamaná						
+					La Playita						
+					Sesegó						
+					Urabará						
+					El Tambito						
+					El Barrancón						
+					Carmen De Surama						
+					Nuquí						
+					Arusí						
+					Coquí						
+					Jurubirá						
+					Panguí						
+					Tribugá						
+					Jobí						
+					Termales						
+					Alto Chato						
+					Calle Del Cedro						
+					Corocó						
+					Encharcazón						
+					San José De Viro Viro						
+					Boca De Apartadó						
+					La Punta Antadó						
+					Villa Conto						
+					Boca De Paimadó						
+					Chiguarandó Alto						
+					Chiviguidó						
+					Guayabalito						
+					Loma De Los Gamboa						
+					Jiguamiandó						
+					La Larga						
+					Peye						
+					Salaquí						
+					Sautata (Perancho)						
+					Tamboral						
+					Truandó						
+					Alto Riosucio						
+					Chintado						
+					La Teresita						
+					Peranchito						
+					La Isleta						
+					Puente América (Cacarica)						
+					Brasito						
+					San José Del Palmar						
+					Rioblanco						
+					San Pedro Ingara						
+					La Italia						
+					Hábita						
+					La Albania						
+					La Libertad/La Romita						
+					Los Patios						
+					Zabaleta Surami						
+					La Badea						
+					Sipí						
+					Garrapatas						
+					Tanandó						
+					Buenas Brisas						
+					Chambacú						
+					Loma De Chupey						
+					Marqueza						
+					Teatino						
+					Tadó						
+					Carmelo						
+					Tapón						
+					Guarato						
+					Mumbú						
+					Playa De Oro						
+					Profundó						
+					Corcobado						
+					Manungará						
+					Bochoromá						
+					Burubatá						
+					Chacuante						
+					Gingarabá						
+					Farallones						
+					Mesetas						
+					Peñas Del Olvido						
+					Silencio						
+					Unguía						
+					Gilgal						
+					Santa María Del Darién						
+					Tanela						
+					Titumate						
+					Betecito						
+					Marriaga						
+					Tumaradó						
+					Cuque Peniel						
+					El Puerto						
+					El Roto						
+					Quebrada Bonita						
+					Ticole Isla						
+					Ánimas						
+					El Plan De Raspadura						
+					San Rafael Del Dos						
+					San Pablo Adentro						
+					Caguán						
+					Chapinero						
+					Fortalecillas						
+					Guacirco						
+					Órganos						
+					Palacios						
+					Vegalarga						
+					San Antonio De Anaconia						
+					Aipecito						
+					Piedra Marcada						
+					Cedralito						
+					Pradera						
+					Acevedo						
+					San Adolfo						
+					La Tijiña						
+					San Marcos						
+					San José De Riecito						
+					Agrado						
+					La Cañada						
+					Escalereta						
+					San José De Belén						
+					Aipe						
+					Praga						
+					El Pata						
+					Cruce De Guacirco						
+					Mesitas						
+					Ventanas						
+					Algeciras						
+					El Paraíso Viejo						
+					La Arcadia						
+					El Toro						
+					El Puente						
+					El Paraíso Nuevo						
+					Pajiji						
+					Grifo						
+					Llano De La Virgen						
+					Puente						
+					Turquestán						
+					Otas						
+					Bajo Piravante						
+					Río Neiva						
+					Potrero Grande						
+					Las Lajas						
+					Los Rios						
+					San Antonio Bajo						
+					Elías						
+					El Viso						
+					Oritoguaz						
+					Potrerillos						
+					Garzón						
+					San Antonio Del Pescado						
+					Zuluaga						
+					Sartenjo						
+					El Mesón						
+					Plazuela						
+					Caguancito						
+					El Descanso						
+					Majo						
+					San Gerardo						
+					Bajo Sartenejo						
+					Jagualito						
+					Gigante						
+					Rioloro						
+					Vueltas Arriba						
+					La Bodega						
+					Resina						
+					Los Cauchos						
+					Hobo						
+					Iquira						
+					Chaparro						
+					Valencia La Paz						
+					San José De Isnos						
+					El Salto De Bordones						
+					Los Arrayanes						
+					El Pensil						
+					Moscopán						
+					Villa Losada						
+					Segovianas						
+					Nátaga						
+					Llano Buco						
+					Oporapa						
+					Paicol						
+					Ospina Pérez						
+					Amborco						
+					Alto De La Cruz						
+					Bruselas						
+					Guacacallo						
+					Prados Del Norte						
+					Chillurco (Villas Del Norte)						
+					Criollo						
+					Charguayaco						
+					Riberas Del Guarapas						
+					La Ulloa						
+					Riverita						
+					Saladoblanco						
+					Obando						
+					Puerto Quinchana						
+					Suaza						
+					Gallardo						
+					San Calixto						
+					Mantagua						
+					Picuna						
+					Avispero						
+					Safia						
+					Tarqui						
+					El Vergel						
+					Maito						
+					Quituro						
+					La Pampa						
+					Ricabrisa						
+					Lagunilla						
+					La Mirada						
+					Tesalia						
+					Pacarní						
+					Tello						
+					Anacleto García						
+					Sierra Del Gramal						
+					San Andrés Tello						
+					Sierra De La Cañada						
+					El Cedral						
+					Teruel						
+					Timaná						
+					Naranjal						
+					Mateo Rico						
+					Quinche						
+					Cosanza						
+					Alto Naranjal						
+					Villavieja						
+					Potosí						
+					Polonia						
+					Golondrinas						
+					Doche						
+					Yaguará						
+					Riohacha						
+					Arroyo Arena						
+					Barbacoa						
+					Cascajalito						
+					Cotoprix						
+					Galán						
+					Matitas						
+					Tomarrazón						
+					Villa Martín						
+					Choles						
+					Comejenes						
+					El Abra						
+					Los Moreneros						
+					Pelechua						
+					Perico						
+					Tigrera						
+					Anaime						
+					Boca De Camarones						
+					Cerrillo						
+					Ebanal						
+					Juan Y Medio						
+					Puente Bomba						
+					Cuestecitas						
+					Huareuaren						
+					Los Remedios						
+					Barrancas						
+					Carretalito						
+					Lagunita						
+					Oreganal Viejo						
+					Roche						
+					Guayacanal						
+					Pozo Hondo						
+					Chancleta						
+					Dibulla						
+					La Punta De Los Remedios						
+					Mingueo						
+					Campana Nuevo						
+					Río Ancho						
+					Distracción						
+					Chorreras						
+					La Duda						
+					Los Hornitos						
+					Potrerito						
+					Fonseca						
+					Conejo						
+					El Hatico						
+					Sitionuevo						
+					Bangañitas						
+					El Confuso						
+					Los Altos						
+					Quebrachal						
+					Guamachal						
+					Cañaboba						
+					Pondores						
+					Trigo						
+					Tabaco						
+					El Pozo						
+					Guaimarito						
+					Guamachito						
+					La Cruz						
+					La Jagua Del Pilar						
+					Maicao						
+					Carraipía						
+					Ipapure						
+					La Majayura						
+					Paraguachón						
+					Marañamana						
+					El Limoncito						
+					Yotojoroy						
+					Garrapatero						
+					Maku						
+					Manaure						
+					Arémasahin						
+					Musichi						
+					El Pájaro						
+					Shirure						
+					Mayapo						
+					Manzana						
+					San Juan Del Cesar						
+					Cañaverales						
+					Corral De Piedra						
+					El Hatico De Los Indios						
+					La Junta						
+					La Sierrita						
+					Los Pondores						
+					La Peña De Los Indios						
+					Pondoritos						
+					Curazao						
+					Boca Del Monte						
+					Los Cardones						
+					Uribia						
+					Bahía Honda						
+					Cabo De La Vela						
+					Castilletes						
+					Casuso						
+					El Cardón						
+					Guimpesi						
+					Jarara						
+					Puerto Estrella						
+					Rancho Grande						
+					Taparajín						
+					Taroa						
+					Irraipa						
+					Guarerpa						
+					Porchina						
+					Taguaira						
+					Jonjoncito						
+					Urumita						
+					Sierra Montaña						
+					"Distrito Turístico,Cultural E Histórico De Santa Marta"						
+					Bonda						
+					Calabazo						
+					Guachaca						
+					Minca						
+					Taganga						
+					Buritaca						
+					Cabañas De Buritaca						
+					Cañaveral (Agua Fría)						
+					Colinas De Calabazo						
+					Curvalito						
+					Guacoche (La Llanta)						
+					Marketalia (Palominito)						
+					Paz Del Caribe						
+					Perico Aguao						
+					La Olla						
+					La Revuelta						
+					Las Colinas						
+					El Trompito						
+					La Aguacatera						
+					Machete Pelao						
+					Mejico						
+					Valle De Gaira						
+					Estación Del Ferrocarril						
+					Estación Lleras						
+					Loma Del Bálsamo						
+					Estacion Algarrobo						
+					Aracataca						
+					Cauca						
+					Sampués						
+					El Dificil						
+					San José De Ariguaní						
+					Vadelco						
+					Carmen De Ariguaní						
+					Cerro San Antonio						
+					Candelaria (Caimán)						
+					Concepción (Coco)						
+					Jesús Del Monte (Mico)						
+					Puerto Niño (Charanga)						
+					Chibolo						
+					Ciénaga						
+					San Pedro De La Sierra						
+					Sevillano						
+					Palmor						
+					Cordobita						
+					La Isabel						
+					Bálsamo						
+					Rosario Del Chengue						
+					Aguaestrada						
+					Algarrobal						
+					El Barranco De Chilloa						
+					Los Negritos						
+					Caño De Palma						
+					Hatillo De La Sabana						
+					Tamalamequito						
+					San Felipe Y San Eduardo						
+					Malpica						
+					Caimanera						
+					Islitas						
+					Botillero						
+					Los Mamones						
+					El Piñon						
+					Cantagallar						
+					Carreto						
+					Playón De Orozco						
+					San Basilio						
+					Tio Gollo						
+					Veranillo						
+					Los Patos						
+					Vásquez						
+					Las Pavitas						
+					San Sebastian Del Bongo						
+					La Colombia						
+					La Polvorita						
+					Parate Bien						
+					San José De Honduras						
+					Fundación						
+					Doña María						
+					El Cincuenta						
+					Casa De Tabla						
+					Hatoviejo						
+					Pedregosa						
+					Murillo						
+					Pam Pan						
+					Salvadora						
+					Hurquijo						
+					Playas Blancas						
+					Carretero						
+					Pajaral						
+					Paraco						
+					El Veintiocho						
+					El Bajo						
+					San José De Ballestero						
+					Pedraza						
+					Guaquirí						
+					Pijiño						
+					San José De Prevención						
+					Casa Blanca						
+					La Lucha						
+					Las Planadas						
+					El Dividivi						
+					Pivijay						
+					La Avianca						
+					Caraballo						
+					Chinoblas						
+					San José De La Montaña (Garrapata)						
+					Las Canoas						
+					Medialuna						
+					Carmen Del Magdalena (Paraco)						
+					Placitas						
+					Plato						
+					Apure						
+					Carmen Del Magdalena						
+					Zarate						
+					Ciénegueta						
+					Cerro Grande						
+					San José Del Purgatorio						
+					Disciplina						
+					San Antonio Del Río						
+					Bocas De Aracataca						
+					Isla Del Rosario						
+					Tierra Nueva						
+					Isla De Cataquita						
+					Nueva Frontera						
+					San Juan De Palos Prietos (La Montaña)						
+					Corral Viejo						
+					San Rafael De Buenavista						
+					El Salao						
+					Martinete						
+					San Ángel						
+					Cespedes						
+					Flores De María						
+					La Horqueta						
+					Las Mulas (San Roque)						
+					Pueblito De Los Barrios						
+					Estación Villa						
+					Monterrubio						
+					Parapeto						
+					Los Galvis						
+					María Antonia						
+					Troncosito						
+					Troncoso						
+					Venero						
+					El Dividive						
+					El Seis						
+					Sabanas De Peralejo						
+					Jaime						
+					San Valentín						
+					San Zenón						
+					Bermejal						
+					El Palomar						
+					Janeiro						
+					Guinea						
+					El Horno						
+					Puerto Arturo						
+					San José De Chimila						
+					Santa Bárbara De Pinto						
+					Cundinamarca						
+					Veladero						
+					Nueva Venecia						
+					Real Del Obispo						
+					El Consuelo						
+					Punta De Piedras						
+					Caño De Aguas						
+					Capucho						
+					Piedras De Moler						
+					Piedras Pintadas						
+					Prado-Sevilla						
+					Orihueca						
+					Riofrío						
+					Santa Rosalia						
+					Soplador						
+					Tucurinca						
+					Varela						
+					Zawady						
+					Estación Sevilla						
+					San José De Kennedy (Campo Kennedy)						
+					Caño Mocho						
+					El Mamón						
+					Rincon De Pompeya						
+					Santa Rosa De Río Negro						
+					Cocuy						
+					Servitá						
+					Pipiral						
+					San Luis De Ocoa						
+					Alto Pompeya						
+					La Nohora						
+					Apiay						
+					Argentina						
+					Bella Suiza						
+					Condominio De Los Odontólogos						
+					Condominio Santa Bárbara						
+					Llanerita						
+					Naturalia						
+					Parcelas Del Progreso						
+					Quintas De San Fernando						
+					Quintas Del Diamante						
+					Sector Los Algarrobos/Naranjos						
+					Sector Vigía Sebastopol						
+					Acacías						
+					Dinamarca						
+					San Isidro De Chichimene						
+					Barranca De Upía						
+					Guacavía						
+					El Hijoa						
+					Cabuyaro						
+					Guayabal De Upía						
+					Viso De Upía						
+					Castilla La Nueva						
+					Arenales						
+					Cubarral						
+					Puerto Ariari						
+					Puerto Gómez						
+					Cumaral						
+					Puerto Pecuca						
+					San Ignacio Carutal						
+					Caney Medio						
+					El Caibe						
+					Presentado						
+					Montfort						
+					Medellín Del Ariari						
+					Miravalles						
+					Puerto Esperanza						
+					Puerto Unión						
+					Pueblo Sánchez						
+					Fuente De Oro						
+					Puerto Aljure						
+					Puerto Limón						
+					Unión Del Ariari						
+					La Cooperativa						
+					Caño Blanco						
+					Canaguaro						
+					Puerto Caldas						
+					Punta Brava						
+					Humadea						
+					Mapiripán						
+					Puerto Alvira						
+					Mielón						
+					Anzuelo						
+					Puerto Siare						
+					Sardinata						
+					Jardín De Las Peñas						
+					Brisas Del Duda						
+					La Guajira						
+					La Macarena						
+					San Juan Del Losada						
+					Bocas Del Perdido						
+					La Julia						
+					Lejanías						
+					Cacayal						
+					Angosturas Del Guape						
+					Puerto Concordia						
+					Porororio						
+					Puerto Gaitán						
+					San Pedro De Arimena						
+					Chaviva						
+					Puerto Trujillo						
+					Puente Arimena						
+					Tillava						
+					Alto Yucao						
+					Rubiales						
+					Pachaquiaro						
+					Puerto Guadalupe						
+					Puerto Porfía						
+					Bocas Del Guayuriba						
+					Guichiral						
+					Melua						
+					Casibare						
+					Caño Rayado						
+					Villa Lapaz						
+					Puerto Iris						
+					La Lindosa						
+					Barranco Colorado						
+					Puerto Toledo						
+					Charco Danto						
+					La Tigra						
+					Puerto Chispas						
+					Restrepo						
+					San Carlos De Guaroa						
+					Pajure						
+					Surimena						
+					San José De Las Palomas						
+					San Juan De Arama						
+					Mesa Fernández						
+					Cerrito						
+					Miraflorez						
+					El Merey						
+					Reforma						
+					Rincón Bolívar						
+					Brisas Del Manacacías						
+					Vista hermosa						
+					Maracaibo						
+					Caño Amarillo						
+					Puerto Lucas Margen Izquierdo						
+					Puerto Lucas Margen Derecho						
+					Pto Esperanza Margen Derecha						
+					Puerto Esperanza Margen Izquierdo						
+					La Reforma						
+					Palmeras						
+					San Juan De Pasto						
+					Catambuco						
+					El Encano						
+					Genoy/Genoy Centro						
+					La Laguna/La Laguna Centro						
+					Obonuco						
+					Santa Barbara/Santa Barbara Centro						
+					Jongovito						
+					Gualmatán						
+					Ectanilla						
+					Mapachico (Aticance)						
+					El Socorro Cimarrón						
+					Bajo Casanare						
+					Motilon						
+					Cerotal						
+					Dolores						
+					Buesaquillo Centro						
+					Buesaquillo Alto						
+					Cujacal						
+					Cujacal Bajo						
+					Mapachico/Mapachico Centro						
+					Anganoy						
+					Daza/Morasurco Daza						
+					Cubijan Bajo						
+					Mocondino						
+					Jamondino						
+					Castillo Loma						
+					Botanilla						
+					Cruz De Amarillo						
+					El Campanero						
+					Jurado						
+					Las Encinas						
+					Mapachico Alto						
+					Mapachico San José						
+					San Juan De Anganoy						
+					Mapachico Bajo						
+					Gualmatan Alto						
+					La Caldera						
+					Guarangal						
+					Campobello						
+					Tambo Alto						
+					Socorro Asentamiento 2						
+					Carmelo Asentamiento 1						
+					Carmelo Asentamiento 2						
+					Cebadero Asentamiento 1						
+					Cebadero Asentamiento 2						
+					San Bosco Asentamiento 1						
+					San Bosco Asentamiento 3						
+					Tambo Bajo						
+					Viña						
+					Aldana						
+					Ancuyá						
+					El Ingenio						
+					Cruz De Mayo						
+					Yanancha						
+					Macas Cruz						
+					Llano						
+					Cocha Blanca						
+					Limonar						
+					Indo						
+					La Quinua						
+					Berruecos						
+					Cárdenas Rosaflorida						
+					Gómez						
+					La Cocha						
+					Rosa Florida Sur (Sector La Capilla)						
+					La Comunidad						
+					Martín						
+					Rosaflorida Norte						
+					La Estancia						
+					Altaquer						
+					Chalchal						
+					Chapira						
+					Diaguillo						
+					Justo Ortíz						
+					Los Brazos						
+					Luis Avelino Pérez						
+					Mongón						
+					Olaya Herrera						
+					Pambana						
+					Sucre Guinulte						
+					Telpí						
+					Chalalbí						
+					Guagaypí						
+					San Miguel Nambí						
+					Teraimbe						
+					Yacula						
+					San Juan Palacio						
+					Ñambí						
+					Cargazol						
+					Paunde						
+					Salí						
+					Yalare						
+					Albí						
+					Pimbí						
+					Coscorrón Telembí						
+					Carcuel						
+					Buesaco						
+					Palasinoy						
+					Rosal Del Monte						
+					Santafé						
+					Santamaría						
+					Villamoreno						
+					Altaclara						
+					Juanamel						
+					Parapetos						
+					Alto Higuerones						
+					Granadillo De Chávez						
+					Granadillo De Lunas						
+					Juanambú						
+					Meneses De Hurtado						
+					San Bosco						
+					San José De Coapitas						
+					San Miguel El Socorro						
+					San Miguel Santafé						
+					Sumapaz						
+					Génova						
+					Guaitarilla						
+					El Macal						
+					Consaca						
+					Alto Bomboná						
+					San Miguel De Cariaco						
+					Cajabamba						
+					Paltapamba						
+					El Guabo						
+					Alto Tinajilla						
+					Cariaco Bajo						
+					Churupamba						
+					Villa Inés						
+					Contadero						
+					Aldea De María						
+					La Josefina						
+					Llorente						
+					Payán						
+					Santander						
+					Pueblo Bajo						
+					Santa Brígida						
+					Carlosama						
+					Macas						
+					El Carchi						
+					Chavisnán						
+					Cumbal						
+					Chiles						
+					Mayasquer						
+					Panán						
+					Nazate						
+					Talambi						
+					Cumbitara						
+					El Desierto						
+					Pisanda						
+					Sidón						
+					Miguel Nulpi						
+					Pesquería						
+					Guayabalito Nulpí						
+					Chachagüí						
+					Arizona						
+					Caja Agraria						
+					Caño Alto						
+					Caño Bajo						
+					Guairabamba						
+					Itzamana						
+					Pasizara						
+					Bolívar (San Pedro)						
+					Gaitán						
+					Roberto Payán						
+					San José Del Tapaje						
+					Turbay						
+					Bahía Mulatas						
+					Benjamín Herrera						
+					Río Tapaje						
+					Plinio Oliveros						
+					Uribe Uribe						
+					Hormiguero						
+					Pulbusa						
+					San Francisco De Taija						
+					Secadero						
+					El Cuil Pueblo Nuevo						
+					Bazán						
+					Capilla						
+					Corozo						
+					El Castigo						
+					Isupi						
+					Pambilero						
+					Pulbusa Pueblo Nuevo						
+					Taijita						
+					Yanzal						
+					El Peñol						
+					Las Cochas						
+					Peñol Viejo						
+					Martín Pérez						
+					El Tablón De Gómez						
+					Aponte						
+					El Granadillo						
+					Las Aradas						
+					Los Yungas						
+					Marcella						
+					Pitalito Bajo						
+					Tanguana						
+					Funes						
+					Chapal						
+					Guapuscal Bajo						
+					Sucumbíos						
+					Chitarrán						
+					Guapuscal Alto						
+					El Terrero						
+					Téllez Alto						
+					Guachucal						
+					Colimba						
+					Chillanquer (El Consuelo)						
+					Muellamues						
+					San José De Chillanquer						
+					Ahumada						
+					Alex						
+					Esperanza						
+					Cuatis						
+					Iles						
+					Tablón Bajo						
+					El Capuli						
+					Iscuazán						
+					Imués						
+					Pilcuán Recia						
+					Pilcuán Viejo (2)						
+					San Buenaventura						
+					El Alisal						
+					Cuarchu						
+					Camuestes						
+					Neira Santa Ana						
+					Ipiales						
+					Yaramal						
+					Lomas De Suras						
+					Tajumbina						
+					Cabuyales						
+					Escandoy						
+					Matituy						
+					Tunja Grande						
+					El Maco						
+					Las Plazuelas						
+					La Llanada						
+					Campanario						
+					El Remate						
+					El Saspi						
+					Florida						
+					Guarango						
+					Maco						
+					Murciélago						
+					Palma						
+					Prado						
+					La Tola						
+					La Vigía						
+					San Antonio De La Mar						
+					Aguacatal						
+					San Pablo De La Tola						
+					Poija						
+					Pangamosa						
+					Nerete						
+					Cusillo Alto						
+					Quiros						
+					Higuerones						
+					Peña Blanca						
+					Chilcal						
+					Ojo De Oso						
+					Alpujarra						
+					Las Cuchillas						
+					Olivos						
+					Cusillo Bajo						
+					Rincón Cusillo						
+					Chauguaruco						
+					El Peligro						
+					Paloverde						
+					Santa Teresa Bajo						
+					Chilcal Bajo						
+					Quiroz Alto						
+					Quiroz Bajo						
+					Sauce A						
+					Leiva						
+					La Villa						
+					Cañaduzal						
+					El Ofrio						
+					Florida Baja						
+					Villa Baja						
+					Linares						
+					Tabiles						
+					Tambillo Bravos						
+					Bellaflorida						
+					Sotomayor						
+					Pangus						
+					El Carrizal						
+					Nansalbid						
+					Palacio						
+					Piragua Gualpí						
+					Tabujito						
+					El Trueno						
+					San Luisito						
+					Santander (Rosa)						
+					Las Brisas Hamburgo						
+					Piedrancha						
+					Chucunes						
+					Cocalito Jiménez (Gabriel Turbay)						
+					Cocal Payanés						
+					Firme Cifuentes						
+					Bocas De Guandipa						
+					El Garcero						
+					El Bajito De Echandía						
+					Miel De Abejas						
+					Pampa Chapila						
+					Playa Nueva						
+					Salango						
+					El Tortugo						
+					Alto Guandipa						
+					Barrera						
+					Caimitillal						
+					Cocal Jiménez						
+					Chapilar						
+					El Bajito						
+					El Cantil						
+					Gicrillal						
+					La Contra						
+					Lagartera						
+					Pampa Quiñones						
+					Piñal Relleno						
+					Punta Piñal						
+					Tasquita						
+					Trejos						
+					Bocas De Satinga						
+					Alfonso López Pumarejo (Florida)						
+					Córdoba (Carmen)						
+					Lérida (Las Marías)						
+					Lozano Torrijos						
+					Merizalde Porvenir						
+					San José Calabazal						
+					Santander Soleda						
+					Ospina						
+					Gavilanes						
+					Cunchilla Morena						
+					Salahonda						
+					Nicanor Valencia						
+					Pedro Veira Arias						
+					Victor Calonge						
+					Boca De Curay						
+					Hugo Belalcázar						
+					Jorge A.Cuero						
+					Laureano Arella						
+					San Pedro Del Vino						
+					Vuelta Del Gallo						
+					Policarpa						
+					Madrigal						
+					San Roque (Buenavista)						
+					Sánchez						
+					El Ejido						
+					Cárdenas						
+					San Francisco Sinaí						
+					La Centinela						
+					Mueses						
+					Yamuesquer						
+					Cuaspud Nucleo						
+					Guadrahuma						
+					Puerres						
+					El Páramo						
+					Monopamba						
+					Pupiales						
+					Casafría						
+					Chires Centro						
+					José María Hernández						
+					Piacún						
+					Nulpe Alto						
+					Nulpe Medio						
+					Vegas						
+					Ramos						
+					Pialapí						
+					Chambu						
+					Cuaiquier Viejo						
+					Cuesbí Carretera						
+					Arteaga (Limonar)						
+					El Guayabal						
+					Fátima El Carme						
+					Gómez Jurado						
+					Gualpí						
+					Indú						
+					Jalaral						
+					Las Lajas Pumbi						
+					Mialo						
+					Muñambi						
+					Negrito						
+					Paloseco						
+					Peñón G Martínez						
+					Piri (Paraíso)						
+					San Antonio (Boca Telembi)						
+					Tasdan						
+					Trinidad La Merced						
+					Carlos Lleras Restrepo						
+					Chafalote						
+					Antonio Nariño						
+					Jorge Eliecer Gaitán						
+					Limones Del Patía						
+					Inguanbi						
+					Conquista						
+					Vuelta De Papi						
+					Las Mercedes (Chimbuza)						
+					El Sande Río Ispi						
+					Guabal						
+					Palsapi						
+					Panga						
+					Samaniego						
+					Decio						
+					Maranguay						
+					Tanama						
+					El Motilón						
+					Yunguilla						
+					Sacampues						
+					Chuguldí						
+					Turupamba						
+					Puerchag						
+					Doña Ana						
+					Canadá						
+					Alto Canadá						
+					Archiduque						
+					La Meza						
+					Piedrablanca						
+					Plan De San Martín						
+					Sandoná						
+					Loma						
+					Roma Chávez						
+					Paraguay						
+					Altamira Cruz De Arada						
+					Balcon Alto						
+					Chávez						
+					Tambillo						
+					La Regadera						
+					Plan Ingenio						
+					San Francisco Alto						
+					20 De Julio						
+					Cruz Arada						
+					Mundo Loma						
+					San Clemente						
+					San Pedro De Cartago						
+					Iscuandé						
+					Atanasio Girardot						
+					Pacífico						
+					Sanabria						
+					Francisco De Parada						
+					Tomás C Mosquera						
+					San Sebastián De Belalcázar						
+					Cuerbal						
+					Juanchillo						
+					La Ensenada						
+					Chico Pérez						
+					Guachaves						
+					Balalaika						
+					El Eden						
+					El Sande						
+					Manchag						
+					Piaramag						
+					Chipacuerdo						
+					Inga						
+					Sapuyes						
+					Taminango						
+					Hueco						
+					Alto De Diego						
+					Taminanguito						
+					Puerto Remolino						
+					La Granada						
+					Tangua						
+					Tapialquer Alto						
+					Cebadal						
+					"Distrito Especial, Industrial, Portuario, Biodiverso Y Ecoturístico De Tumaco"						
+					Caunapí						
+					Chajal						
+					Espriella						
+					Barro Colorado						
+					San Jose Del Guayabo						
+					Guayacana						
+					Palambí						
+					Imbili Miraspalmas						
+					El Progreso Santo Domingo						
+					San Luis Robles						
+					Salisví						
+					Villa San Juan						
+					Bocas De Curay						
+					Teheran						
+					Uribe Uribe (Chilvi)						
+					Papayal La Playa						
+					Caleta Viento Libre						
+					Ceibito						
+					El Carmen Km 36						
+					El Carmen Km 63						
+					Bocana Nueva						
+					Chilvicito						
+					La Sirena						
+					Palay						
+					Pulgande						
+					Retoño						
+					Alto Agua Clara						
+					Imbilpi Del Carmen						
+					Inguapi Del Carmen						
+					Santa María Rosario						
+					La Barca						
+					Bajo Jagua						
+					Brisas Del Acueducto						
+					Cacagual						
+					Corriente Grande						
+					Gualtal						
+					El Retorno						
+					Juan Domingo						
+					Kilómetro 35						
+					Kilómetro 58						
+					Piñuela Rio Mira						
+					Majagua						
+					Milagros						
+					Pindales						
+					Tangareal Carretera						
+					Vuelta Candelilla						
+					Vuelta Larga						
+					Firme De Los Coimes						
+					Tablón Dulce La Pampa						
+					Vaquería						
+					Inguapi El Guadual						
+					Congal						
+					Bajo Guabal						
+					Peña Colorada						
+					Buchely						
+					Cajapí						
+					Variante						
+					Candelilla						
+					Piñal Salado						
+					Chontal						
+					Imbilí						
+					Boca De Tulmo						
+					Sagumbita						
+					Achotal						
+					Alto Buenos Aires						
+					Alto Jagua (Rio Mira)						
+					Alto Santo Domingo						
+					Alto Villarica						
+					Bajo Buenos Aires (Tablon Salado)						
+					Bocagrande						
+					Buchely 2						
+					Cajapi Del Mira						
+					Candelillas De La Mar						
+					Chimbuzal						
+					El Progreso/Santo Domingo						
+					Guachiri						
+					Guadual						
+					Imbili El Guabo						
+					Inda Zabaleta						
+					Inguapi Del Carmen 2						
+					Inguapi Del Guayabo						
+					Inguapi La Chiricana						
+					La Brava						
+					La Concha (Tablon Salado)						
+					La Nupa						
+					Nerete (Rio Mira)						
+					Nueva Reforma						
+					Nuevo Puerto Nidia						
+					Olivo Curay						
+					Paraiso						
+					Piñal Dulce						
+					Pital (Chimbuzal)						
+					Pueblo Nuevo (Rio Mira)						
+					Pueblo Nuevo (Tablon Salado)						
+					San Agustin						
+					San Juan Pueblo Nuevo						
+					San Juan (Rio Mira)						
+					San Vicente (Las Varas)						
+					Sander Curay						
+					Seis De Agosto						
+					Soledad Curay I						
+					Soledad Curay Ii						
+					Tangareal Del Mira						
+					Trujillo						
+					Viguaral						
+					Vuelta Candelillas 2						
+					Vuelta Del Carmen						
+					Vuelta Larga (Rio Guanapi)						
+					Zapotal						
+					Túquerres						
+					Pinzón						
+					Tutachag						
+					Yascual						
+					Guanama						
+					Las Minas						
+					Polachayán						
+					San Carlos Quebrada Oscura						
+					Yacuanquer						
+					Minda						
+					Taindala						
+					Chapacual						
+					Mejía						
+					Tasnaque						
+					Inantás Alto						
+					San Felipe						
+					Tacuaya						
+					Argüello Alto						
+					La Guaca						
+					Mohechiza Alto						
+					Mohechiza Bajo						
+					San José De Córdoba						
+					Distrito Especial Fronterizo Y Turístico De Cúcuta						
+					Agua Clara						
+					Banco De Arenas						
+					Buena Esperanza						
+					Patillales						
+					Puerto Villamizar						
+					San Faustino						
+					Arrayán						
+					Alto Viento						
+					El Prado						
+					Pórtico						
+					La Jarra						
+					Puerto León						
+					Guaramito						
+					Viigilancia						
+					Carmen De Tonchalá						
+					Los Negros						
+					Oripaya						
+					Las Vacas						
+					El Plomo						
+					El Suspiro						
+					La Sabana						
+					Nuevo Madrid						
+					San Agustín De Los Pozos						
+					Núcleo Camilo Torres						
+					Abrego						
+					Capitán Largo						
+					Casitas						
+					El Llanón						
+					El Tabaco						
+					La Arenosa						
+					El Tarra						
+					El Loro						
+					El Campanario						
+					La Teja						
+					Río Caliente						
+					Barrientos						
+					Castro						
+					Cínera						
+					Uvito						
+					Villa Sucre						
+					Guzamán						
+					Los Molinos						
+					Bochalema						
+					Espejuelos						
+					La Donjuana						
+					Bucarasica						
+					La Sanjuana						
+					Las Fortunas						
+					Las Cuadras						
+					Cácota						
+					Fenicia						
+					Icota						
+					Targualá						
+					Cachirá						
+					Chinácota						
+					La Nueva Donjuana						
+					El Nuevo Diamante						
+					Chitagá						
+					Chucarima						
+					Tane						
+					Convención						
+					Mesa Rica						
+					Piedecuesta						
+					Cucutilla						
+					Puente Julio Arboleda						
+					Román						
+					Durania						
+					Astillero						
+					La Culebrita						
+					El Cobre						
+					El Zul						
+					Guamalito						
+					La Pelota						
+					Pajitas						
+					Quebrada Arriba						
+					La Camorra						
+					Quebrada Honda						
+					Orú						
+					Filo Gringo						
+					Palmas De Vino						
+					Las Torres						
+					El Zulia						
+					Encerraderos						
+					La Ye (San Miguel)						
+					La Alejandra						
+					Camilandia						
+					Gramalote						
+					El Zumbador						
+					Hacarí						
+					San José Del Tarra						
+					Las Juntas						
+					Los Laureles						
+					Herrán						
+					Labateca						
+					León Xiii						
+					Aspásica						
+					La Vega De San Antonio						
+					La Garita						
+					Los Vados						
+					Mutiscua						
+					Ocaña						
+					Aguasclaras						
+					Otaré						
+					La Ermita						
+					Pamplonita						
+					El Diamante						
+					Ragonvalia						
+					El Carmen De Nazareth						
+					San José Del Avila						
+					Banderas						
+					Casas Viejas						
+					El Espejo						
+					Guaduales						
+					Mesallana						
+					Quebrada Grande						
+					La Quina						
+					Lagunitas						
+					Quebradillas						
+					Cornejo						
+					Urimaco						
+					Luis Vero						
+					Balsamina						
+					El Riecito						
+					Jordancito						
+					Los Guamos						
+					Planadas						
+					La Cartagena						
+					Silos						
+					Babega						
+					Los Rincón						
+					Ranchadero						
+					Teorama						
+					Alto Rosario						
+					Cerro La Flores						
+					El Guarico						
+					El Oso						
+					El Trigo						
+					Farache						
+					Guaranao						
+					La Cecilia						
+					La Jabonera						
+					Miracotes						
+					Pilocoto						
+					Ramírez						
+					San Juan De Dios						
+					Travesías						
+					Quince Letras						
+					El Aserrío						
+					Tibú						
+					Barco La Silla						
+					La Gabarra						
+					Paccelly						
+					Tres Bocas						
+					El Sesenta						
+					Petrólea						
+					Aeropuerto La Pista						
+					Campo Giles						
+					Playa Cotiza						
+					Vetas De Oriente						
+					Campo Dos						
+					San Bernardo De Bata						
+					Villa Caro						
+					Alto Del Pozo						
+					Corazones						
+					Juan						
+					Palogordo Norte						
+					Luis Carlos Galán Sarmiento						
+					Palogordo Sur						
+					El Caimo						
+					Río Verde						
+					Calarca						
+					La Bella						
+					La Virginia						
+					Barragán						
+					Milciades Segura						
+					La Micaela						
+					Circasia						
+					La Pola						
+					El Planazo						
+					La 18 Guayabal						
+					Urbanización El Caney						
+					Urbanización Campestre Bosques De Toscana						
+					Los Rosales						
+					Quintas Del Bosque						
+					Villa Jimena						
+					Filandia						
+					La India						
+					La Silvia						
+					Fundacion Amanecer						
+					Montenegro						
+					El Cuzco						
+					Pueblo Tapado						
+					Once Casas						
+					El Gigante						
+					Macho Negro						
+					Puerto Samaria						
+					Pijao						
+					Quimbaya						
+					El Jazmín						
+					El Laurel						
+					Puerto Alejandría						
+					Trocaderos						
+					Salento						
+					Boquía						
+					Canaán						
+					La Nubia						
+					Cocora						
+					La Explanación						
+					El Camino Nacional						
+					Condominio Las Colinas						
+					San Juan De Carolina						
+					Caimalito						
+					El Placer (Combia)						
+					La Convención						
+					El Rocío						
+					La Selva						
+					Tribunas Corcega						
+					Nueva Siria						
+					La Bananera						
+					Alto Alegrías						
+					Pérez Alto						
+					Huertas						
+					Pital De Combia						
+					El Chocho						
+					Barrio El Bosque						
+					La Cabañita						
+					Belmonte Bajo						
+					Alegrías La Gramínea (Brisas Del Condina)						
+					El Crucero De Combia						
+					Esperanza Galicia						
+					Estación Azufral						
+					Estrella Morrón						
+					Condina Guacary						
+					Nuevo Sol						
+					Plan De La Unión						
+					Plan De Yarumal						
+					Pénjamo						
+					Alto Erazo						
+					Canceles						
+					El Bosque						
+					El Congolo						
+					Estación Villegas						
+					Galicia Alta						
+					Gilipinas						
+					Heriberto Herrera						
+					La Renta						
+					La Suiza						
+					Libare						
+					Pérez Bajo						
+					Tribunas Consota						
+					La Mecenia						
+					Miralindo						
+					Tres Puertas						
+					Apía						
+					Jordania						
+					Tambores						
+					La Mancha						
+					Totuí						
+					Belén De Umbría						
+					Baldelomar						
+					Columbia						
+					Mata De Guadua						
+					Puente Umbría						
+					Taparcal						
+					Andica						
+					Bajo Sirguia						
+					Santa Emilia						
+					El Aguacate						
+					El Congo						
+					Dosquebradas						
+					Aguazul						
+					Comuneros						
+					El Estanquillo						
+					Naranjales						
+					Santana Baja						
+					Villa Carola						
+					Guática						
+					Guática Viejo						
+					Ospirma						
+					La Celia						
+					Alto Cauca						
+					Plan De El Rayo						
+					Estación Pereira						
+					Plan De El Paraíso						
+					Plan De Tacurrumbi						
+					Mistrató						
+					Puerto De Oro						
+					San Antonio Del Chami						
+					Pinar Del Río						
+					Quebradas Arriba						
+					Quinchía						
+					Batero						
+					Irra						
+					Moreta						
+					Ensenillal						
+					Santa Rosa De Cabal						
+					Corregimiento Del Sur						
+					El Español						
+					El Manzanillo						
+					Fermín López						
+					El Lembo						
+					Los Nevados						
+					Bajo Samaria						
+					La Bretaña						
+					Peralonso						
+					Totuy						
+					La Bamba						
+					Bucaramanga						
+					Aguada						
+					Aratoca						
+					Chiflas						
+					Cite						
+					Barichara						
+					Guane						
+					Butaregua						
+					Paramito						
+					Barrancabermeja						
+					Meseta San Rafael						
+					San Rafael De Chucurí						
+					La Fortuna						
+					El Ramo						
+					Putana						
+					La Dura						
+					Cerro De La Paz						
+					Tienda Nueva						
+					Sol De Oriente						
+					Flórez						
+					El Trapal						
+					La Melona						
+					Gallegos						
+					Plan De Rojas						
+					Socorrito						
+					Horta Medios						
+					El Cerrillo						
+					Capitanejo						
+					Carcasí						
+					El Tobal						
+					Bitarigua						
+					Saucara						
+					Cepitá						
+					Charalá						
+					Riachuelo						
+					Virolín						
+					La Falda						
+					Charta						
+					Ovejera						
+					De Perico						
+					Chima						
+					La Chimera						
+					Palencia						
+					Chipatá						
+					Chipatá Viejo						
+					El Cucharo						
+					Cimitarra						
+					Puerto Araujo						
+					Puerto Olaya						
+					Zambito						
+					Dos Hermanos						
+					La Verde						
+					Guayabito Bajo						
+					Campo Seco						
+					Aterrado						
+					La Terraza						
+					Palmas Del Guayabito						
+					San Juan De La Carretera						
+					San Pedro De La Paz						
+					Campo Padilla						
+					Cruce De Santa Rosa						
+					Curva De La Nubia						
+					La Cascajera						
+					Traviata						
+					Vuelta Acuña						
+					Y De La Torre						
+					Confines						
+					Contratación						
+					Coromoro						
+					Cincelada						
+					El Carmen De Chucurí						
+					Angosturas De Los Andes						
+					El Centenario						
+					Santo Domingo Del Ramo						
+					El Guacamayo						
+					Bocas Del Horta						
+					La Hermosura						
+					Estación Laguna						
+					Planadas De La Arrumbazon						
+					San Pedro De Tigra						
+					La Bateca						
+					Encino						
+					Enciso						
+					Florián						
+					San Antonio De Leones						
+					Otromundo						
+					Floridablanca						
+					Montearroyo Condominio						
+					Condominio Ruitoque Country Club						
+					Valle De Ruitoque						
+					Villa Edilia Condominio						
+					Villa Guadalquivir Condominio						
+					Gambita						
+					Girón						
+					Bocas						
+					Marta						
+					Guaca						
+					El Tirano						
+					Guapotá						
+					Guavatá						
+					Güepsa						
+					La Portada						
+					Jesús María						
+					Agua Fria						
+					Laderas						
+					Alto Cruces						
+					Jordán Sube						
+					La Quitaz						
+					Los Valles						
+					Landázuri						
+					Bajo Jordán						
+					Plan De Armas						
+					San Ignacio Del Opón						
+					Kilómetro 15						
+					San Pedro Del Opón						
+					Lebríja						
+					El Conchal						
+					Portugal						
+					Los Santos						
+					Macaravita						
+					Buraga						
+					La Bricha						
+					La Huerta						
+					Ilarcuta (Tienda Nueva)						
+					Rasgón						
+					Málaga						
+					Asodema						
+					Matanza						
+					Patio Barrido						
+					Paujil						
+					Santa Cruz De La Colina						
+					Mogotes						
+					Palmas						
+					Pitiguao						
+					Molagavita						
+					Ocamonte						
+					Mouchia						
+					Oiba						
+					Monjas						
+					Pie De Alto						
+					Loma De Hoyos						
+					Puente Llano						
+					Onzaga						
+					Padua						
+					Capilla Del Carmen						
+					Palmar						
+					Palmas Del Socorro						
+					Tablanca						
+					Umpalá						
+					Pescadero						
+					Buenos Aires Mesa Ruitoque						
+					Pinchote						
+					Puente Nacional						
+					Quebrada Negra						
+					Puerto Parra						
+					Campo Capote						
+					Las Montoyas						
+					Bocas Del Carare						
+					Puerto Wilches						
+					Bocas Rosario						
+					Chingale						
+					El Pedral						
+					Kilómetro 16						
+					Kilómetro 20						
+					Paturia						
+					Puente Sogamoso						
+					Cayumba						
+					Kilómetro Ocho						
+					San Claver						
+					García						
+					Cuesta Rica						
+					La Salina						
+					Popas						
+					Llano De Palmas						
+					Misijuay						
+					La Musanda						
+					La Platanala						
+					Los Chorros (San José)						
+					San José De Arevalo						
+					El Bambú						
+					Sabana De Torres						
+					La Gómez						
+					Provincia						
+					Veracruz Kilómetro 80						
+					Payoa Cinco						
+					Puerto Santos						
+					Villa Eva						
+					Laguna De Ortices						
+					Pangote						
+					Alto San Roque						
+					San Benito Nuevo						
+					San Gil						
+					San José De Miranda						
+					Tequia						
+					Cutaligua						
+					San Vicente De Chucurí						
+					Yarima						
+					La Ceba						
+					Santa Helena Del Opón						
+					La Aragua						
+					San Juan Bosco						
+					Plan De Alvarez						
+					San Juan De La Verde						
+					Simacota						
+					Cinco Mil						
+					La Llanita						
+					Vizcaína Alta						
+					Vizcaína Baja						
+					La Rochela						
+					Cienaga Del Opon						
+					Socorro						
+					Suaita						
+					Olival						
+					San José Suaita						
+					Vado Real						
+					Tolotá						
+					Sabana Grande						
+					Arales						
+					Suratá						
+					Cachirí						
+					El Mohán						
+					Cartagua						
+					Tona						
+					La Corcova						
+					Gramal						
+					Puerto Del Llano						
+					Valle De San José						
+					El Guacal						
+					Vélez						
+					Alto Jordán						
+					Gualilo						
+					Lomalta						
+					Ropero						
+					Los Guayabos						
+					Vetas						
+					Borrero						
+					Tosca						
+					Zapatoca						
+					Sincelejo						
+					Cruz Del Beque						
+					Chocho						
+					Cerrito De La Palma						
+					La Chivera						
+					La Gallera						
+					La Peñata						
+					Laguna Flor						
+					Las Majaguas						
+					Sabanas Del Potrero						
+					San Martin						
+					Buenavistica						
+					Castañeda						
+					San Nicolas						
+					Villa Rosita						
+					Las Chichas						
+					Los Anones						
+					Caimito						
+					Siete Palmas						
+					Alférez						
+					Los Cayitos						
+					La Solera						
+					Tofeme						
+					La Mejía						
+					Nueva Fe						
+					Pampuma						
+					Ricaurte-Coloso						
+					Chinulito						
+					Bajo Don Juan						
+					El Ojito						
+					Joney						
+					Las Llanadas						
+					San Jose De Pileta						
+					El Rincon De Las Flores						
+					Calle Nueva						
+					La Panela						
+					Las Brujas						
+					Coveñas						
+					Boca De La Ciénaga						
+					Punta Seca						
+					El Mamey						
+					Chalán						
+					Callejón						
+					Cayo De Palma						
+					Corneta						
+					El Sitio						
+					Las Tablitas						
+					Pueblo Nuevo O Grillo Alegre						
+					Rancho De La Cruz						
+					Galeras						
+					San Andrés De Palomo						
+					San José De Rivera						
+					Pueblo Nuevo Ii						
+					Pueblo Nuevo I (Junín)						
+					Puerto Franco						
+					Guaranda						
+					Diazgranados						
+					Gavalda						
+					La Concordia						
+					Palmaritico						
+					Cayo Delgado						
+					Cascarilla						
+					Boca Negra						
+					Conquitos						
+					Los Palmitos						
+					El Coley						
+					Sabanas De Beltrán						
+					Sabanas De Pedro						
+					Birmania						
+					Majagual						
+					La Sierpita						
+					Piza						
+					Tomala						
+					León Blanco						
+					Palmar Tipico						
+					Eduardo Santos						
+					Las Candelarias						
+					Morroa						
+					Cambimba						
+					Tumbatoro						
+					Medellín						
+					Sabanas De Cali						
+					Almagra						
+					Canutal						
+					Canutalito						
+					Chengue						
+					Don Gabriel						
+					El Floral						
+					Flor Del Monte						
+					Osos						
+					Pijiguay						
+					Loma Del Banco						
+					San Rafael Alto						
+					Bajo Europa						
+					Bajo La Palma						
+					Centro Mula						
+					Zapato # 2 Pijiguay						
+					Palmito						
+					Algodoncillo						
+					Guaimi						
+					Centro Azul						
+					Chumpundún						
+					El Martillo						
+					El Palmar Brillante						
+					Media Sombra						
+					Bossa Navarro						
+					Ceja Del Mango						
+					Escobar Abajo						
+					Escobar Arriba						
+					Huertas Chicas						
+					La Negra						
+					Mateo Pérez						
+					Palito						
+					Achiote						
+					El Campo						
+					Siloe						
+					Los Pérez						
+					San Benito Abad						
+					Cuiva						
+					Jegua						
+					Corral Viejo (Los Angeles)						
+					Punta De Blanco						
+					Santiago Apostol						
+					Punta Nueva						
+					Ciénaga Nueva						
+					Cispataca						
+					El Cauchal						
+					La Molina						
+					Las Chispas						
+					Rancho La Tía						
+					Villa López						
+					Loma Alta						
+					Caño Prieto						
+					Cuenca						
+					El Torno						
+					Montegrande						
+					Palo Alto						
+					Cayo De La Cruz						
+					Sehebe						
+					Berrugas						
+					Labarcés						
+					Libertad						
+					Planparejo						
+					Rincón Del Mar						
+					Sabanas De Mucacal						
+					Higuerón						
+					El Chicho						
+					Cerro De Las Casas						
+					Pajonalito						
+					Boca Cerrada						
+					Altos De Julio						
+					Arroyo Seco						
+					Pisisi						
+					Sabanas De Rincón						
+					Sabanetica						
+					Numancia						
+					El Bajo De La Alegría						
+					Perendengue						
+					Sincé						
+					Cocorote						
+					Galápago						
+					Bajogrande						
+					Calzón Blanco						
+					Camajón						
+					El Congreso						
+					Isla Del Coco						
+					La Guaripa						
+					Orejero						
+					Travesía						
+					Pampanilla						
+					Bajo Pureza						
+					Machetón						
+					Cantarrana						
+					Cucharal						
+					El Garzal						
+					El Pajonal						
+					Garrapata						
+					Huerta Grande						
+					La Redonda						
+					Las Caracuchas						
+					Mojanita						
+					Quitasueño						
+					San José Calastraba						
+					Santiago De Tolú						
+					Nueva Era						
+					Pita En Medio						
+					Pita Abajo						
+					Tolú Viejo						
+					Macaján						
+					Varsovia						
+					La Piche						
+					Gualón						
+					Cañito						
+					La Siria						
+					Mónaco						
+					Punta Seca/Santafé						
+					Torrente						
+					Ibagué						
+					Dantas						
+					Juntas						
+					Laureles						
+					San Juan De La China						
+					Toche						
+					Villarestrepo						
+					Llano Del Combeima						
+					Carmen De Bulira						
+					Coello (Cocora)						
+					Pastales Viejo						
+					Charco Rico						
+					Pastales Nuevo						
+					La Flor						
+					Cay						
+					Alto De Gualanday						
+					Aparco						
+					Chembe						
+					Chucuní						
+					Curalito						
+					La Helena						
+					La Palmilla						
+					Los Túneles						
+					Pico De Oro						
+					Calandaima						
+					Cataima						
+					La Arada						
+					Ameses						
+					Achiral						
+					Vega Grande						
+					Caldas Viejo						
+					Rincón Chipalo						
+					Totarito						
+					Pajonales						
+					La Aldea El Danubio						
+					Anzoátegui						
+					Lisboa						
+					Nuevo Horizonte						
+					Ataco						
+					Casa De Zinc						
+					Mesa De Pole						
+					Polecito						
+					Santiago Pérez						
+					Andes Estrellas						
+					Monteloro						
+					La Ceja (Mesitas)						
+					Cóndor						
+					Pomarroso						
+					San Antonio Pole						
+					Carmen De Apicalá						
+					Casabianca						
+					Chaparral						
+					La Profunda						
+					San José De Las Hermosas						
+					La Virginia Baja						
+					San Bartolomé De Amoya						
+					Risaralda Calarma						
+					Coello						
+					Gualanday						
+					La Barrialosa						
+					Vega Los Padres						
+					Chaguala Afuera						
+					Cunira						
+					Lucha Adentro						
+					Lucha Afuera						
+					Vindi						
+					Calabozo						
+					Coyaima						
+					Mesas San Juan						
+					Totarco Dinde						
+					Guayaquil						
+					Cunday						
+					El Reves						
+					Ambicá						
+					Bermejo						
+					Palos Altos						
+					Espinal						
+					Chicoral						
+					Falan						
+					Frías						
+					Flandes						
+					Topacio						
+					Camalá						
+					Paradero I						
+					Paradero Ii (Tarqui)						
+					Puerta Blanca						
+					Fresno						
+					Agua Claras						
+					Campeón						
+					Piedra Grande						
+					Brisas Del Gualí						
+					Cerrogordo						
+					La Chamba						
+					Chipuelo Oriente						
+					Loma De Luisa						
+					Barroso						
+					Cañada Rodeo						
+					Cerezuela Garzas						
+					Herveo						
+					Letras						
+					Mesones						
+					Honda						
+					Icononzo						
+					Balconcitos						
+					Patecuinde						
+					Cafrería						
+					Lérida						
+					Iguasitos						
+					El Censo						
+					Convenio						
+					Mariquita						
+					La Parroquia						
+					Villa Janeth						
+					Melgar						
+					Cualamaná						
+					Chimbí						
+					Balcones Del Sumapaz						
+					La Estancia I  Y Ii						
+					Quebraditas 1						
+					Quebraditas 2						
+					San José De La Colorada						
+					Natagaima						
+					La Palmita						
+					Velú						
+					Tamirco						
+					Pocharco						
+					Palma Alta						
+					Rincón Anchique						
+					Balsillas						
+					Guaipa						
+					Hato De Iglesia						
+					La Mesa De Ortega						
+					Puente Cucuana						
+					Palocabildo						
+					Chicalá						
+					Doima						
+					Guataquisito						
+					Paradero Chipalo						
+					Bilbao						
+					Gaitania						
+					Sur De Ata						
+					Río Claro						
+					Aco						
+					Catalán						
+					Montoso						
+					Tafurito						
+					Malta						
+					Chenchito						
+					Corinto/Pioinia						
+					Corozales						
+					El Caimán						
+					El Fique						
+					Isla Del Sol						
+					La Chica						
+					Peñón Alto						
+					Tomogo						
+					Tortugas						
+					Purificación						
+					Chenche Asoleado						
+					Lozania						
+					Consuel Y Tigre						
+					Villa Esperanza						
+					El Baura						
+					Cairo Socorro						
+					Chenche Uno						
+					Chenche Tres						
+					Chenche Dos						
+					Herrera						
+					Puerto Saldaña						
+					Palonegro						
+					Roncesvalles						
+					El Corazón						
+					Riomanso						
+					La Luisa						
+					Pando Prado						
+					Saldaña						
+					Jabalcon						
+					Cerritos						
+					Cucharo						
+					El Redil						
+					Normandía						
+					Palmar Arenosa						
+					Palmar Trincadero						
+					Papagalá						
+					Parcelación San Carlos						
+					Playarrica						
+					Villa Hermosa						
+					Malnombre						
+					Tomogó						
+					Guasimito						
+					Luisa García						
+					Colón						
+					La Congoja						
+					Valle De San Juan						
+					La Manga						
+					Buenavista Baja						
+					Neme						
+					Venadillo						
+					Malabar						
+					Palmarosa						
+					Vile						
+					Villahermosa						
+					Platanillal						
+					Villarrica						
+					La Mercadilla						
+					La Colonia						
+					Santiago De Cali						
+					El Saladito						
+					Felidia						
+					El Hormiguero						
+					La Buitrera						
+					La Castilla						
+					La Elvira						
+					La Leonera						
+					Navarro						
+					Pance						
+					Pichinde						
+					Cascajal Ii						
+					Villacarmelo						
+					Brisas De Los Cristales						
+					Brisas De Montebello						
+					Cascajal I						
+					Crucero Alto De Los Mangos						
+					El Filo						
+					La Fragua						
+					La Vorágine						
+					Montañitas (Alto Y Bajo)						
+					Pizamos						
+					Villa Flamenco						
+					Cascajal Iii						
+					El Estero						
+					Alcalá						
+					Altaflor						
+					Pardo						
+					Monte Hermoso						
+					Madre Vieja						
+					Ansermanuevo						
+					Anacaro						
+					El Villar						
+					Guare						
+					La Tulia						
+					Aguas Lindas						
+					"Distrito Especial, Industrial, Portuario, Biodiverso Y Ecoturístico De Buenaventura"						
+					Aguaclara						
+					Barco						
+					La Bocana						
+					Bajo Calima						
+					Pastico						
+					Triana						
+					Ladrilleros						
+					Llano Bajo						
+					Bocas De Mayorquin						
+					Puerto Merizalde						
+					Punta Soldado						
+					San Antonio (Yurumanguí)						
+					San Francisco De Naya						
+					San Francisco Javier						
+					Silva						
+					Veneral						
+					Zacarías						
+					Juanchaco						
+					Pianguita						
+					Aragon						
+					Auca						
+					Chamuscado						
+					Citronela						
+					Guaimia						
+					Bartola						
+					La Delfina						
+					San Cipriano						
+					San José De Naya						
+					Aguamansa						
+					Cascajita						
+					Punta Bonita						
+					Bendiciones						
+					El Cacao						
+					Calle Larga/Aeropuerto						
+					Camino Viejo/Km 40						
+					Joaquincito						
+					Katanga						
+					La Balastrera						
+					La Comba						
+					El Limones						
+					Papayal 2						
+					Sagrada Familia						
+					San Antoñito (Yurumangui)						
+					San Isidro (Cajambre)						
+					Umane						
+					Villa Estela						
+					Calle Larga/Rio Mayorquin						
+					Guadalajara De Buga						
+					El Vinculo						
+					Los Bancos						
+					Quebradaseca						
+					La Mesa (Rioloro)						
+					Zanjón Hondo						
+					Crucero (Nogales)						
+					La Playa Del Buey						
+					Frisoles						
+					El Manantial						
+					Alaska						
+					Callejón Academia Militar						
+					La Unidad						
+					Puerto Bertin						
+					Guadalejo						
+					Bugalagrande						
+					Ceilán						
+					El Overo (Sector Poblado)						
+					Galicia						
+					La Morena						
+					Paila Arriba						
+					Uríbe Uríbe						
+					El Overo (Sector La María)						
+					Almendronal						
+					Tetillal						
+					Caicedonia						
+					Aures						
+					Darién						
+					El Boleo						
+					La Gaviota						
+					Riobravo						
+					El Mirador						
+					Buchitolo						
+					El Cabuyal						
+					El Lauro						
+					El Tiple						
+					Juanchito						
+					Villa Gorgona						
+					La Regina						
+					Madrevieja						
+					El Otoño						
+					El Gualí						
+					Poblado Campestre						
+					Brisas Del Fraile						
+					Cantalomota						
+					Caucaseco						
+					Domingo Largo						
+					Tres Tusas						
+					Pueblito Viejo						
+					Chondular						
+					El Dinamo						
+					La Oliva						
+					La Solorza						
+					Las Cuarenta						
+					Los Potes						
+					San Andresito						
+					Tiple Abajo						
+					Tiple Arriba						
+					Vuelta De San Diego						
+					Zainera						
+					Cartago						
+					Coloradas						
+					La Grecia						
+					Modín						
+					Piedra De Moler						
+					Guanabano						
+					Guayabito						
+					Zanjón Cauca						
+					Dagua						
+					Atuncela						
+					Borrero Ayerbe						
+					El Danubio						
+					El Limonar						
+					El Queremal						
+					La Elsa						
+					Lobo Guerrero						
+					Zelandia						
+					El Rucio						
+					Jiguales						
+					El Chilcal						
+					Kilómetro 26						
+					La Guinea						
+					La Yolomba						
+					Puerta Dagua						
+					El Águila						
+					Catarina (El Embal)						
+					La Guayacana (La Esparta)						
+					La María (Quebradagrande)						
+					Cañaveral (Villanueva)						
+					El Águila (Cajones)						
+					La Quiebra De San Pablo						
+					Aují						
+					El Pomo						
+					Santa Luisa						
+					El Dovio						
+					Bitaco						
+					Lituania						
+					Chococito						
+					El Líbano						
+					San Antonio De Los Caballeros						
+					San Francisco (El Llanito)						
+					Tarragona						
+					Las Guacas						
+					Los Caleños						
+					Tarragona Parte Alta						
+					El Tamboral						
+					Ginebra						
+					Villa Vanegas						
+					Guacarí						
+					Guabas						
+					Guabitas						
+					Pichichí						
+					Santa Rosa De Tapias						
+					Sonso						
+					Alto De Guacas						
+					Puente Rojo						
+					Cananguá						
+					Jamundí						
+					Ampudia						
+					Guachinte						
+					La Liberia						
+					Paso De La Bolsa						
+					Puente Vélez						
+					Villapaz						
+					Chagres						
+					Peón						
+					El Guaval						
+					Ciudadela Terranoviembrea						
+					Pavas						
+					Puente Palo						
+					Pavitas						
+					El Lindero						
+					La Despensa						
+					Quebradagrande						
+					Sabanazo						
+					El Guasimo						
+					El Lucero						
+					La Campesina						
+					Pájaro De Oro						
+					Holguín						
+					Riveralta						
+					Taguales						
+					El Chuzo						
+					Juan Díaz						
+					Puerto Molina						
+					Villa Rodas						
+					Amaime						
+					Bolo Alizal						
+					Bolo La Italia						
+					Bolo San Isidro						
+					Caluce/Plan De Los Guayabos						
+					Combia						
+					Coronado						
+					Guanabanal						
+					La Acequia						
+					La Quisquina						
+					La Zapata						
+					Matapalo						
+					Palmaseca						
+					Rozo						
+					Tablones						
+					La Bolsa						
+					La Rita						
+					La Dolores						
+					Bolo Barrio Nuevo						
+					Bolomadre Vieja						
+					Piles						
+					San Antonio De Las Palmas						
+					Bolo Azul						
+					Bolo Blanco						
+					Bolo Hartonal						
+					La Ruiza						
+					La Tupia						
+					La Feria						
+					Arenillo						
+					Ilama (El Agrado)						
+					Madroñal						
+					San Salvador						
+					La Zulia						
+					Portugal De Piedras						
+					Salónica						
+					Porto Fenicia						
+					La Sultana						
+					Los Estrechos						
+					Roldanillo						
+					Higueroncito						
+					Isugu						
+					Puerto Quintero						
+					Palmar Guayabal						
+					Tierra Blanca						
+					El Pie						
+					Irrupa						
+					Angosturas						
+					Los Chancos						
+					Platanares						
+					Todos Los Santos						
+					Monte Grande						
+					Guaqueros						
+					Cebollal						
+					Cumbarco						
+					La Melva						
+					Quebradanueva						
+					Estación Caicedonia						
+					Toro						
+					Bohío						
+					Andinápolis						
+					El Tabor (Puente Blanco)						
+					Huasanó						
+					Robledo						
+					La Sonora						
+					Bajo Cáceres						
+					Tuluá						
+					Bocas De Tuluá						
+					El Picacho						
+					Puerto Frazadas						
+					La Diadema						
+					La Iberia						
+					La Moralia						
+					Los Caimos						
+					Tochecito						
+					Venus						
+					La Rivera						
+					Piedritas						
+					Cienegueta						
+					Gato Negro						
+					Palomestizo						
+					Ulloa						
+					Moctezuma						
+					El Balsal						
+					Puentetierra						
+					Pinares						
+					Vijes						
+					Cachimbal						
+					La Fresneda						
+					El Tambor						
+					Vidal						
+					Yotoco						
+					Rayito (La Negra)						
+					Mediacanoa						
+					San Antonio De Piedras						
+					Dopo						
+					Yumbo						
+					Dapa						
+					La Olga						
+					Montañitas						
+					Mulaló						
+					Yumbillo						
+					Miravalle Norte						
+					Manga Vieja						
+					Miravalle Dapa						
+					Pilas De Dapa						
+					Zarzal						
+					El Caracol						
+					Cañas Bravas						
+					Arauquita						
+					El Troncal						
+					Los Angelitos						
+					Reinera (Gaviota)						
+					La Esmeralda (Jujua)						
+					El Caucho						
+					Potosí (Primavera)						
+					Panamá De Arauca						
+					Brisas Del Caranal						
+					La Pesquera						
+					El Campamento						
+					Raudales De Lipa						
+					Cravo Norte						
+					Los Caballos						
+					Juriepe						
+					Fortul						
+					Nuevo Caranal						
+					La Veinte						
+					El Mordisco						
+					Puerto Rondón						
+					La Correa						
+					Las Acacias						
+					Saravena						
+					Tame						
+					Betoyes						
+					Las Gaviotas						
+					Corocito Macagua						
+					Mapoy						
+					San Lope						
+					Cachama						
+					Cusay						
+					Carunal						
+					Puenta Tabla						
+					San Igridero						
+					Gran Bucare						
+					Puerto Nydia						
+					Botalón						
+					Puerto Miranda						
+					Yopal						
+					La Chaparrera						
+					Tilodirán						
+					Morichal						
+					La Guafilla						
+					La Llanerita						
+					Cupiagua						
+					Monterralo						
+					San Miguel De Farallones						
+					Unete						
+					Cunama						
+					Puente Cusiana						
+					Turua						
+					San José Bubuy						
+					Chameza						
+					Teguíta						
+					Guruvita						
+					Hato Corozal						
+					Chire						
+					La Frontera (La Chapa)						
+					Manare						
+					San José De Ariporo						
+					El Guafal						
+					Maní						
+					La Poyata						
+					Gaviotas						
+					Santa Helena De Cúsiva						
+					San Joaquín De Garibay						
+					Chavinave						
+					Limonal						
+					Brisas De Llano						
+					Nunchía						
+					La Yopalosa						
+					Orocué						
+					El Algarrobo						
+					Corea						
+					Cumaco						
+					Paz De Ariporo						
+					Bocas De La Hermosa						
+					Centro Gaitán						
+					Caño Chiquito						
+					Montaña Del Totumo						
+					Mirolindo						
+					Recetor						
+					El Secreto						
+					Sácama						
+					San Luis De Palenque						
+					La Venturosa						
+					Bocas De Guanapalo (Miramar)						
+					Gaviotas Quiteve						
+					Támara						
+					Tablón De Tamara						
+					Teislandia						
+					Tauramena						
+					Paso Cusiana						
+					Bocas Del Pauto						
+					Caimán						
+					Los Chochos						
+					Bélgica						
+					Caribayona						
+					Santa Helena De Upía						
+					Mocoa						
+					Condagua						
+					El Pepino						
+					Yunguillo						
+					Orito						
+					La Tesalia						
+					San Juan Vides						
+					Lucitania (Churuyaco)						
+					Jardines De Sucumbios						
+					Santa Rosa De Sucumbios						
+					San Vicente De Luzón						
+					Empalme						
+					Puerto Asís						
+					Villa Victoria						
+					Piñuña Blanco						
+					Bajo Cuembí						
+					Puerto Vega						
+					Teteye						
+					Alto Danubio						
+					Caña Brava						
+					Comandante						
+					El Cristal						
+					La Carmelita						
+					Puerto Bello						
+					La Rosa						
+					Sinaí (Achapos)						
+					Puerto Caicedo						
+					Puerto Guzmán						
+					José María						
+					Mayoyogue						
+					El Gallinazo						
+					El Juano						
+					Puerto Rosario						
+					Leguízamo						
+					La Tagua						
+					Puerto Ospina						
+					Sensella						
+					El Mecaya						
+					La Paya						
+					Piñuña Negro						
+					Nueva Apaya						
+					Sibundoy						
+					El Egido						
+					Porotoyoca						
+					Patuyaco						
+					Puerto Colón						
+					La Hormiga						
+					Santa Rosa Sucumbios						
+					Jordán De Guisia						
+					Alto Palmira						
+					Brisas Del Palmar						
+					Loro Uno						
+					Nueva Palestina						
+					Villaduarte						
+					Villagarzón						
+					Puerto Umbría						
+					La Castellana						
+					Villaflor						
+					Alto Sinaí						
+					Bajo Corazón						
+					Kofania						
+					Naranjito						
+					San Miguel De La Castellana						
+					Santa Rosa De Juanambú						
+					Fresh Water Bay						
+					South West Bay						
+					Botton House						
+					Rocky Point						
+					Arara						
+					San Martín De Amacayacú						
+					Asociación Mujeres Indígenas Kilómetro 6						
+					Kilómetro 6						
+					La Milagrosa						
+					Las Yaguas						
+					Mocagua						
+					Monilla Amena						
+					Multiétnica						
+					Nuevo Jardín						
+					Ronda						
+					San Antonio Lagos						
+					Puerto Arica						
+					La Pedrera						
+					Pacoa						
+					Miriti-Paraná						
+					Puerto Alegría						
+					San Juan De Atacuarí						
+					Boyahuazú						
+					Doce De Octubre						
+					San Juan Del Soco						
+					Siete De Agosto						
+					Tipisca						
+					Inírida						
+					Guasacavi						
+					Puerto Camanaos						
+					Barranco Picure						
+					Chaguita						
+					Coconuevo						
+					Barranco Tigre						
+					Coayare						
+					Yurí						
+					Barranco Minas						
+					Arrecifal						
+					Sapuara						
+					Mapiripana						
+					Puerto Zancudo						
+					Sejal (Mahimachi)						
+					La Guadalupe						
+					Cacahual						
+					Bocas De Yari						
+					Venado Isana						
+					Morichal Nuevo						
+					San José Del Guaviare						
+					Raudal Del Guayabero						
+					Sabanas De La Fuga						
+					Puerto Cachicamo						
+					Araguato						
+					Capricho						
+					Charras						
+					Tomachipán						
+					Mocuare						
+					El Turpial						
+					Florida Ii						
+					Guayabero (La Carpa)						
+					El Unilla						
+					Lagos Del Dorado						
+					Las Pavas Caño Tigre						
+					Puerto Lágrimas						
+					Mitú						
+					Querari						
+					Camanaos						
+					Macuana						
+					Tiquie						
+					Acaricuara						
+					Caruru						
+					Yuruparí						
+					Taraira						
+					Comunidad De Curupira						
+					Yavaraté						
+					Papurí						
+					Casuarito						
+					Nueva Antioquia						
+					Marandúa						
+					Matiyure						
+					San Teodoro (La Pascua)						
+					Santa Rosalía						
+					Guacacías						
+					Cumaribo						
+					El Viento						
+					Tres Matas						
+					Amanavén						
+					Chupave						
+					Guanape						
+					Puerto Príncipe						
+					El 15						
+					El Cañaveral						
+					El Tuparro						
+					La 14						
+					Werima						

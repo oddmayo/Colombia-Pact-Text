@@ -1,0 +1,185 @@
+library(dplyr)
+library(readxl)
+library(data.table)
+library(magrittr)
+library(RTextTools)
+library(tictoc)
+library(ggplot2)
+library(tm)
+library(cluster)
+library(ClusterR)
+library(factoextra)
+library(FactoMineR)
+library(beepr)
+library(Morpho)
+load('C:\\Users\\ScmayorquinS\\Desktop\\Proyectos backup\\Edwin Duban Torres Garcia - SGR - Proyectos tipo\\Data\\bases\\PCA-coord.R')
+proyTsneBoW <- function(B){
+require(FactoMineR)
+require(tsne)
+PVC <- B$var$coord
+ts2 <- tsne(X = PVC[,1:5], #initial_config = PVC[,1:2],
+k = 2, perplexity = 15, max_iter = 500, whiten = FALSE,
+epoch = 10, min_cost=0.4)
+}
+tic()
+t <- proyTsneBoW(BoW.reducido)
+toc()
+beep(2)
+install.packages(c("beepr", "ClusterR", "factoextra", "FactoMineR", "quanteda", "Rtsne", "magrittr"))
+install.packages(c("broom", "caret", "devtools", "dimRed", "dplyr", "farver", "ggplot2", "haven", "ipred", "jomo", "jsonlite", "lava", "lme4", "markdown", "MASS", "ModelMetrics", "OpenImageR", "openssl", "pkgload", "processx", "ps", "psych", "rcmdcheck", "Rcpp", "RcppArmadillo", "RcppEigen", "readr", "recipes", "remotes", "rio", "rlang", "rmarkdown", "sessioninfo", "sfsmisc", "shiny", "stringi", "tidyr", "tinytex", "tseries", "units", "xfun", "xts"))
+directorio <- 'C:\\Users\\CamiloAndrés\\Documents\\OneDrive - Departamento Nacional de Planeacion\\Proyectos backup\\Edwin Duban Torres Garcia - SGR - Proyectos tipo\\'
+# funciones
+load(paste0(directorio,'P tip R\\funciones.R'))
+# funciones
+load(paste0(directorio,'P tip R\\funciones.R'))
+directorio
+# funciones
+load(paste0(directorio,'P tip R\\funciones.RData'))
+directorio <- 'C:/Users/CamiloAndrés/Documents/OneDrive - Departamento Nacional de Planeacion/Proyectos backup/Edwin Duban Torres Garcia - SGR - Proyectos tipo'
+# funciones
+load(paste0(directorio,'/P tip R/funciones.RData'))
+# funciones
+soruce(paste0(directorio,'/P tip R/funciones.RData'))
+# funciones
+source(paste0(directorio,'/P tip R/funciones.RData'))
+# funciones
+source(paste0(directorio,'/P tip R/funciones.R'))
+proyectos <- read_excel(paste0(directorio,"\\Data\\bases\\tabla.xlsx"))
+library(package = c(dplyr,readxl))
+paquetes <- c(dplyr,readxl,data.table)
+paquetes <- c('dplyr','readxl','data.table')
+for (i in 1:length(paquetes)) {
+library(i)
+}
+lapply(paquetes, library, character.only = TRUE)
+lapply(paquetes, require, character.only = TRUE)
+proyectos <- read_excel(paste0(directorio,"\\Data\\bases\\tabla.xlsx"))
+paquetes <- c('dplyr','readxl','data.table','magrittr',
+'RTextTools','tictoc','ggplot2','tm','ClusteR',
+'factoextra','FactoMineR','beepr','Morpho',
+'quanteda','Rtsne'
+)
+lapply(paquetes, require, character.only = TRUE)
+warnings()
+install.packages("ClusterR")
+lapply(paquetes, require, character.only = TRUE)
+paquetes <- c('dplyr','readxl','data.table','magrittr',
+'RTextTools','tictoc','ggplot2','tm','ClusterR',
+'factoextra','FactoMineR','beepr',
+'quanteda','Rtsne'
+)
+lapply(paquetes, require, character.only = TRUE)
+proyectos <- proyectos[order(proyectos$Sector),] %>% select(-c('BPIN','RiesgoDescripempty','Efectosempty','Mitigacionempty','ProductoComplemempty','Estado'))
+sw <- readLines(paste0(directorio,"\\Data\\entrada\\stop_words_spanish.txt"))
+# Lugares geográficos
+geo <- fread(paste0(directorio,"\\Data\\entrada\\geografiaCol.txt",sep='\t',encoding = 'UTF-8',header = F))
+# Lugares geográficos
+geo <- fread(paste0(directorio,"\\Data\\entrada\\geografiaCol.txt",sep='\t',encoding = 'UTF-8',header = F))
+directorio <- 'C:/Users/CamiloAndrés/Documents/OneDrive - Departamento Nacional de Planeacion/Proyectos backup/Edwin Duban Torres Garcia - SGR - Proyectos tipo'
+# Lugares geográficos
+geo <- fread(paste0(directorio,"\\Data\\entrada\\geografiaCol.txt",sep='\t',encoding = 'UTF-8',header = F))
+# Lugares geográficos
+geo <- fread(paste0(directorio,"\\Data\\entrada\\geografiaCol.txt"),sep='\t',encoding = 'UTF-8',header = F)
+geo <- sapply(geo, function(x) preproctext(x))
+geo <- unlist(strsplit(geo_limpia,split = ' '))
+geo <- unlist(strsplit(geo,split = ' '))
+# Resguardos
+res <- readLines(paste0(directorio,"\\Data\\entrada\\resguardos.txt"))
+res <- preproctext(res)
+res <- unlist(strsplit(res,split = ' '))
+res <- as.character(na.omit(res))
+# Veredas
+ver <- readLines(paste0(directorio,"\\Data\\entrada\\veredas.txt"))
+ver <- preproctext(ver)
+ver <- unlist(strsplit(ver,split = ' '))
+ver <- as.character(na.omit(ver))
+all_stopwords <- unique(c(sw,geo,res,ver))
+proyectos_limpio <- as.data.frame(sapply(proyectos, function(x) preproctext(x)))
+proyectos_limpio %<>%
+mutate_if(is.factor,as.character)
+# Remover todas las stopwords
+proyectos_limpio <- sapply(proyectos_limpio, function(x) RemoveStopwordsFromText(x,all_stopwords))
+sectores <- as.data.frame(table(proyectos_limpio[,2]))
+sectores <- sectores[which(sectores$Freq>=100),]
+proyectos_definitivo <- as.data.frame(proyectos_limpio[which(proyectos_limpio[,2] %in% sectores$Var1),])
+proyectos_definitivo %<>%
+mutate_if(is.factor,as.character)
+proyectos_definitivo$Sector <- NULL
+cols <- colnames(proyectos_definitivo)
+proyectos_definitivo$x <- apply(proyectos_definitivo[,cols],1,paste,collapse=" ")
+texto <- proyectos_definitivo$x
+# Bag of words
+dtm <- create_matrix(texto)
+# Bag of words
+dtm <- as.matrix(create_matrix(texto))
+BoW <- t(apply(dtm,1,function(x)x/sum(x)))
+beep(2)
+# PCA
+#BoW.reducido <- PCA(BoW,graph = F)
+# 2 horas maomeno'
+#save(BoW.reducido,file = 'C:\\Users\\ScmayorquinS\\Desktop\\Proyectos backup\\Edwin Duban Torres Garcia - SGR - Proyectos tipo\\Data\\bases\\PCA-coord.R')
+load(paste0(directorio,'\\Data\\bases\\PCA-coord.R'))
+# PCA con matriz cuadrada ~ 2 horas
+#BoW.pca <- prcomp(BoW)
+#save(BoW.pca,file = 'C:\\Users\\ScmayorquinS\\Desktop\\Proyectos backup\\Edwin Duban Torres Garcia - SGR - Proyectos tipo\\Data\\bases\\PCA.R')
+load(paste0(directorio,'\\Data\\bases\\PCA.R'))
+mejorDeVariosKmeans()
+# Clasificación con k-Means
+kfit <- kmeans(BoW.pca$x, 15)
+plot(BoW.pca$x[,1:2], col = kfit$cluster)
+points(kfit$centers, col = 1:15, pch = 2, cex = 2)
+set.seed(0)
+tiesne <- Rtsne(X = BoW.pca$x,dims = 2,perplexity = 80,theta = 0.5,check_duplicates = F,pca = F,partial_pca = F,max_iter = 1000,verbose = T,exaggeration_factor = 8)
+plot(tiesne$Y,col=kfit$cluster)
+tsne_plot <- data.frame(x = tiesne$Y[,1], y = tiesne$Y[,2])
+ggplot(tsne_plot) + geom_point(aes(x=x, y=y, color=kfit$cluster))
+save(tiense,file = paste0(directorio,'\\Data\\bases\\tsne.R'))
+save(tiesne,file = paste0(directorio,'\\Data\\bases\\tsne.R'))
+tiesne <- Rtsne(X = BoW.pca$x,dims = 2,perplexity = 80,theta = 0.5,check_duplicates = F,pca = F,partial_pca = F,max_iter = 5000,verbose = T,exaggeration_factor = 8)
+plot(tiesne$Y,col=kfit$cluster)
+tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = 5,theta = 0.5,check_duplicates = F,pca = F,partial_pca = F,max_iter = 1000,verbose = T,exaggeration_factor = 8)
+plot(tiesne$Y,col=kfit$cluster)
+tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = 2,theta = 0.5,check_duplicates = F,pca = F,partial_pca = F,max_iter = 1000,verbose = T,exaggeration_factor = 8)
+plot(tiesne$Y,col=kfit$cluster)
+tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = 2,theta = 0.5,check_duplicates = F,pca = F,partial_pca = F,max_iter = 1000,verbose = T,exaggeration_factor = 0)
+plot(tiesne$Y,col=kfit$cluster)
+tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = 2,theta = 0.5,check_duplicates = F,pca = F,partial_pca = F,max_iter = 1000,verbose = T)
+plot(tiesne$Y,col=kfit$cluster)
+tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = 10,theta = 0.5,check_duplicates = F,pca = F,partial_pca = F,max_iter = 1000,verbose = T)
+plot(tiesne$Y,col=kfit$cluster)
+tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = 10,theta = 0.5,check_duplicates = F,pca = F,partial_pca = F,max_iter = 1000,verbose = T,exaggeration_factor = 4)
+plot(tiesne$Y,col=kfit$cluster)
+install.packages("ggvoronoi")
+'RTextTools','tictoc','ggplot2','tm','ClusterR',
+'factoextra','FactoMineR','beepr',
+'quanteda','Rtsne','ggvoronoi'
+)
+paquetes <- c('dplyr','readxl','data.table','magrittr',
+'RTextTools','tictoc','ggplot2','tm','ClusterR',
+'factoextra','FactoMineR','beepr',
+'quanteda','Rtsne','ggvoronoi'
+)
+lapply(paquetes, require, character.only = TRUE)
+ggplot(tiesne$Y) +
+geom_voronoi(aes(x,y,fill=distance))
+puntos <- as.data.frame(tiesne$Y)
+ggplot(puntos) +
+geom_voronoi(aes(x,y,fill=distance))
+ggplot(puntos) +
+geom_voronoi(aes(V1,V2,fill=distance))
+ggplot(puntos) +
+geom_voronoi(aes(V1,V2,fill=distance))
+ggplot(puntos) +
+geom_voronoi(aes(V1,V2,fill=kfit$cluster))
+ggplot(puntos) +
+geom_voronoi(aes(V1,V2,fill=kfit$centers))
+ggplot(puntos) +
+geom_voronoi(aes(V1,V2,fill=kfit$withinss))
+ggplot(puntos) +
+geom_voronoi(aes(V1,V2,fill=kfit$totss))
+ggplot(pUNTOS,aes(V1,V2)) +
+stat_voronoi(geom="path") +
+geom_point()
+ggplot(puntos,aes(V1,V2)) +
+stat_voronoi(geom="path") +
+geom_point()

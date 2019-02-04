@@ -1,0 +1,1166 @@
+﻿Abejorral	Antioquia	Municipio
+Ábrego	Norte de Santander	Municipio
+Abriaquí	Antioquia	Municipio
+Acacías	Meta	Municipio
+Acandí	Chocó	Municipio
+Acevedo	Huila	Municipio
+Achí	Bolívar	Municipio
+Agrado	Huila	Municipio
+Agua	Cundinamarca	Municipio
+Aguachica	Cesar	Municipio
+Aguada	Santander	Municipio
+Aguadas	Caldas	Municipio
+Aguazul	Casanare	Municipio
+Agustín Codazzi	Cesar	Municipio
+Aipe	Huila	Municipio
+Albán	Cundinamarca	Municipio
+Albania	Caquetá	Municipio
+Albania	La Guajira	Municipio
+Albania	Santander	Municipio
+Alcalá	Valle del Cauca	Municipio
+Aldana	Nariño	Municipio
+Alejandría	Antioquia	Municipio
+Algarrobo	Magdalena	Municipio
+Algeciras	Huila	Municipio
+Almaguer	Cauca	Municipio
+Almeida	Boyacá	Municipio
+Alpujarra	Tolima	Municipio
+Altamira	Huila	Municipio
+Alto Baudó	Chocó	Municipio
+Altos del Rosario	Bolívar	Municipio
+Alvarado	Tolima	Municipio
+Amagá	Antioquia	Municipio
+Amalfi	Antioquia	Municipio
+Ambalema	Tolima	Municipio
+Anapoima	Cundinamarca	Municipio
+Ancuya	Nariño	Municipio
+Andalucía	Valle del Cauca	Municipio
+Andes	Antioquia	Municipio
+Angelópolis	Antioquia	Municipio
+Angostura	Antioquia	Municipio
+Anolaima	Cundinamarca	Municipio
+Anorí	Antioquia	Municipio
+Anserma	Caldas	Municipio
+Ansermanuevo	Valle del Cauca	Municipio
+Anzá	Antioquia	Municipio
+Anzoátegui	Tolima	Municipio
+Apartadó	Antioquia	Municipio
+Apía	Risaralda	Municipio
+Apulo	Risaralda	Municipio
+Aquitania	Boyacá	Municipio
+Aracataca	Magdalena	Municipio
+Aranzazu	Caldas	Municipio
+Aratoca	Santander	Municipio
+Arauca	Arauca	Municipio
+Arauquita	Arauca	Municipio
+Arbeláez	Cundinamarca	Municipio
+Arboleda	Nariño	Municipio
+Arboledas	Norte de Santander	Municipio
+Arboletes	Antioquia	Municipio
+Arcabuco	Boyacá	Municipio
+Arenal	Bolívar	Municipio
+Argelia	Antioquia	Municipio
+Argelia	Cauca	Municipio
+Argelia	Valle del Cauca	Municipio
+Ariguaní	Magdalena	Municipio
+Arjona	Bolívar	Municipio
+Armenia	Antioquia	Municipio
+Armenia	Quindío	Municipio
+Armero	Tolima	Municipio
+Arroyohondo	Bolívar	Municipio
+Astrea	Cesar	Municipio
+Ataco	Tolima	Municipio
+Ayapel	Córdoba	Municipio
+Bagadó	Chocó	Municipio
+Bahía Solano	Chocó	Municipio
+Bajo Baudó	Chocó	Municipio
+Balboa	Cauca	Municipio
+Balboa	Risaralda	Municipio
+Baranoa	Atlántico	Municipio
+Baraya	Huila	Municipio
+Barbacoas	Nariño	Municipio
+Barbosa	Antioquia	Municipio
+Barbosa	Santander	Municipio
+Barichara	Santander	Municipio
+Barranca de Upía	Meta	Municipio
+Barrancabermeja	Santander	Municipio
+Barrancas	La Guajira	Municipio
+Barranco de Loba	Bolívar	Municipio
+Barranquilla	Atlántico	Municipio
+Becerril	Cesar	Municipio
+Belalcázar	Caldas	Municipio
+Belén	Boyacá	Municipio
+Belén	Nariño	Municipio
+Belén de los Andaquíes	Caquetá	Municipio
+Belén de Umbría	Risaralda	Municipio
+Bello	Antioquia	Municipio
+Belmira	Antioquia	Municipio
+Beltrán	Cundinamarca	Municipio
+Berbeo	Boyacá	Municipio
+Betania	Antioquia	Municipio
+Betéitiva	Boyacá	Municipio
+Betulia	Antioquia	Municipio
+Betulia	Santander	Municipio
+Bituima	Cundinamarca	Municipio
+Boavita	Boyacá	Municipio
+Bochalema	Norte de Santander	Municipio
+Bogotá	Cundinamarca	Municipio
+Bojacá	Cundinamarca	Municipio
+Bojayá	Chocó	Municipio
+Bolívar	Antioquia	Municipio
+Bolívar	Cauca	Municipio
+Bolívar	Santander	Municipio
+Bolívar	Valle del Cauca	Municipio
+Bosconia	Cesar	Municipio
+Boyacá	Boyacá	Municipio
+Brazuelo de Papayal	Bolívar	Municipio
+Briceño	Antioquia	Municipio
+Briceño	Boyacá	Municipio
+Bucaramanga	Santander	Municipio
+Bucarasica	Norte de Santander	Municipio
+Buenaventura	Valle del Cauca	Municipio
+Buenavista	Boyacá	Municipio
+Buenavista	Córdoba	Municipio
+Buenavista	Quindío	Municipio
+Buenavista	Sucre	Municipio
+Buenos Aires	Cauca	Municipio
+Buesaco	Nariño	Municipio
+Buga	Valle del Cauca	Municipio
+Bugalagrande	Valle del Cauca	Municipio
+Buriticá	Antioquia	Municipio
+Busbanzá	Boyacá	Municipio
+Cabrera	Cundinamarca	Municipio
+Cabrera	Santander	Municipio
+Cabuyaro	Meta	Municipio
+Cáceres	Antioquia	Municipio
+Cachipay	Cundinamarca	Municipio
+Cáchira	Norte de Santander	Municipio
+Cácota	Norte de Santander	Municipio
+Caicedo	Antioquia	Municipio
+Caicedonia	Valle del Cauca	Municipio
+Caimito	Sucre	Municipio
+Cajamarca	Tolima	Municipio
+Cajibío	Cauca	Municipio
+Cajicá	Cundinamarca	Municipio
+Calamar	Bolívar	Municipio
+Calamar	Guaviare	Municipio
+Calarcá	Quindío	Municipio
+Caldas	Antioquia	Municipio
+Caldas	Boyacá	Municipio
+Caldono	Cauca	Municipio
+Cali	Valle del Cauca	Municipio
+California	Santander	Municipio
+Calima	Valle del Cauca	Municipio
+Caloto	Cauca	Municipio
+Campamento	Antioquia	Municipio
+Campo de la Cruz	Atlántico	Municipio
+Campoalegre	Huila	Municipio
+Campohermoso	Boyacá	Municipio
+Canalete	Córdoba	Municipio
+Candelaria	Atlántico	Municipio
+Candelaria	Valle del Cauca	Municipio
+Cantagallo	Bolívar	Municipio
+Cantón de San Pablo	Chocó	Municipio
+Cañasgordas	Antioquia	Municipio
+Caparrapí	Cundinamarca	Municipio
+Capitanejo	Santander	Municipio
+Cáqueza	Cundinamarca	Municipio
+Caracolí	Antioquia	Municipio
+Caramanta	Antioquia	Municipio
+Carcasí	Santander	Municipio
+Carepa	Antioquia	Municipio
+Carmen de Apicalá	Tolima	Municipio
+Carmen de Carupa	Cundinamarca	Municipio
+Carolina del Príncipe	Antioquia	Municipio
+Cartagena de Indias	Bolívar	Municipio
+Cartagena del Chairá	Caquetá	Municipio
+Cartago	Valle del Cauca	Municipio
+Carurú	Vaupés	Municipio
+Casabianca	Tolima	Municipio
+Castilla la Nueva	Meta	Municipio
+Caucasia	Antioquia	Municipio
+Cepitá	Santander	Municipio
+Cereté	Córdoba	Municipio
+Cerinza	Boyacá	Municipio
+Cerrito	Santander	Municipio
+Cerro de San Antonio	Magdalena	Municipio
+Cértegui	Chocó	Municipio
+Chachagüí	Nariño	Municipio
+Chaguaní	Cundinamarca	Municipio
+Chalán	Sucre	Municipio
+Chámeza	Casanare	Municipio
+Chaparral	Tolima	Municipio
+Charalá	Santander	Municipio
+Charta	Santander	Municipio
+Chía	Cundinamarca	Municipio
+Chibolo	Magdalena	Municipio
+Chigorodó	Antioquia	Municipio
+Chima	Santander	Municipio
+Chimá	Córdoba	Municipio
+Chimichagua	Cesar	Municipio
+Chinácota	Norte de Santander	Municipio
+Chinavita	Boyacá	Municipio
+Chinchiná	Caldas	Municipio
+Chinú	Córdoba	Municipio
+Chipaque	Cundinamarca	Municipio
+Chipatá	Santander	Municipio
+Chiquinquirá	Boyacá	Municipio
+Chíquiza	Boyacá	Municipio
+Chiriguaná	Cesar	Municipio
+Chiscas	Boyacá	Municipio
+Chita	Boyacá	Municipio
+Chitagá	Norte de Santander	Municipio
+Chitaraque	Boyacá	Municipio
+Chivatá	Boyacá	Municipio
+Chivolo	Magdalena	Municipio
+Chivor	Boyacá	Municipio
+Choachí	Cundinamarca	Municipio
+Chocontá	Cundinamarca	Municipio
+Cicuco	Bolívar	Municipio
+Ciénaga	Magdalena	Municipio
+Ciénaga de Oro	Córdoba	Municipio
+Ciénega	Boyacá	Municipio
+Cimitarra	Santander	Municipio
+Circasia	Quindío	Municipio
+Cisneros	Antioquia	Municipio
+Clemencia	Bolívar	Municipio
+Cocorná	Antioquia	Municipio
+Coello	Tolima	Municipio
+Cogua	Cundinamarca	Municipio
+Colombia	Huila	Municipio
+Colón	Nariño	Municipio
+Colón	Putumayo	Municipio
+Colosó	Sucre	Municipio
+Cómbita	Boyacá	Municipio
+Concepción	Antioquia	Municipio
+Concepción	Santander	Municipio
+Concordia	Antioquia	Municipio
+Concordia	Magdalena	Municipio
+Condoto	Chocó	Municipio
+Confines	Santander	Municipio
+Consacá	Nariño	Municipio
+Contadero	Nariño	Municipio
+Contratación	Santander	Municipio
+Convención	Norte de Santander	Municipio
+Copacabana	Antioquia	Municipio
+Coper	Boyacá	Municipio
+Córdoba	Bolívar	Municipio
+Córdoba	Nariño	Municipio
+Córdoba	Quindío	Municipio
+Corinto	Cauca	Municipio
+Coromoro	Santander	Municipio
+Corozal	Sucre	Municipio
+Corrales	Boyacá	Municipio
+Cota	Cundinamarca	Municipio
+Cotorra	Córdoba	Municipio
+Covarachía	Boyacá	Municipio
+Coveñas	Sucre	Municipio
+Coyaima	Tolima	Municipio
+Cravo Norte	Arauca	Municipio
+Cuaspud	Nariño	Municipio
+Cubará	Boyacá	Municipio
+Cubarral	Meta	Municipio
+Cucaita	Boyacá	Municipio
+Cucunubá	Cundinamarca	Municipio
+Cúcuta	Norte de Santander	Municipio
+Cucutilla	Norte de Santander	Municipio
+Cuítiva	Boyacá	Municipio
+Cumaral	Meta	Municipio
+Cumaribo	Vichada	Municipio
+Cumbal	Nariño	Municipio
+Cumbitara	Nariño	Municipio
+Cunday	Tolima	Municipio
+Curillo	Caquetá	Municipio
+Curití	Santander	Municipio
+Curumaní	Cesar	Municipio
+Dabeiba	Antioquia	Municipio
+Dagua	Valle del Cauca	Municipio
+Dibulla	La Guajira	Municipio
+Distracción	La Guajira	Municipio
+Dolores	Tolima	Municipio
+Donmatías	Antioquia	Municipio
+Dosquebradas	Risaralda	Municipio
+Duitama	Boyacá	Municipio
+Duranía	Norte de Santander	Municipio
+Ebéjico	Antioquia	Municipio
+El Águila	Valle del Cauca	Municipio
+El Atrato	Chocó	Municipio
+El Bagre	Antioquia	Municipio
+El Banco	Magdalena	Municipio
+El Cairo	Valle del Cauca	Municipio
+El Calvario	Meta	Municipio
+El Carmen	Norte de Santander	Municipio
+El Carmen de Atrato	Chocó	Municipio
+El Carmen de Bolívar	Bolívar	Municipio
+El Carmen de Chucurí	Santander	Municipio
+El Carmen de Viboral	Antioquia	Municipio
+El Carmen del Darién	Chocó	Municipio
+El Castillo	Meta	Municipio
+El Cerrito	Valle del Cauca	Municipio
+El Charco	Nariño	Municipio
+El Cocuy	Boyacá	Municipio
+El Colegio	Cundinamarca	Municipio
+El Copey	Cesar	Municipio
+El Doncello	Caquetá	Municipio
+El Dorado	Meta	Municipio
+El Dovio	Valle del Cauca	Municipio
+El Espinal	Tolima	Municipio
+El Espino	Boyacá	Municipio
+El Guacamayo	Santander	Municipio
+El Guamo	Bolívar	Municipio
+El Molino	La Guajira	Municipio
+El Paso	Cesar	Municipio
+El Paujil	Caquetá	Municipio
+El Peñol	Antioquia	Municipio
+El Peñol	Nariño	Municipio
+El Peñón	Bolívar	Municipio
+El Peñón	Cundinamarca	Municipio
+El Peñón	Santander	Municipio
+El Piñón	Magdalena	Municipio
+El Pital	Huila	Municipio
+El Playón	Santander	Municipio
+El Retén	Magdalena	Municipio
+El Retiro	Antioquia	Municipio
+El Retorno	Guaviare	Municipio
+El Roble	Sucre	Municipio
+El Rosal	Cundinamarca	Municipio
+El Rosario	Nariño	Municipio
+El Santuario	Antioquia	Municipio
+El Socorro	Santander	Municipio
+El Tablón	Nariño	Municipio
+El Tambo	Cauca	Municipio
+El Tambo	Nariño	Municipio
+El Tarra	Norte de Santander	Municipio
+El Zulia	Norte de Santander	Municipio
+Elías	Huila	Municipio
+Encino	Santander	Municipio
+Entrerríos	Antioquia	Municipio
+Envigado	Antioquia	Municipio
+Facatativá	Cundinamarca	Municipio
+Falán	Tolima	Municipio
+Filadelfia	Caldas	Municipio
+Filandia	Quindío	Municipio
+Firavitoba	Boyacá	Municipio
+Flandes	Tolima	Municipio
+Florencia	Cauca	Municipio
+Florencia	Caquetá	Municipio
+Floresta	Boyacá	Municipio
+Florián	Santander	Municipio
+Florida	Valle del Cauca	Municipio
+Floridablanca	Santander	Municipio
+Fómeque	Cundinamarca	Municipio
+Fonseca	La Guajira	Municipio
+Fortul	Arauca	Municipio
+Fosca	Cundinamarca	Municipio
+Francisco Pizarro	Nariño	Municipio
+Fredonia	Antioquia	Municipio
+Fresno	Tolima	Municipio
+Frontino	Antioquia	Municipio
+Fuente de Oro	Meta	Municipio
+Fundación	Magdalena	Municipio
+Funes	Nariño	Municipio
+Funza	Cundinamarca	Municipio
+Fúquene	Cundinamarca	Municipio
+Fusagasugá	Cundinamarca	Municipio
+Gachalá	Cundinamarca	Municipio
+Gachancipá	Cundinamarca	Municipio
+Gachantivá	Boyacá	Municipio
+Gachetá	Cundinamarca	Municipio
+Galán	Santander	Municipio
+Galapa	Atlántico	Municipio
+Galeras	Sucre	Municipio
+Gama	Cundinamarca	Municipio
+Gamarra	Cesar	Municipio
+Gámbita	Santander	Municipio
+Gámeza	Boyacá	Municipio
+Garagoa	Boyacá	Municipio
+Garzón	Huila	Municipio
+Génova	Quindío	Municipio
+Gigante	Huila	Municipio
+Ginebra	Valle del Cauca	Municipio
+Giraldo	Antioquia	Municipio
+Girardot	Cundinamarca	Municipio
+Girardota	Antioquia	Municipio
+Girón	Santander	Municipio
+Gómez Plata	Antioquia	Municipio
+González	Cesar	Municipio
+Gramalote	Norte de Santander	Municipio
+Granada	Antioquia	Municipio
+Granada	Cundinamarca	Municipio
+Granada	Meta	Municipio
+Guaca	Santander	Municipio
+Guacamayas	Boyacá	Municipio
+Guacarí	Valle del Cauca	Municipio
+Guachené	Cauca	Municipio
+Guachetá	Cundinamarca	Municipio
+Guachucal	Nariño	Municipio
+Guadalupe	Antioquia	Municipio
+Guadalupe	Huila	Municipio
+Guadalupe	Santander	Municipio
+Guaduas	Cundinamarca	Municipio
+Guaitarilla	Nariño	Municipio
+Gualmatán	Nariño	Municipio
+Guamal	Magdalena	Municipio
+Guamal	Meta	Municipio
+Guamo	Tolima	Municipio
+Guapí	Cauca	Municipio
+Guapotá	Santander	Municipio
+Guaranda	Sucre	Municipio
+Guarne	Antioquia	Municipio
+Guasca	Cundinamarca	Municipio
+Guatapé	Antioquia	Municipio
+Guataquí	Cundinamarca	Municipio
+Guatavita	Cundinamarca	Municipio
+Guateque	Boyacá	Municipio
+Guática	Risaralda	Municipio
+Guavatá	Santander	Municipio
+Guayabal de Síquima	Cundinamarca	Municipio
+Guayabetal	Cundinamarca	Municipio
+Guayatá	Boyacá	Municipio
+Güepsa	Santander	Municipio
+Güicán	Boyacá	Municipio
+Gutiérrez	Cundinamarca	Municipio
+Hacarí	Norte de Santander	Municipio
+Hatillo de Loba	Bolívar	Municipio
+Hato Corozal	Casanare	Municipio
+Hato	Santander	Municipio
+Hatonuevo	La Guajira	Municipio
+Heliconia	Antioquia	Municipio
+Herrán	Norte de Santander	Municipio
+Herveo	Tolima	Municipio
+Hispania	Antioquia	Municipio
+Hobo	Huila	Municipio
+Honda	Tolima	Municipio
+Ibagué	Tolima	Municipio
+Icononzo	Tolima	Municipio
+Iles	Nariño	Municipio
+Imués	Nariño	Municipio
+Inírida	Guainía	Municipio
+Inzá	Cauca	Municipio
+Ipiales	Nariño	Municipio
+Íquira	Huila	Municipio
+Isnos	Huila	Municipio
+Itagüí	Antioquia	Municipio
+Istmina	Chocó	Municipio
+Ituango	Antioquia	Municipio
+Iza	Boyacá	Municipio
+Jambaló	Cauca	Municipio
+Jamundí	Valle del Cauca	Municipio
+Jardín	Antioquia	Municipio
+Jenesano	Boyacá	Municipio
+Jericó	Antioquia	Municipio
+Jericó	Boyacá	Municipio
+Jerusalén	Cundinamarca	Municipio
+Jesús María	Santander	Municipio
+Jordán	Santander	Municipio
+Juan	Atlántico	Municipio
+Junín	Cundinamarca	Municipio
+Juradó	Chocó	Municipio
+La Apartada	Córdoba	Municipio
+La Argentina	Huila	Municipio
+La Belleza	Santander	Municipio
+La Calera	Cundinamarca	Municipio
+La Capilla	Boyacá	Municipio
+La Ceja	Antioquia	Municipio
+La Celia	Risaralda	Municipio
+La Cruz	Nariño	Municipio
+La Cumbre	Valle del Cauca	Municipio
+La Dorada	Caldas	Municipio
+La Esperanza	Norte de Santander	Municipio
+La Estrella	Antioquia	Municipio
+La Florida	Nariño	Municipio
+La Gloria	Cesar	Municipio
+La Jagua de Ibirico	Cesar	Municipio
+La Jagua del Pilar	La Guajira	Municipio
+La Llanada	Nariño	Municipio
+La Macarena	Meta	Municipio
+La Merced	Caldas	Municipio
+La Mesa	Cundinamarca	Municipio
+La Montañita	Caquetá	Municipio
+La Palma	Cundinamarca	Municipio
+La Paz	Cesar	Municipio
+La Paz	Santander	Municipio
+La Peña	Cundinamarca	Municipio
+La Pintada	Antioquia	Municipio
+La Plata	Huila	Municipio
+La Playa de Belén	Norte de Santander	Municipio
+La Primavera	Vichada	Municipio
+La Salina	Casanare	Municipio
+La Sierra	Cauca	Municipio
+La Tebaida	Quindío	Municipio
+La Tola	Nariño	Municipio
+La Uvita	Boyacá	Municipio
+La Unión	Antioquia	Municipio
+La Unión	Nariño	Municipio
+La Unión	Sucre	Municipio
+La Unión	Valle del Cauca	Municipio
+La Uribe	Meta	Municipio
+La Vega	Cauca	Municipio
+La Vega	Cundinamarca	Municipio
+La Victoria	Boyacá	Municipio
+La Victoria	Valle del Cauca	Municipio
+La Virginia	Risaralda	Municipio
+Labateca	Norte de Santander	Municipio
+Labranzagrande	Boyacá	Municipio
+Landázuri	Santander	Municipio
+Lebrija	Santander	Municipio
+Leiva	Nariño	Municipio
+Lejanías	Meta	Municipio
+Lenguazaque	Cundinamarca	Municipio
+Lérida	Tolima	Municipio
+Leticia	Amazonas	Municipio
+Líbano	Tolima	Municipio
+Liborina	Antioquia	Municipio
+Linares	Nariño	Municipio
+Litoral de San Juan	Chocó	Municipio
+Lloró	Chocó	Municipio
+López de Micay	Cauca	Municipio
+Lorica	Córdoba	Municipio
+Los Andes	Nariño	Municipio
+Los Córdobas	Córdoba	Municipio
+Los Palmitos	Sucre	Municipio
+Los Patios	Norte de Santander	Municipio
+Los Santos	Santander	Municipio
+Lourdes	Norte de Santander	Municipio
+Luruaco	Atlántico	Municipio
+Macanal	Boyacá	Municipio
+Macaravita	Santander	Municipio
+Maceo	Antioquia	Municipio
+Machetá	Cundinamarca	Municipio
+Madrid	Cundinamarca	Municipio
+Magangué	Bolívar	Municipio
+Magüí Payán	Nariño	Municipio
+Mahates	Bolívar	Municipio
+Maicao	La Guajira	Municipio
+Majagual	Sucre	Municipio
+Málaga	Santander	Municipio
+Malambo	Atlántico	Municipio
+Mallama	Nariño	Municipio
+Manatí	Atlántico	Municipio
+Manaure Balcón del Cesar	Cesar	Municipio
+Manaure	La Guajira	Municipio
+Maní	Casanare	Municipio
+Manizales	Caldas	Municipio
+Manta	Cundinamarca	Municipio
+Manzanares	Caldas	Municipio
+Mapiripán	Meta	Municipio
+Margarita	Bolívar	Municipio
+María la Baja	Bolívar	Municipio
+Marinilla	Antioquia	Municipio
+Maripí	Boyacá	Municipio
+Mariquita	Tolima	Municipio
+Marmato	Caldas	Municipio
+Marquetalia	Caldas	Municipio
+Marsella	Risaralda	Municipio
+Marulanda	Caldas	Municipio
+Matanza	Santander	Municipio
+Medellín	Antioquia	Municipio
+Medio Atrato	Chocó	Municipio
+Medio Baudó	Chocó	Municipio
+Medio San Juan	Chocó	Municipio
+Medina	Cundinamarca	Municipio
+Melgar	Tolima	Municipio
+Mercaderes	Cauca	Municipio
+Mesetas	Meta	Municipio
+Miraflores	Boyacá	Municipio
+Miraflores	Guaviare	Municipio
+Miranda	Cauca	Municipio
+Mistrató	Risaralda	Municipio
+Mitú	Vaupés	Municipio
+Mocoa	Putumayo	Municipio
+Mogotes	Santander	Municipio
+Molagavita	Santander	Municipio
+Momil	Córdoba	Municipio
+Mompós	Bolívar	Municipio
+Mongua	Boyacá	Municipio
+Monguí	Boyacá	Municipio
+Moniquirá	Boyacá	Municipio
+Montebello	Antioquia	Municipio
+Montecristo	Bolívar	Municipio
+Montelíbano	Córdoba	Municipio
+Montenegro	Quindío	Municipio
+Montería	Córdoba	Municipio
+Monterrey	Casanare	Municipio
+Moñitos	Córdoba	Municipio
+Morales	Bolívar	Municipio
+Morales	Cauca	Municipio
+Morelia	Caquetá	Municipio
+Morroa	Sucre	Municipio
+Mosquera	Cundinamarca	Municipio
+Mosquera	Nariño	Municipio
+Motavita	Boyacá	Municipio
+Murillo	Tolima	Municipio
+Murindó	Antioquia	Municipio
+Mutatá	Antioquia	Municipio
+Mutiscua	Norte de Santander	Municipio
+Muzo	Boyacá	Municipio
+Nariño	Antioquia	Municipio
+Nariño	Cundinamarca	Municipio
+Nariño	Nariño	Municipio
+Nátaga	Huila	Municipio
+Natagaima	Tolima	Municipio
+Nechí	Antioquia	Municipio
+Necoclí	Antioquia	Municipio
+Neira	Caldas	Municipio
+Neiva	Huila	Municipio
+Nemocón	Cundinamarca	Municipio
+Nilo	Cundinamarca	Municipio
+Nimaima	Cundinamarca	Municipio
+Nobsa	Boyacá	Municipio
+Nocaima	Cundinamarca	Municipio
+Norcasia	Caldas	Municipio
+Norosí	Bolívar	Municipio
+Nóvita	Chocó	Municipio
+Nueva Granada	Magdalena	Municipio
+Nuevo Colón	Boyacá	Municipio
+Nunchía	Casanare	Municipio
+Nuquí	Chocó	Municipio
+Obando	Valle del Cauca	Municipio
+Ocamonte	Santander	Municipio
+Ocaña	Norte de Santander	Municipio
+Oiba	Santander	Municipio
+Oicatá	Boyacá	Municipio
+Olaya	Antioquia	Municipio
+Olaya Herrera	Nariño	Municipio
+Onzaga	Santander	Municipio
+Oporapa	Huila	Municipio
+Orito	Putumayo	Municipio
+Orocué	Casanare	Municipio
+Ortega	Tolima	Municipio
+Ospina	Nariño	Municipio
+Otanche	Boyacá	Municipio
+Ovejas	Sucre	Municipio
+Pachavita	Boyacá	Municipio
+Pacho	Cundinamarca	Municipio
+Pácora	Caldas	Municipio
+Padilla	Cauca	Municipio
+Páez	Cauca	Municipio
+Páez	Boyacá	Municipio
+Paicol	Huila	Municipio
+Pailitas	Cesar	Municipio
+Paime	Cundinamarca	Municipio
+Paipa	Boyacá	Municipio
+Pajarito	Boyacá	Municipio
+Palermo	Huila	Municipio
+Palestina	Caldas	Municipio
+Palestina	Huila	Municipio
+Palmar de Varela	Atlántico	Municipio
+Palmar	Santander	Municipio
+Palmas del Socorro	Santander	Municipio
+Palmira	Valle del Cauca	Municipio
+Palocabildo	Tolima	Municipio
+Pamplona	Norte de Santander	Municipio
+Pamplonita	Norte de Santander	Municipio
+Pandi	Cundinamarca	Municipio
+Panqueba	Boyacá	Municipio
+Páramo	Santander	Municipio
+Paratebueno	Cundinamarca	Municipio
+Pasca	Cundinamarca	Municipio
+Pasto	Nariño	Municipio
+Patía	Cauca	Municipio
+Pauna	Boyacá	Municipio
+Paya	Boyacá	Municipio
+Paz de Ariporo	Casanare	Municipio
+Paz del Río	Boyacá	Municipio
+Pedraza	Magdalena	Municipio
+Pelaya	Cesar	Municipio
+Pensilvania	Caldas	Municipio
+Peque	Antioquia	Municipio
+Pereira	Risaralda	Municipio
+Pesca	Boyacá	Municipio
+Piamonte	Cauca	Municipio
+Piedecuesta	Santander	Municipio
+Piedras	Tolima	Municipio
+Piendamó	Cauca	Municipio
+Pijao	Quindío	Municipio
+Pijiño del Carmen	Magdalena	Municipio
+Pinchote	Santander	Municipio
+Pinillos	Bolívar	Municipio
+Piojó	Atlántico	Municipio
+Pisba	Boyacá	Municipio
+Pitalito	Huila	Municipio
+Pivijay	Magdalena	Municipio
+Planadas	Tolima	Municipio
+Planeta Rica	Córdoba	Municipio
+Plato	Magdalena	Municipio
+Policarpa	Nariño	Municipio
+Polonuevo	Atlántico	Municipio
+Ponedera	Atlántico	Municipio
+Popayán	Cauca	Municipio
+Pore	Casanare	Municipio
+Potosí	Nariño	Municipio
+Pradera	Valle del Cauca	Municipio
+Prado	Tolima	Municipio
+Providencia	Nariño	Municipio
+Providencia y Santa Catalina Islas	San Andrés y Providencia	Municipio
+Pueblo Viejo	Magdalena	Municipio
+Pueblo Bello	Cesar	Municipio
+Pueblo Nuevo	Córdoba	Municipio
+Pueblo Rico	Risaralda	Municipio
+Pueblorrico	Antioquia	Municipio
+Nacional	Santander	Municipio
+Puerres	Nariño	Municipio
+Puerto Asís	Putumayo	Municipio
+Puerto Berrío	Antioquia	Municipio
+Puerto Boyacá	Boyacá	Municipio
+Puerto Caicedo	Putumayo	Municipio
+Puerto Carreño	Vichada	Municipio
+Puerto Colombia	Atlántico	Municipio
+Puerto Concordia	Meta	Municipio
+Puerto Escondido	Córdoba	Municipio
+Puerto Gaitán	Meta	Municipio
+Puerto Guzmán	Putumayo	Municipio
+Puerto Leguízamo	Putumayo	Municipio
+Puerto Libertador	Córdoba	Municipio
+Puerto Lleras	Meta	Municipio
+Puerto López	Meta	Municipio
+Puerto Milán	Caquetá	Municipio
+Puerto Nare	Antioquia	Municipio
+Puerto Nariño	Amazonas	Municipio
+Puerto Parra	Santander	Municipio
+Puerto Rico	Caquetá	Municipio
+Puerto Rico	Meta	Municipio
+Puerto Rondón	Arauca	Municipio
+Puerto Salgar	Cundinamarca	Municipio
+Puerto Santander	Norte de Santander	Municipio
+Puerto Tejada	Cauca	Municipio
+Puerto Triunfo	Antioquia	Municipio
+Puerto Wilches	Santander	Municipio
+Pulí	Cundinamarca	Municipio
+Pupiales	Nariño	Municipio
+Puracé	Cauca	Municipio
+Purificación	Tolima	Municipio
+Purísima	Córdoba	Municipio
+Quebradanegra	Cundinamarca	Municipio
+Quetame	Cundinamarca	Municipio
+Quibdó	Chocó	Municipio
+Quimbaya	Quindío	Municipio
+Quinchía	Risaralda	Municipio
+Quípama	Boyacá	Municipio
+Quipile	Cundinamarca	Municipio
+Ragonvalia	Norte de Santander	Municipio
+Ramiriquí	Boyacá	Municipio
+Ráquira	Boyacá	Municipio
+Recetor	Casanare	Municipio
+Regidor	Bolívar	Municipio
+Remedios	Antioquia	Municipio
+Remolino	Magdalena	Municipio
+Repelón	Atlántico	Municipio
+Restrepo	Meta	Municipio
+Restrepo	Valle del Cauca	Municipio
+Ricaurte	Cundinamarca	Municipio
+Ricaurte	Nariño	Municipio
+Río de Oro	Chocó	Municipio
+Río Iró	Chocó	Municipio
+Río Quito	Chocó	Municipio
+Río Viejo	Bolívar	Municipio
+Rioblanco	Tolima	Municipio
+Riofrío	Valle del Cauca	Municipio
+Riohacha	La Guajira	Municipio
+Rionegro	Antioquia	Municipio
+Rionegro	Santander	Municipio
+Riosucio	Caldas	Municipio
+Riosucio	Chocó	Municipio
+Risaralda	Caldas	Municipio
+Rivera	Huila	Municipio
+Roberto Payán	Nariño	Municipio
+Roldanillo	Valle del Cauca	Municipio
+Roncesvalles	Tolima	Municipio
+Rondón	Boyacá	Municipio
+Rosas	Cauca	Municipio
+Rovira	Tolima	Municipio
+Sabana de Torres	Santander	Municipio
+Sabanas de San Ángel	Magdalena	Municipio
+Sabanagrande	Atlántico	Municipio
+Sabanalarga	Antioquia	Municipio
+Sabanalarga	Atlántico	Municipio
+Sabanalarga	Casanare	Municipio
+Sabaneta	Antioquia	Municipio
+Saboyá	Boyacá	Municipio
+Sácama	Casanare	Municipio
+Sáchica	Boyacá	Municipio
+Sahagún	Córdoba	Municipio
+Saladoblanco	Huila	Municipio
+Salamina	Caldas	Municipio
+Salamina	Magdalena	Municipio
+Salazar de las Palmas	Norte de Santander	Municipio
+Saldaña	Tolima	Municipio
+Salento	Quindío	Municipio
+Salgar	Antioquia	Municipio
+Samacá	Boyacá	Municipio
+Samaná	Caldas	Municipio
+Samaniego	Nariño	Municipio
+Sampués	Sucre	Municipio
+San Agustín	Huila	Municipio
+San Alberto	Cesar	Municipio
+San Andrés	San Andrés y Providencia	Municipio
+San Andrés	Santander	Municipio
+San Andrés de Cuerquia	Antioquia	Municipio
+San Andrés de Sotavento	Córdoba	Municipio
+San Antero	Córdoba	Municipio
+San Antonio	Tolima	Municipio
+San Antonio de Palmito	Sucre	Municipio
+San Antonio del Tequendama	Cundinamarca	Municipio
+San Benito	Santander	Municipio
+San Benito Abad	Sucre	Municipio
+San Bernardo	Cundinamarca	Municipio
+San Bernardo	Nariño	Municipio
+San Bernardo del Viento	Córdoba	Municipio
+San Calixto	Norte de Santander	Municipio
+San Carlos	Antioquia	Municipio
+San Carlos	Córdoba	Municipio
+San Carlos de Guaroa	Meta	Municipio
+San Cayetano	Cundinamarca	Municipio
+San Cayetano	Norte de Santander	Municipio
+San Cristóbal	Bolívar	Municipio
+San Diego	Cesar	Municipio
+San Eduardo	Boyacá	Municipio
+San Estanislao	Bolívar	Municipio
+San Fernando	Bolívar	Municipio
+San Francisco	Antioquia	Municipio
+San Francisco	Cundinamarca	Municipio
+San Francisco	Putumayo	Municipio
+San Gil	Santander	Municipio
+San Jacinto del Cauca	Bolívar	Municipio
+San Jacinto	Bolívar	Municipio
+San Jerónimo	Antioquia	Municipio
+San Joaquín	Santander	Municipio
+San José	Caldas	Municipio
+San José de Albán	Nariño	Municipio
+San José de Miranda	Santander	Municipio
+San José de Pare	Boyacá	Municipio
+San José de Uré	Córdoba	Municipio
+San José de la	Antioquia	Municipio
+San José del Fragua	Caquetá	Municipio
+San José del Guaviare	Guaviare	Municipio
+San José del Palmar	Chocó	Municipio
+San Juan de Arama	Meta	Municipio
+San Juan de Betulia	Sucre	Municipio
+San Juan de Rioseco	Cundinamarca	Municipio
+San Juan de Urabá	Antioquia	Municipio
+San Juan del Cesar	La Guajira	Municipio
+San Juan Nepomuceno	Bolívar	Municipio
+San Juanito	Meta	Municipio
+San Lorenzo	Nariño	Municipio
+San Luis	Antioquia	Municipio
+San Luis	Tolima	Municipio
+San Luis de Gaceno	Boyacá	Municipio
+San Luis de Palenque	Casanare	Municipio
+San Marcos	Sucre	Municipio
+San Martín	Cesar	Municipio
+San Martín	Meta	Municipio
+San Martín de Loba	Bolívar	Municipio
+San Mateo	Boyacá	Municipio
+San Miguel	Putumayo	Municipio
+San Miguel	Santander	Municipio
+San Miguel de Sema	Boyacá	Municipio
+San Onofre	Sucre	Municipio
+San Pablo	Bolívar	Municipio
+San Pablo	Nariño	Municipio
+San Pablo de Borbur	Boyacá	Municipio
+San Pedro	Sucre	Municipio
+San Pedro	Valle del Cauca	Municipio
+San Pedro de Cartago	Nariño	Municipio
+San Pedro de Urabá	Antioquia	Municipio
+San Pedro de los Milagros	Antioquia	Municipio
+San Pelayo	Córdoba	Municipio
+San Rafael	Antioquia	Municipio
+San Roque	Antioquia	Municipio
+San Sebastián	Cauca	Municipio
+San Sebastián de Buenavista	Magdalena	Municipio
+San Vicente	Antioquia	Municipio
+San Vicente de Chucurí	Santander	Municipio
+San Vicente del Caguán	Caquetá	Municipio
+San Zenón	Magdalena	Municipio
+Sandoná	Nariño	Municipio
+Santa Ana	Magdalena	Municipio
+Santa Bárbara	Antioquia	Municipio
+Santa Bárbara	Nariño	Municipio
+Santa Bárbara	Santander	Municipio
+Santa Bárbara de Pinto	Magdalena	Municipio
+Santa Catalina	Bolívar	Municipio
+Santa Fe de Antioquia	Antioquia	Municipio
+Santa Helena del Opón	Santander	Municipio
+Santa Isabel	Tolima	Municipio
+Santa Lucía	Atlántico	Municipio
+Santa María	Boyacá	Municipio
+Santa María	Huila	Municipio
+Santa Marta	Magdalena	Municipio
+Santa Rosa	Bolívar	Municipio
+Santa Rosa	Cauca	Municipio
+Santa Rosa de Cabal	Risaralda	Municipio
+Santa Rosa de Osos	Antioquia	Municipio
+Santa Rosa de Viterbo	Boyacá	Municipio
+Santa Rosa del Sur	Bolívar	Municipio
+Santa Rosalía	Vichada	Municipio
+Santa Sofía	Boyacá	Municipio
+Santacruz	Nariño	Municipio
+Santana	Boyacá	Municipio
+Santander de Quilichao	Cauca	Municipio
+Santiago	Norte de Santander	Municipio
+Santiago	Putumayo	Municipio
+Santo Domingo	Antioquia	Municipio
+Santo Domingo de Silos	Norte de Santander	Municipio
+Santo Tomás	Atlántico	Municipio
+Santuario	Risaralda	Municipio
+Sapuyes	Nariño	Municipio
+Saravena	Arauca	Municipio
+Sardinata	Norte de Santander	Municipio
+Sasaima	Cundinamarca	Municipio
+Sativanorte	Boyacá	Municipio
+Sativasur	Boyacá	Municipio
+Segovia	Antioquia	Municipio
+Sesquilé	Cundinamarca	Municipio
+Sevilla	Valle del Cauca	Municipio
+Siachoque	Boyacá	Municipio
+Sibaté	Cundinamarca	Municipio
+Sibundoy	Putumayo	Municipio
+Silvania	Cundinamarca	Municipio
+Silvia	Cauca	Municipio
+Simacota	Santander	Municipio
+Simijaca	Cundinamarca	Municipio
+Simití	Bolívar	Municipio
+Sincé	Sucre	Municipio
+Sincelejo	Sucre	Municipio
+Sipí	Chocó	Municipio
+Sitionuevo	Magdalena	Municipio
+Soacha	Cundinamarca	Municipio
+Soatá	Boyacá	Municipio
+Socha	Boyacá	Municipio
+Socotá	Boyacá	Municipio
+Sogamoso	Boyacá	Municipio
+Solano	Caquetá	Municipio
+Soledad	Atlántico	Municipio
+Solita	Caquetá	Municipio
+Somondoco	Boyacá	Municipio
+Sonsón	Antioquia	Municipio
+Sopetrán	Antioquia	Municipio
+Soplaviento	Bolívar	Municipio
+Sopó	Cundinamarca	Municipio
+Sora	Boyacá	Municipio
+Soracá	Boyacá	Municipio
+Sotaquirá	Boyacá	Municipio
+Sotará	Cauca	Municipio
+Suaita	Santander	Municipio
+Suán	Atlántico	Municipio
+Suárez	Cauca	Municipio
+Suárez	Tolima	Municipio
+Suaza	Huila	Municipio
+Subachoque	Cundinamarca	Municipio
+Sucre	Cauca	Municipio
+Sucre	Santander	Municipio
+Sucre	Sucre	Municipio
+Suesca	Cundinamarca	Municipio
+Supatá	Cundinamarca	Municipio
+Supía	Caldas	Municipio
+Suratá	Santander	Municipio
+Susa	Cundinamarca	Municipio
+Susacón	Boyacá	Municipio
+Sutamarchán	Boyacá	Municipio
+Sutatausa	Cundinamarca	Municipio
+Sutatenza	Boyacá	Municipio
+Tabio	Cundinamarca	Municipio
+Tadó	Chocó	Municipio
+Talaigua Nuevo	Bolívar	Municipio
+Tamalameque	Cesar	Municipio
+Támara	Casanare	Municipio
+Tame	Arauca	Municipio
+Támesis	Antioquia	Municipio
+Taminango	Nariño	Municipio
+Tangua	Nariño	Municipio
+Tarazá	Antioquia	Municipio
+Tarquí	Huila	Municipio
+Tarso	Antioquia	Municipio
+Tasco	Boyacá	Municipio
+Taraira	Vaupés	Municipio
+Tauramena	Casanare	Municipio
+Tausa	Cundinamarca	Municipio
+Tello	Huila	Municipio
+Tena	Cundinamarca	Municipio
+Tenerife	Magdalena	Municipio
+Tenjo	Cundinamarca	Municipio
+Tenza	Boyacá	Municipio
+Teorama	Norte de Santander	Municipio
+Teruel	Huila	Municipio
+Tesalia	Huila	Municipio
+Tibacuy	Cundinamarca	Municipio
+Tibaná	Boyacá	Municipio
+Tibasosa	Boyacá	Municipio
+Tibirita	Cundinamarca	Municipio
+Tibú	Norte de Santander	Municipio
+Tierralta	Córdoba	Municipio
+Timaná	Huila	Municipio
+Timbío	Cauca	Municipio
+Timbiquí	Cauca	Municipio
+Tinjacá	Boyacá	Municipio
+Tipacoque	Boyacá	Municipio
+Tiquisio	Bolívar	Municipio
+Titiribí	Antioquia	Municipio
+Toca	Boyacá	Municipio
+Tocaima	Cundinamarca	Municipio
+Tocancipá	Cundinamarca	Municipio
+Togüí	Boyacá	Municipio
+Toledo	Antioquia	Municipio
+Toledo	Norte de Santander	Municipio
+Tolú	Sucre	Municipio
+Tolú Viejo	Sucre	Municipio
+Tona	Santander	Municipio
+Tópaga	Boyacá	Municipio
+Topaipí	Cundinamarca	Municipio
+Toribío	Cauca	Municipio
+Toro	Valle del Cauca	Municipio
+Tota	Boyacá	Municipio
+Totoró	Cauca	Municipio
+Trinidad	Casanare	Municipio
+Trujillo	Valle del Cauca	Municipio
+Tubará	Atlántico	Municipio
+Tuchín	Córdoba	Municipio
+Tuluá	Valle del Cauca	Municipio
+Tumaco	Nariño	Municipio
+Tunja	Boyacá	Municipio
+Tununguá	Boyacá	Municipio
+Túquerres	Nariño	Municipio
+Turbaco	Bolívar	Municipio
+Turbaná	Bolívar	Municipio
+Turbo	Antioquia	Municipio
+Turmequé	Boyacá	Municipio
+Tuta	Boyacá	Municipio
+Tutazá	Boyacá	Municipio
+Ubalá	Cundinamarca	Municipio
+Ubaque	Cundinamarca	Municipio
+Ubaté	Cundinamarca	Municipio
+Ulloa	Valle del Cauca	Municipio
+Úmbita	Boyacá	Municipio
+Une	Cundinamarca	Municipio
+Unión Panamericana	Chocó	Municipio
+Unguía	Chocó	Municipio
+Uramita	Antioquia	Municipio
+Uribia	La Guajira	Municipio
+Urrao	Antioquia	Municipio
+Urumita	La Guajira	Municipio
+Usiacurí	Atlántico	Municipio
+Útica	Cundinamarca	Municipio
+Valdivia	Antioquia	Municipio
+Valencia	Córdoba	Municipio
+Valle de San José	Santander	Municipio
+Valle de San Juan	Tolima	Municipio
+Valle del Guamuez	Putumayo	Municipio
+Valledupar	Cesar	Municipio
+Valparaíso	Antioquia	Municipio
+Valparaíso	Caquetá	Municipio
+Vegachí	Antioquia	Municipio
+Vélez	Santander	Municipio
+Venadillo	Tolima	Municipio
+Venecia	Antioquia	Municipio
+Venecia	Cundinamarca	Municipio
+Ventaquemada	Boyacá	Municipio
+Vergara	Cundinamarca	Municipio
+Versalles	Valle del Cauca	Municipio
+Vetas	Santander	Municipio
+Vianí	Cundinamarca	Municipio
+Victoria	Caldas	Municipio
+Vigía del Fuerte	Antioquia	Municipio
+Vijes	Valle del Cauca	Municipio
+Villa Caro	Norte de Santander	Municipio
+Villa de Leyva	Boyacá	Municipio
+Villa del Rosario	Norte de Santander	Municipio
+Villa Rica	Cauca	Municipio
+Villagarzón	Putumayo	Municipio
+Villagómez	Cundinamarca	Municipio
+Villahermosa	Tolima	Municipio
+Villamaría	Caldas	Municipio
+Villanueva	Bolívar	Municipio
+Villanueva	Casanare	Municipio
+Villanueva	La Guajira	Municipio
+Villanueva	Santander	Municipio
+Villapinzón	Cundinamarca	Municipio
+Villarrica	Tolima	Municipio
+Villavicencio	Meta	Municipio
+Villavieja	Huila	Municipio
+Villeta	Cundinamarca	Municipio
+Viotá	Cundinamarca	Municipio
+Viracachá	Boyacá	Municipio
+Vista Hermosa	Meta	Municipio
+Viterbo	Caldas	Municipio
+Yacopí	Cundinamarca	Municipio
+Yacuanquer	Nariño	Municipio
+Yaguará	Huila	Municipio
+Yalí	Antioquia	Municipio
+Yarumal	Antioquia	Municipio
+Yolombó	Antioquia	Municipio
+Yondó	Antioquia	Municipio
+Yopal	Casanare	Municipio
+Yotoco	Valle del Cauca	Municipio
+Yumbo	Valle del Cauca	Municipio
+Zambrano	Bolívar	Municipio
+Zapatoca	Santander	Municipio
+Zapayán	Magdalena	Municipio
+Zaragoza	Antioquia	Municipio
+Zarzal	Valle del Cauca	Municipio
+Zetaquirá	Boyacá	Municipio
+Zipacón	Cundinamarca	Municipio
+Zipaquirá	Cundinamarca	Municipio
+Zona Bananera	Magdalena	Municipio
+Barranco Minas	Guainía	Corregimiento
+Cacahual	Guainía	Corregimiento
+El Encanto	Amazonas	Corregimiento
+La Chorrera	Amazonas	Corregimiento
+La Guadalupe	Guainía	Corregimiento
+La Pedrera	Amazonas	Corregimiento
+La Victoria	Amazonas	Corregimiento
+Mapiripana	Guainía	Corregimiento
+Mirití-Paraná	Amazonas	Corregimiento
+Morichal Nuevo	Guainía	Corregimiento
+Pacoa	Vaupés	Corregimiento
+Pana Pana	Guainía	Corregimiento
+Papunaua	Vaupés	Corregimiento
+Puerto Alegría	Amazonas	Corregimiento
+Puerto Arica	Amazonas	Corregimiento
+Puerto Colombia	Guainía	Corregimiento
+Puerto Santander	Amazonas	Corregimiento
+San Felipe	Guainía	Corregimiento
+Tarapacá	Amazonas	Corregimiento
+Yavaraté	Vaupés	Corregimiento
+Amazonia	ND	Región
+Andina	ND	Región
+Caribe	ND	Región
+Insular	ND	Región
+Orinoquía	ND	Región
+Pacífico	ND	Región
+Amazonas	Leticia	Departamento
+Antioquia	Medellín	Departamento
+Arauca	Arauca	Departamento
+Atlántico	Barranquilla	Departamento
+Bogotá	Bogotá	Departamento
+Bolívar	Cartagena de Indias	Departamento
+Boyacá	Tunja	Departamento
+Caldas	Manizales	Departamento
+Caquetá	Florencia	Departamento
+Casanare	Yopal	Departamento
+Cauca	Popayán	Departamento
+Cesar	Valledupar	Departamento
+Chocó	Quibdó	Departamento
+Córdoba	Montería	Departamento
+Cundinamarca	Bogotá	Departamento
+Guainía	Inírida	Departamento
+Guaviare	San José del Guaviare	Departamento
+Huila	Neiva	Departamento
+La Guajira	Riohacha	Departamento
+Magdalena	Santa Marta	Departamento
+Meta	Villavicencio	Departamento
+Nariño	Pasto	Departamento
+Norte de Santander	San José de Cúcuta	Departamento
+Putumayo	Mocoa	Departamento
+Quindío	Armenia	Departamento
+Risaralda	Pereira	Departamento
+San Andrés y Providencia	San Andrés	Departamento
+Santander	Bucaramanga	Departamento
+Sucre	Sincelejo	Departamento
+Tolima	Ibagué	Departamento
+Valle del Cauca	Cali	Departamento
+Vaupés	Mitú	Departamento
+Vichada	Puerto Carreño	Departamento
+Municipio	Municipio	Municipio
+Municipios	Municipios	Municipios
+Departamento	Departamento	Departamento
+Departamentos	Departamentos	Departamentos
