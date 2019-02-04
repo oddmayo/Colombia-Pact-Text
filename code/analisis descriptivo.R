@@ -91,46 +91,45 @@ wordcloud(words = test$lista_palabras, freq = test$Freq, min.freq = 1,
 # Circular packing #
 ####################
 
-# ----- This section prepare a dataframe for labels ---- #
-# Get the name and the y position of each label
-label_data=test2
+# libraries
+library(packcircles)
+library(ggplot2)
+library(viridis)
+# Create data
 
-# calculate the ANGLE of the labels
-number_of_bar=nrow(label_data)
-angle= 90 - 360 * (label_data$lista_palabras-0.5) /number_of_bar     # I substract 0.5 because the letter must have the angle of the center of the bars. Not extreme right(1) or extreme left (0)
+data=test2
 
-# calculate the alignment of labels: right or left
-# If I am on the left part of the plot, my labels have currently an angle < -90
-label_data$hjust<-ifelse( angle < -90, 1, 0)
+# Generate the layout. This function return a dataframe with one line per bubble. 
+# It gives its center (x and y) and its radius, proportional of the value
+packing <- circleProgressiveLayout(data$Freq, sizetype='area')
 
-# flip angle BY to make them readable
-label_data$angle<-ifelse(angle < -90, angle+180, angle)
-# ----- ------------------------------------------- ---- #
+# We can add these packing information to the initial data frame
+data = cbind(data, packing)
 
+# Check that radius is proportional to value. We don't want a linear relationship, since it is the AREA that must be proportionnal to the value
+plot(data$radius, data$Freq)
+
+# The next step is to go from one center + a radius to the coordinates of a circle that
+# is drawn by a multitude of straight lines.
+dat.gg <- circleLayoutVertices(packing, npoints=20)
 
 # Make the plot
-p = ggplot(test2, aes(x=as.factor(test2$lista_palabras), y=test2$Freq)) +       # Note that id is a factor. If x is numeric, there is some space between the first bar
+x11()
+ggplot() + 
   
-  # This add the bars with a blue color
-  geom_bar(stat="identity", fill=alpha("blue", 0.3)) +
+  # Make the bubbles
+  geom_polygon(data = dat.gg, aes(x, y, group = id, fill=as.factor(id)), colour = "black", alpha = 0.6) +
   
-  # Limits of the plot = very important. The negative value controls the size of the inner circle, the positive one is useful to add size over each bar
-  ylim(-100,120) +
+  # Add text in the center of each bubble + control its size
+  scale_fill_manual(values = viridis(nrow(data))) + 
+  geom_text(data = data, aes(x, y, size=5, label = lista_palabras)) +
+  #scale_color_gradient(colours=rainbow(4))+
+  scale_size_continuous(range = c(1,4)) +
   
-  # Custom the theme: no axis title and no cartesian grid
-  theme_minimal() +
-  theme(
-    axis.text = element_blank(),
-    axis.title = element_blank(),
-    panel.grid = element_blank(),
-    plot.margin = unit(rep(-2,4), "cm")     # This remove unnecessary margin around plot
-  ) +
-  
-  # This makes the coordinate polar instead of cartesian.
-  coord_polar(start = 0)+
-  # Add the labels, using the label_data dataframe that we have created before
-  geom_text(data=label_data, aes(x=id, y=test2$Freq+10, label=lista_palabras, hjust=hjust), color="black", fontface="bold",alpha=0.6, size=2.5, angle= label_data$angle, inherit.aes = FALSE )
-p
+  # General theme:
+  theme_void() + 
+  theme(legend.position="none") +
+  coord_equal()
 
 
 #########################
@@ -145,11 +144,19 @@ bigramas <- topfeatures(myDfm,n = 30)
 
 
 
-
-
-
 #######################################
 # Respuestas que contienen solo salud #
 #######################################
 
 salud <- base_clean[grepl("salud", base$Descripción),]
+
+myDfm <- tokens(descripcion) %>%
+  tokens_ngrams(n = 4) %>%
+  dfm()
+
+bigramas <- topfeatures(myDfm,n = 30)
+bigramas <- as.data.frame(bigramas)
+nombres_row <- rownames(bigramas)
+rownames(bigramas) <- NULL
+bigramas <- data.frame(bigrama=nombres_row,freq=bigramas$bigramas)
+bigramas$bigrama <- gsub("_"," ",bigramas$bigrama)
