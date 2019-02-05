@@ -47,29 +47,27 @@ for (i in base_clean) {
 
 #base_clean %<>% mutate_if(is.factor,as.character)
 
-
-# Dejar palabras únicas por cada lista
-unos <- "hola como estas"
-uno <- sin_sw[1]
-dos
-tres
-cuatro
-cinco
-
-
 rem_dup.one <- function(x){
   paste(unique(tolower(trimws(unlist(strsplit(x,split="(?!')[ [:punct:]]",fixed=F,perl=T))))),collapse = " ")
 }
 rem_dup.vector <- Vectorize(rem_dup.one,USE.NAMES = F)
 rem_dup.vector(sin_sw[1])
 
+# Dejar palabras únicas para cada lineamiento
+for (i in sin_sw) {
+  best <- rem_dup.vector(sin_sw)  
+}
 
-best <- sapply(sin_sw,function(x) rem_dup.vector(x))
+# Dejar palabras únicas para cada respuestas
+for (i in descripcion) {
+  best2 <- rem_dup.vector(descripcion)  
+}
+
 
 
 
 ######### Otro intento
-nuevo_dataset <- data.frame(text=sin_sw,class=1:5)
+nuevo_dataset <- data.frame(text=best,class=1:5)
 
 # Create the document term matrix
 dtMatrix <- create_matrix(nuevo_dataset["text"])
@@ -78,10 +76,10 @@ dtMatrix <- create_matrix(nuevo_dataset["text"])
 container <- create_container(dtMatrix, nuevo_dataset$class, trainSize=1:5, virgin=FALSE)
 
 # train a SVM Model
-model <- train_model(container, "SVM", kernel = "linear", cost=1000000)
+model <- train_model(container, "SVM", kernel = "linear", cost=10)
 
 # new data
-predictionData <- list("sunny sunny sunny rainy rainy", "rainy sunny rainy rainy", "hello", "", "this is another rainy world")
+#predictionData <- list("sunny sunny sunny rainy rainy", "rainy sunny rainy rainy", "hello", "", "this is another rainy world")
 predictionData <- descripcion
 trace("create_matrix", edit=T)
 # create a prediction document term matrix
@@ -94,3 +92,10 @@ predictionContainer <- create_container(predMatrix, labels=rep(0,predSize), test
 # predict
 results <- classify_model(predictionContainer, model)
 results
+
+
+
+
+
+
+#Similitud 
