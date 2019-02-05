@@ -30,41 +30,67 @@ sw <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_spanish.txt"),war
 all_stopwords <- unique(c(sw))
 
 # Preprocesar texto antes de stopwords
-base_clean <- sapply(texto_PND, function(x) preproctext(x))
+for (i in texto_PND) {
+  base_clean <- NULL
+  base_clean <- preproctext(texto_PND)
+}
+#base_clean <- sapply(texto_PND, function(x) preproctext(x))
 #base_clean %<>% mutate_if(is.factor,as.character)
 
 # Remover todas las stopwords
-base_clean <- sapply(base_clean, function(x) RemoveStopwordsFromText(x,all_stopwords))
+#base_clean <- sapply(base_clean, function(x) RemoveStopwordsFromText(x,all_stopwords))
+
+for (i in base_clean) {
+  sin_sw <- NULL
+  sin_sw <- RemoveStopwordsFromText(base_clean,all_stopwords)
+}
+
 #base_clean %<>% mutate_if(is.factor,as.character)
 
 
-data <- c('Cats like to chase mice.', 'Dogs like to eat big bones.')
-corpus <- VCorpus(VectorSource(data))
-corpus <- VCorpus(VectorSource(base_clean))
+# Dejar palabras únicas por cada lista
+unos <- "hola como estas"
+uno <- sin_sw[1]
+dos
+tres
+cuatro
+cinco
 
-# Create a document term matrix.
-tdm <- DocumentTermMatrix(corpus)
 
-# Convert to a data.frame for training and assign a classification (factor) to each document.
-train <- as.matrix(tdm)
-train <- cbind(train, 1:5)
-colnames(train)[ncol(train)] <- 'y'
-train <- as.data.frame(train)
-train$y <- as.factor(train$y)
+rem_dup.one <- function(x){
+  paste(unique(tolower(trimws(unlist(strsplit(x,split="(?!')[ [:punct:]]",fixed=F,perl=T))))),collapse = " ")
+}
+rem_dup.vector <- Vectorize(rem_dup.one,USE.NAMES = F)
+rem_dup.vector(sin_sw[1])
 
-# Train.
-library(caret)
-tic()
-fit <- train(y ~ ., data = train, method = 'bayesglm')
-toc()
-# Check accuracy on training.
-predict(fit, newdata = train)
 
-# Test data.
-data2 <- c('Bats eat bugs.')
-corpus <- VCorpus(VectorSource(data2))
-tdm <- DocumentTermMatrix(corpus, control = list(dictionary = Terms(tdm), removePunctuation = TRUE, stopwords = TRUE, stemming = TRUE, removeNumbers = TRUE))
-test <- as.matrix(tdm)
+best <- sapply(sin_sw,function(x) rem_dup.vector(x))
 
-# Check accuracy on test.
-predict(fit, newdata = test)
+
+
+######### Otro intento
+nuevo_dataset <- data.frame(text=sin_sw,class=1:5)
+
+# Create the document term matrix
+dtMatrix <- create_matrix(nuevo_dataset["text"])
+
+# Configure the training data
+container <- create_container(dtMatrix, nuevo_dataset$class, trainSize=1:5, virgin=FALSE)
+
+# train a SVM Model
+model <- train_model(container, "SVM", kernel = "linear", cost=1000000)
+
+# new data
+predictionData <- list("sunny sunny sunny rainy rainy", "rainy sunny rainy rainy", "hello", "", "this is another rainy world")
+predictionData <- descripcion
+trace("create_matrix", edit=T)
+# create a prediction document term matrix
+predMatrix <- create_matrix(predictionData, originalMatrix=dtMatrix)
+
+# create the corresponding container
+predSize = length(predictionData)
+predictionContainer <- create_container(predMatrix, labels=rep(0,predSize), testSize=1:predSize, virgin=FALSE)
+
+# predict
+results <- classify_model(predictionContainer, model)
+results
