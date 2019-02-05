@@ -8,7 +8,8 @@ source(paste0(directorio,'/code/funciones.R'))
 # Cargar paquetes
 paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
-              'rgeos','reshape','tidyr','tidytext','stringr','wordcloud','tidyverse','readtext'
+              'rgeos','reshape','tidyr','tidytext','stringr','wordcloud','tidyverse','readtext',
+              'slam'
 )
 lapply(paquetes, require, character.only = TRUE)
 
@@ -99,3 +100,31 @@ results
 
 
 #Similitud 
+
+
+
+library(slam)
+library(tm)
+data("acq")
+data("crude")
+
+dtm <- DocumentTermMatrix(c(acq, crude))
+
+index <- sample(1:70, size = 10)
+
+dtm1 <- dtm[index, ]
+dtm2 <- dtm[-index, ]
+
+cosine_sim <- tcrossprod_simple_triplet_matrix(dtm1, dtm2)/sqrt(row_sums(dtm1^2) %*% t(row_sums(dtm2^2)))
+
+
+
+dtm_nueva <- create_matrix(c(best,best2))
+dtm1 <- dtm_nueva[1:5,]
+dtm2 <- dtm_nueva[6:111,]
+
+cosine_sim <- tcrossprod_simple_triplet_matrix(dtm1, dtm2)/sqrt(row_sums(dtm1^2) %*% t(row_sums(dtm2^2)))
+
+veamos <- t(cosine_sim)
+colnames(veamos) <- c('uno','dos','tres','cuatro','cinco')
+prueba <- veamos[1:106,1:5]
