@@ -98,33 +98,20 @@ results
 
 
 
-
-#Similitud 
-
-
-
-library(slam)
-library(tm)
-data("acq")
-data("crude")
-
-dtm <- DocumentTermMatrix(c(acq, crude))
-
-index <- sample(1:70, size = 10)
-
-dtm1 <- dtm[index, ]
-dtm2 <- dtm[-index, ]
-
-cosine_sim <- tcrossprod_simple_triplet_matrix(dtm1, dtm2)/sqrt(row_sums(dtm1^2) %*% t(row_sums(dtm2^2)))
-
-
+#############
+# Similitud #
+#############
 
 dtm_nueva <- create_matrix(c(best,best2))
+# Número de líneas
 dtm1 <- dtm_nueva[1:5,]
+# Número de respuestas
 dtm2 <- dtm_nueva[6:111,]
-
+# Matriz cruzada similitud coseno
 cosine_sim <- tcrossprod_simple_triplet_matrix(dtm1, dtm2)/sqrt(row_sums(dtm1^2) %*% t(row_sums(dtm2^2)))
-
+# Invertir matriz para visibilidad
 veamos <- t(cosine_sim)
+# Nombres más cortos para las líneas
 colnames(veamos) <- c('uno','dos','tres','cuatro','cinco')
+# Matriz final
 prueba <- veamos[1:106,1:5]
