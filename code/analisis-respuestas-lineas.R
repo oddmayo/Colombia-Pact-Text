@@ -66,8 +66,9 @@ for (i in descripcion) {
 
 
 
-
-######### Otro intento
+#############
+# SVM Model #
+#############
 nuevo_dataset <- data.frame(text=best,class=1:5)
 
 # Create the document term matrix
