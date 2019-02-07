@@ -1,3 +1,6 @@
+# para instalar paquetes modificar linea 142 sys.sleep(5.0)
+trace(utils:::unpackPkgZip, edit=TRUE)
+
 # Directorio DNP
 directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
 
