@@ -122,3 +122,4 @@ veamos <- t(cosine_sim)
 colnames(veamos) <- c('uno','dos','tres','cuatro','cinco')
 # Matriz final
 prueba <- veamos[1:106,1:5]
+
