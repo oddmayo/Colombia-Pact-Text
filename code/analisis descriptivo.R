@@ -12,7 +12,7 @@ source(paste0(directorio,'/code/funciones.R'))
 paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
               'rgeos','reshape','tidyr','tidytext','stringr','wordcloud','tidyverse','packcircles',
-              'viridis'
+              'viridis','igraph','ggraph'
 )
 lapply(paquetes, require, character.only = TRUE)
 
@@ -114,7 +114,7 @@ data = cbind(data, packing)
 plot(data$radius, data$Freq)
 
 # Ir de un centro + un radio a las coordenadas de la burbuja que es dibujado por un montón de líneas rectas
-dat.gg <- circleLayoutVertices(packing, npoints=20) # Creo que entre más npoints más resolución tiene la burbuja
+dat.gg <- circleLayoutVertices(packing, npoints=10000) # Creo que entre más npoints más resolución tiene la burbuja
 
 # Dibujar con ggplot
 x11()
@@ -153,13 +153,16 @@ bigramas <- topfeatures(myDfm,n = 30)
 
 salud <- base_clean[grepl("salud", base$Descripción),]
 
-myDfm <- tokens(descripcion) %>%
-  tokens_ngrams(n = 4) %>%
+
+myDfm <- tokens(salud$Descripción) %>%
+  tokens_ngrams(n = 2) %>%
   dfm()
 
-bigramas <- topfeatures(myDfm,n = 30)
+bigramas <- topfeatures(myDfm,n = 60)
 bigramas <- as.data.frame(bigramas)
 nombres_row <- rownames(bigramas)
 rownames(bigramas) <- NULL
 bigramas <- data.frame(bigrama=nombres_row,freq=bigramas$bigramas)
 bigramas$bigrama <- gsub("_"," ",bigramas$bigrama)
+
+
