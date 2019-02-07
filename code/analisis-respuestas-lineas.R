@@ -1,9 +1,11 @@
-directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
+# Para instalar paquetes modificar linea 142 sys.sleep(5.0)
+trace(utils:::unpackPkgZip, edit=TRUE)
 
+# Directorio DNP
+directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
 
 # Funciones preprocesamiento y t-sne
 source(paste0(directorio,'/code/funciones.R'))
-
 
 # Cargar paquetes
 paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
@@ -14,67 +16,64 @@ paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','gg
 lapply(paquetes, require, character.only = TRUE)
 
 
-#prueba <- readtext("C:\\Users\\ScmayorquinS\\Downloads\\05. PND CTI_13 enero 2019.docx")
+# Texto con objetivos del PND sección de innovación
+texto_PND <- read_file(paste0(directorio,"\\data\\PND.txt"))
 
-texto_PND <- read_file("C:\\Users\\ScmayorquinS\\Desktop\\PND.txt")
-
-# Separe cada texto después de un "*."
-# EXCELENTE
+# Separe cada objetivo cuando encuentre un "*."
 texto_PND <- unlist(strsplit(texto_PND, "(?<=\\*.)\\s(?=[A-Z])", perl = T))
 texto_PND <- texto_PND[2:6]
 
-# Limpieza
-# Stop words
+#----------------------------------------------------------------------------------------------------------------------
+# Preprocesamiento
+#----------------------------------------------------------------------------------------------------------------------
+
+# Cargar stopwords
 sw <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_spanish.txt"),warn = F)
 
-# todas las stop words
+# Todas las stop words - No hay necesidad de adicionales
 all_stopwords <- unique(c(sw))
 
-# Preprocesar texto antes de stopwords
+# A continuación se usa una serie de "fors" puesto que los "sapply" duplican por algún motivo la información
+
+# Preprocesamiento del texto
 for (i in texto_PND) {
   base_clean <- NULL
   base_clean <- preproctext(texto_PND)
 }
-#base_clean <- sapply(texto_PND, function(x) preproctext(x))
-#base_clean %<>% mutate_if(is.factor,as.character)
 
-# Remover todas las stopwords
-#base_clean <- sapply(base_clean, function(x) RemoveStopwordsFromText(x,all_stopwords))
-
+# Remover stopwords
 for (i in base_clean) {
   sin_sw <- NULL
   sin_sw <- RemoveStopwordsFromText(base_clean,all_stopwords)
 }
 
-#base_clean %<>% mutate_if(is.factor,as.character)
-
+# Fucnión para dejar solo la palabras únicas de cada objetivo
 rem_dup.one <- function(x){
   paste(unique(tolower(trimws(unlist(strsplit(x,split="(?!')[ [:punct:]]",fixed=F,perl=T))))),collapse = " ")
 }
 rem_dup.vector <- Vectorize(rem_dup.one,USE.NAMES = F)
-rem_dup.vector(sin_sw[1])
 
-# Dejar palabras únicas para cada lineamiento
+# Palabras únicas para cada objetivo
 for (i in sin_sw) {
   best <- rem_dup.vector(sin_sw)  
 }
 
-# Dejar palabras únicas para cada respuestas
+# Dejar palabras únicas para cada respuesta
 for (i in descripcion) {
   best2 <- rem_dup.vector(descripcion)  
 }
 
+#----------------------------------------------------------------------------------------------------------------------
+# SVM
+#----------------------------------------------------------------------------------------------------------------------
 
-
-#############
-# SVM Model #
-#############
+# Asignarle una clase a cada línea
 nuevo_dataset <- data.frame(text=best,class=1:5)
 
-# Create the document term matrix
+# Creaer document term matrix
 dtMatrix <- create_matrix(nuevo_dataset["text"])
 
-# Configure the training data
+# Datos de entrenamiento en container
 container <- create_container(dtMatrix, nuevo_dataset$class, trainSize=1:5, virgin=FALSE)
 
 # train a SVM Model
