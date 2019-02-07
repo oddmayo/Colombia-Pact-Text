@@ -27,7 +27,7 @@ base <- base[,-1] # Eliminar columna sin nombre
 base <- base %>% filter(Título == '¿Cómo podrían las entidades públicas innovar para mejorar procesos y servicios?')
 
 # Cargo archivo con stop words
-sw <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_spanish.txt"))
+sw <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_spanish.txt"),warn = F)
 
 # Stop words adicionales que surgen después de una primera iteración
 sw_a <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_adicionales.txt"))
@@ -45,6 +45,8 @@ base_clean %<>% mutate_if(is.factor,as.character)
 
 # Texto para analizar - "Descripción" de la base de datos
 descripcion <- base_clean$Descripción
+# Objeto sin lematizar
+save(descripcion, file=paste0(directorio,"\\data\\desc-sin-lematizar.RData"))
 
 # Cargar texto a "lematizar"
 adicional <- read.table(paste0(directorio,"\\data\\entrada\\lematizacion-adicional.txt"),sep ='\t',header = F,encoding = 'UTF-8',colClasses = 'character')
@@ -54,7 +56,7 @@ adicional <- separate(data = adicional,col = 'V1',into = c('V1','V2')) # Separar
 for (i in 1:nrow(adicional)) {
   descripcion <- gsub(adicional[i,'V1'],adicional[i,'V2'],descripcion)
 }
-
+save(descripcion, file=paste0(directorio,"\\data\\desc-lematizada.RData"))
 # Obtener cada caracter del texto
 lista_palabras <- unlist(strsplit(descripcion,split = ' ',fixed = T))
 # Ordenar en orden decreciente
