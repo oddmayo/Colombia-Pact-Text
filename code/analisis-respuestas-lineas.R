@@ -58,6 +58,13 @@ for (i in sin_sw) {
   best <- rem_dup.vector(sin_sw)  
 }
 
+# Cargar objeto que contiene respuestas
+# Versión lematizada
+load(paste0(directorio,"\\data\\desc-lematizada.RData"))
+
+# Versión sin lematizar
+load(paste0(directorio,"\\data\\desc-sin-lematizar.RData"))
+
 # Dejar palabras únicas para cada respuesta
 for (i in descripcion) {
   best2 <- rem_dup.vector(descripcion)  
@@ -76,21 +83,21 @@ dtMatrix <- create_matrix(nuevo_dataset["text"])
 # Datos de entrenamiento en container
 container <- create_container(dtMatrix, nuevo_dataset$class, trainSize=1:5, virgin=FALSE)
 
-# train a SVM Model
-model <- train_model(container, "SVM", kernel = "linear", cost=10)
+# Entrenar modelo
+model <- train_model(container, "SVM", kernel = "polynomial", cost=10)
 
-# new data
-#predictionData <- list("sunny sunny sunny rainy rainy", "rainy sunny rainy rainy", "hello", "", "this is another rainy world")
+# Datos a predecir - Clasificar respuestas en los objetivos
 predictionData <- descripcion
+# Cambiar "Acronym" por "acronym"
 trace("create_matrix", edit=T)
-# create a prediction document term matrix
+# Crear document term matrix de predicción
 predMatrix <- create_matrix(predictionData, originalMatrix=dtMatrix)
 
-# create the corresponding container
+# Datos a predecir en container - Test data
 predSize = length(predictionData)
 predictionContainer <- create_container(predMatrix, labels=rep(0,predSize), testSize=1:predSize, virgin=FALSE)
 
-# predict
+# Clasificación y resultados
 results <- classify_model(predictionContainer, model)
 results
 
