@@ -20,7 +20,7 @@ lapply(paquetes, require, character.only = TRUE)
 # Intento de word network
 #----------------------------------------------------------------------------------------------------------------------
 
-library(janeaustenr)
+
 load(paste0(directorio,"\\data\\base_clean_innovacion.RData"))
 #base_clean_tibble <- as.tibble(base_clean)
 base_clean2 <- data.frame(username=base_clean$Username,descripcion=base_clean$Descripción)
@@ -28,7 +28,10 @@ base_clean2 <- data.frame(username=base_clean$Username,descripcion=base_clean$De
 #----------------------------------------------------------------------------------------------------------------------
 # Análisis de toda la base para la pregunta de innovación
 #----------------------------------------------------------------------------------------------------------------------
-
+cosas_raras <- c('gov','co','www')
+base_clean2 %<>% mutate_if(is.factor,as.character)
+base_clean2 <- as.data.frame(sapply(base_clean2, function(x) RemoveStopwordsFromText(x,cosas_raras)))
+  
 # Totalidad de los bigramas
 bigramas <- base_clean2 %>%
   unnest_tokens(bigram, descripcion, token = "ngrams", n = 2)
@@ -56,7 +59,7 @@ bigrama_tf_idf <- bigramas_unidos %>%
   arrange(desc(tf_idf))
 
 
-bigram_tf_idf
+bigrama_tf_idf
 
 
 bigram_graph <- bigramas_conteo %>%
@@ -74,13 +77,16 @@ ggraph(bigram_graph, layout = "fr") +
 # FUNCIONAAAAAA
 
 # Gráfico con color y cadena de Markov
-set.seed(2016)
+set.seed(1234)
 a <- grid::arrow(type = "closed", length = unit(.15, "inches"))
+x11()
 ggraph(bigram_graph, layout = "fr") +
   geom_edge_link(aes(edge_alpha = n), show.legend = FALSE,
                  arrow = a, end_cap = circle(.07, 'inches')) +
   geom_node_point(color = "lightblue", size = 5) +
   geom_node_text(aes(label = name), vjust = 1, hjust = 1) +
+  #scale_x_continuous(limits = c(0, 10)) +
+  #coord_cartesian(xlim = c(0, 20)) +
   theme_void()
 
 #----------------------------------------------------------------------------------------------------------------------
@@ -143,4 +149,15 @@ ggraph(bigram_graph, layout = "fr") +
   geom_node_point(color = "lightblue", size = 5) +
   geom_node_text(aes(label = name), vjust = 1, hjust = 1) +
   theme_void()
+
+
+
+# Intento innovacion toda la base
+load(paste0(directorio,"\\data\\base_clean_todo.RData"))
+
+para_filtrar <- c('innovacion | innova | innovador | innovadora | innovando | innovar |
+                  innovativo')
+
+innovacion_todo <- base_clean[grepl(para_filtrar, base_clean$Descripción),]
+
 
