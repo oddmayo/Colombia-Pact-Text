@@ -42,7 +42,8 @@ base_clean %<>% mutate_if(is.factor,as.character)
 # Remover todas las stopwords
 base_clean <- as.data.frame(sapply(base_clean, function(x) RemoveStopwordsFromText(x,all_stopwords)))
 base_clean %<>% mutate_if(is.factor,as.character)
-
+# Objeto para cadenas de markov en script de ngramas
+save(base_clean, file=paste0(directorio,"\\data\\base_clean_innovacion.RData"))
 # Texto para analizar - "Descripción" de la base de datos
 descripcion <- base_clean$Descripción
 # Objeto sin lematizar
