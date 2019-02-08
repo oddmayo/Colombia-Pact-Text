@@ -1,47 +1,56 @@
+# para instalar paquetes modificar linea 142 sys.sleep(5.0)
+trace(utils:::unpackPkgZip, edit=TRUE)
+# Directorio casa
+directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\Colombia-Pact-Text'
+# Directorio DNP
+directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
+
+# Funciones preprocesamiento y t-sne
+source(paste0(directorio,'/code/funciones.R'))
+
+# Cargar paquetes
+paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
+              'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
+              'rgeos','reshape','tidyr','tidytext','stringr','wordcloud','tidyverse','packcircles',
+              'viridis','igraph','ggraph'
+)
+lapply(paquetes, require, character.only = TRUE)
+
 #----------------------------------------------------------------------------------------------------------------------
 # Intento de word network
 #----------------------------------------------------------------------------------------------------------------------
 
-bigram_graph <- bigramas %>%
-  separate(bigrama, c("word1", "word2"), sep = " ") %>%
-  count(word1, word2, sort = TRUE) %>%
-  unite("bigram", c(word1, word2), sep = " ") %>%
-  graph_from_data_frame()
-
-
-set.seed(123)
-
-a <- grid::arrow(type = "closed", length = unit(.15, "inches"))
-x11()
-ggraph(bigram_graph, layout = "fr") +
-  geom_edge_link() +
-  geom_node_point(color = "lightblue", size = 5) +
-  geom_node_text(aes(label = name), vjust = 1, hjust = 1) +
-  theme_void()
+library(janeaustenr)
+load(paste0(directorio,"\\data\\base_clean_innovacion.RData"))
+#base_clean_tibble <- as.tibble(base_clean)
+base_clean2 <- data.frame(username=base_clean$Username,descripcion=base_clean$Descripción)
 
 #----------------------------------------------------------------------------------------------------------------------
+# Análisis de toda la base para la pregunta de innovación
+#----------------------------------------------------------------------------------------------------------------------
 
-
-library(janeaustenr)
-base_clean_tibble <- as.tibble(base_clean)
-
-base_clean2 <- data.frame(username=base_clean$Username,descripcion=base_clean$Descripción)
-austen_bigrams <- base_clean2 %>%
+# Totalidad de los bigramas
+bigramas <- base_clean2 %>%
   unnest_tokens(bigram, descripcion, token = "ngrams", n = 2)
 
-austen_bigrams %>%
+# Frecuencia de bigramas
+bigramas %>%
   count(bigram, sort = TRUE)
 
-bigrams_separated <- austen_bigrams %>%
+# Separar cada palabra de los bigramas en columnas
+bigramas_separados <- bigramas %>%
   separate(bigram, c("word1", "word2"), sep = " ")
 
-bigram_counts <- bigrams_separated %>%
+# Columna con frecuencia del bigrama
+bigramas_conteo <- bigramas_separados %>%
   count(word1, word2, sort = TRUE)
 
-bigrams_united <- bigrams_separated %>%
+# Unir de nuevo
+bigramas_unidos <- bigramas_separados %>%
   unite(bigram, word1, word2, sep = " ")
 
-bigram_tf_idf <- bigrams_united %>%
+# tfidf de los bigramas
+bigrama_tf_idf <- bigramas_unidos %>%
   count(username, bigram) %>%
   bind_tf_idf(bigram, username, n) %>%
   arrange(desc(tf_idf))
@@ -50,25 +59,23 @@ bigram_tf_idf <- bigrams_united %>%
 bigram_tf_idf
 
 
-bigram_graph <- bigram_counts %>%
-  filter(n > 2) %>%
+bigram_graph <- bigramas_conteo %>%
+  filter(n > 1) %>%
   graph_from_data_frame()
 
 bigram_graph
 
+# Gráfico básico
 set.seed(2017)
-
 ggraph(bigram_graph, layout = "fr") +
   geom_edge_link() +
   geom_node_point() +
   geom_node_text(aes(label = name), vjust = 1, hjust = 1)
 # FUNCIONAAAAAA
 
-
+# Gráfico con color y cadena de Markov
 set.seed(2016)
-
 a <- grid::arrow(type = "closed", length = unit(.15, "inches"))
-
 ggraph(bigram_graph, layout = "fr") +
   geom_edge_link(aes(edge_alpha = n), show.legend = FALSE,
                  arrow = a, end_cap = circle(.07, 'inches')) +
@@ -76,23 +83,6 @@ ggraph(bigram_graph, layout = "fr") +
   geom_node_text(aes(label = name), vjust = 1, hjust = 1) +
   theme_void()
 
-#-----------------------------------------------------------------------
-
-bigram_igraph<- bigram_df$bigram%>%
-  graph_from_data_frame()
-
-a <- grid::arrow(type = "closed", length = unit(.1, "inches"))
-set.seed(123)
-ggraph(bigram_igraph, layout = "fr") +
-  geom_edge_link(aes(edge_alpha = bigramas$freq), show.legend = FALSE,
-                 arrow = a, end_cap = circle(.07, 'inches')) +
-  geom_node_point(color = "lightblue", size = 5) +
-  geom_node_text(aes(label = name), vjust = 1, hjust = 1, size = 3) +
-  theme_void() +
-  ggtitle("Red de bigramas en respuestas que hablan sobre salud")
-
-
-ggraph(bigram_graph, layout = "fr") +
-  geom_edge_link() +
-  geom_node_point() +
-  geom_node_text(aes(label = name), vjust = 1, hjust = 1)
+#----------------------------------------------------------------------------------------------------------------------
+# Análisis de solo salud
+#----------------------------------------------------------------------------------------------------------------------
