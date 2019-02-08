@@ -86,3 +86,61 @@ ggraph(bigram_graph, layout = "fr") +
 #----------------------------------------------------------------------------------------------------------------------
 # Análisis de solo salud
 #----------------------------------------------------------------------------------------------------------------------
+
+salud <- base_clean[grepl("salud", base_clean$Descripción),]
+base_clean2 <- data.frame(username=salud$Username,descripcion=salud$Descripción)
+
+# Totalidad de los bigramas
+bigramas <- base_clean2 %>%
+  unnest_tokens(bigram, descripcion, token = "ngrams", n = 2)
+
+# Frecuencia de bigramas
+bigramas %>%
+  count(bigram, sort = TRUE)
+
+# Separar cada palabra de los bigramas en columnas
+bigramas_separados <- bigramas %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+# Columna con frecuencia del bigrama
+bigramas_conteo <- bigramas_separados %>%
+  count(word1, word2, sort = TRUE)
+
+# Unir de nuevo
+bigramas_unidos <- bigramas_separados %>%
+  unite(bigram, word1, word2, sep = " ")
+
+# tfidf de los bigramas
+bigrama_tf_idf <- bigramas_unidos %>%
+  count(username, bigram) %>%
+  bind_tf_idf(bigram, username, n) %>%
+  arrange(desc(tf_idf))
+
+
+bigram_tf_idf
+
+
+bigram_graph <- bigramas_conteo %>%
+  filter(n > 1) %>%
+  graph_from_data_frame()
+
+bigram_graph
+
+# Gráfico básico
+set.seed(2017)
+ggraph(bigram_graph, layout = "fr") +
+  geom_edge_link() +
+  geom_node_point() +
+  geom_node_text(aes(label = name), vjust = 1, hjust = 1)
+# FUNCIONAAAAAA
+
+# Gráfico con color y cadena de Markov
+set.seed(2016)
+a <- grid::arrow(type = "closed", length = unit(.15, "inches"))
+ggraph(bigram_graph, layout = "fr") +
+  geom_edge_link(aes(edge_alpha = n), show.legend = FALSE,
+                 arrow = a, end_cap = circle(.07, 'inches')) +
+  geom_node_point(color = "lightblue", size = 5) +
+  geom_node_text(aes(label = name), vjust = 1, hjust = 1) +
+  theme_void()
+
