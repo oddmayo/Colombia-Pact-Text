@@ -2,11 +2,11 @@ trace(utils:::unpackPkgZip, edit=TRUE)
 # casa
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\portal presidencia'
 # DNP
-directorio <- 'C:\\Users\\cmayorquin\\Desktop\\portal presidencia'
+directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
 
 
 # Funciones preprocesamiento y t-sne
-source(paste0(directorio,'/cluster/funciones.R'))
+source(paste0(directorio,'/code/funciones.R'))
 
 
 # Cargar paquetes
@@ -93,11 +93,13 @@ barplot$lista_palabras <- factor(barplot$lista_palabras, levels=unique(barplot$l
 # Basic barplot #
 #################
 p<-ggplot(data=barplot, aes(x=barplot$lista_palabras, y=barplot$Freq)) +
-  geom_bar(stat="identity",fill='steelblue') +
-  geom_text(aes(label=Freq), vjust=-0.3, size=3.5)+
+  geom_bar(stat="identity",fill='firebrick3') +
+  geom_text(aes(label=Freq), vjust=-0.3, size=3.5,hjust=-0.2)+
   theme_minimal() +
   xlab('Palabras') + ylab('Frecuencia') +
-  ggtitle('Verbos más comunes en respuestas sobre innovación')
+  ggtitle('Verbos más comunes en respuestas sobre innovación') +
+  coord_flip()
+  
 x11()
 p
 
@@ -109,4 +111,11 @@ x11()
 wordcloud(words = definitiva_final$lista_palabras, freq = definitiva_final$Freq, min.freq = 1,
           max.words=100, random.order=FALSE, rot.per=0.35, 
           colors=brewer.pal(8, "Dark2"))
+
+redPalette <- c("#5c1010", "#6f0000", "#560d0d", "#c30101", "#940000")
+write.csv(test, file = "C:\\Users\\ScmayorquinS\\Desktop\\test.csv")
+
+wordcloud2(definitiva_final[1:50,], size=0.7, 
+           color=rep_len( redPalette, nrow(definitiva_final[1:50,])),backgroundColor = "white",shape = 'circle')
+
 
