@@ -2,10 +2,10 @@ trace(utils:::unpackPkgZip, edit=TRUE)
 # casa
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\portal presidencia'
 # DNP
-directorio <- 'C:\\Users\\cmayorquin\\Desktop\\portal presidencia'
+directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
 
 # funciones
-source(paste0(directorio,'/cluster/funciones.R'))
+source(paste0(directorio,'/code/funciones.R'))
 paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
               'rgeos','NbClust'
@@ -20,7 +20,7 @@ base <- base[,-1]
 base <- base %>% filter(Título == '¿Cómo podrían las entidades públicas innovar para mejorar procesos y servicios?')
 
 # Stop words
-sw <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_spanish.txt"))
+sw <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_spanish.txt"),warn = F)
 
 # stop words acidionales
 sw_a <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_adicionales.txt"))
@@ -69,7 +69,7 @@ tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = perp,theta = 0.5,check
 intento <- NbClust(data = tiesne$Y,distance = 'euclidean',max.nc = 15,method = 'kmeans')
 n.clusters <- as.numeric(names(sort(table(intento$Best.nc),decreasing=TRUE)[1]))
 
-n.clusters <- 5
+n.clusters <- 7
 kfit <- kmeans(tiesne$Y, n.clusters)
 
 plot(BoW.pca$x[,1:2], col = kfit$cluster)
@@ -78,6 +78,20 @@ points(kfit$centers, col = 1:5, pch = 2, cex = 2)
 
 plot(tiesne$Y,col=kfit$cluster)
 
+
+library(cluster)
+library(HSAUR)
+# Matriz de disimilaridad
+dissE <- daisy(tiesne$Y) 
+dE2   <- dissE^2
+sk2   <- silhouette(kfit$cluster, dE2)
+# Gráfico silueta
+plot(sk2)
+# Se reafirma la presencia de 7 clusters
+
+# Dos componentes
+clusplot(tiesne$Y, kfit$cluster, color=TRUE, shade=TRUE, 
+         labels=2, lines=0)
 
 
 #######################################
