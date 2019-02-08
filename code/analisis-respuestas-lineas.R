@@ -104,11 +104,11 @@ results
 
 
 
+#----------------------------------------------------------------------------------------------------------------------
+# Matriz de similitud del coseno
+#----------------------------------------------------------------------------------------------------------------------
 
-#############
-# Similitud #
-#############
-
+# Matriz de "entrenamiento con vocabulario los objetivos y de las respuestas
 dtm_nueva <- create_matrix(c(best,best2))
 # Número de líneas
 dtm1 <- dtm_nueva[1:5,]
@@ -119,7 +119,40 @@ cosine_sim <- tcrossprod_simple_triplet_matrix(dtm1, dtm2)/sqrt(row_sums(dtm1^2)
 # Invertir matriz para visibilidad
 veamos <- t(cosine_sim)
 # Nombres más cortos para las líneas
-colnames(veamos) <- c('uno','dos','tres','cuatro','cinco')
+colnames(veamos) <- 1:5
 # Matriz final
 prueba <- veamos[1:106,1:5]
 
+# Dataframe 
+base <- as.data.frame(prueba)
+
+# Nombres de los objetivos / líneas
+objetivos <- readLines(paste0(directorio,"\\data\\PND-titulos.txt"),warn = F)
+# Objetivos con identificador
+objetivos_numero <- data.frame(nombre=objetivos,numero=1:5)
+
+# Crear columna con número del objetivo con el que mayor tiene similitud
+base$numero <- as.numeric(colnames(base)[apply(base,1,which.max)])
+
+# Pegar Texto del objetivo a su respectivo número por fila
+funciona <- full_join(base,objetivos_numero,"numero")
+# Nombres originales
+rownames(funciona) <- rownames(base)
+
+# Similitud con texto limpio de las respuestas
+funciona <- funciona[,6:7]
+
+
+# Cargo respuestas de las personas
+base_original <- read_excel(paste0(directorio,'/data/propuestas.xlsx'))
+base_original <- base_original[,-1] # Eliminar columna sin nombre
+# Dejar respuestas solo de innovación
+base_original <- base_original %>% filter(Título == '¿Cómo podrían las entidades públicas innovar para mejorar procesos y servicios?')
+
+
+similitud <- funciona
+rownames(similitud) <- base_original$Descripción
+colnames(similitud) <- c("Número","Objetivo")
+similitud <- cbind(Respuesta = rownames(similitud), similitud)
+# Similitud con texto original de las respuestas
+rownames(similitud) <- NULL
