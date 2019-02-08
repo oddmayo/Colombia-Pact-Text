@@ -12,7 +12,7 @@ source(paste0(directorio,'/code/funciones.R'))
 paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
               'rgeos','reshape','tidyr','tidytext','stringr','wordcloud','tidyverse','packcircles',
-              'viridis','igraph','ggraph'
+              'viridis','igraph','ggraph','wordcloud2'
 )
 lapply(paquetes, require, character.only = TRUE)
 
@@ -43,11 +43,12 @@ base_clean %<>% mutate_if(is.factor,as.character)
 base_clean <- as.data.frame(sapply(base_clean, function(x) RemoveStopwordsFromText(x,all_stopwords)))
 base_clean %<>% mutate_if(is.factor,as.character)
 # Objeto para cadenas de markov en script de ngramas
-save(base_clean, file=paste0(directorio,"\\data\\base_clean_innovacion.RData"))
+#save(base_clean, file=paste0(directorio,"\\data\\base_clean_innovacion.RData"))
+#save(base_clean, file=paste0(directorio,"\\data\\base_clean_todo.RData"))
 # Texto para analizar - "Descripción" de la base de datos
 descripcion <- base_clean$Descripción
 # Objeto sin lematizar
-save(descripcion, file=paste0(directorio,"\\data\\desc-sin-lematizar.RData"))
+#save(descripcion, file=paste0(directorio,"\\data\\desc-sin-lematizar.RData"))
 
 # Cargar texto a "lematizar"
 adicional <- read.table(paste0(directorio,"\\data\\entrada\\lematizacion-adicional.txt"),sep ='\t',header = F,encoding = 'UTF-8',colClasses = 'character')
@@ -57,7 +58,7 @@ adicional <- separate(data = adicional,col = 'V1',into = c('V1','V2')) # Separar
 for (i in 1:nrow(adicional)) {
   descripcion <- gsub(adicional[i,'V1'],adicional[i,'V2'],descripcion)
 }
-save(descripcion, file=paste0(directorio,"\\data\\desc-lematizada.RData"))
+#save(descripcion, file=paste0(directorio,"\\data\\desc-lematizada.RData"))
 # Obtener cada caracter del texto
 lista_palabras <- unlist(strsplit(descripcion,split = ' ',fixed = T))
 # Ordenar en orden decreciente
@@ -96,6 +97,17 @@ x11()
 wordcloud(words = test$lista_palabras, freq = test$Freq, min.freq = 1,
           max.words=100, random.order=FALSE, rot.per=0.35, 
           colors=brewer.pal(8, "Dark2"))
+
+
+# Intento de mejorar la cosa
+wordcloud2(test,size = 0.7)
+
+redPalette <- c("#5c1010", "#6f0000", "#560d0d", "#c30101", "#940000")
+write.csv(test, file = "C:\\Users\\ScmayorquinS\\Desktop\\test.csv")
+
+wordcloud2(test[1:50,], size=0.7, 
+           color=rep_len( redPalette, nrow(test[1:20,])),backgroundColor = "white",shape = 'triangle-forward')
+
 
 #----------------------------------------------------------------------------------------------------------------------
 # Circular packing
@@ -136,34 +148,6 @@ ggplot() +
   coord_equal()
 
 
-#----------------------------------------------------------------------------------------------------------------------
-# Análisis con nmgramas sobre el texto en general
-#----------------------------------------------------------------------------------------------------------------------
 
-myDfm <- tokens(descripcion) %>%
-  tokens_ngrams(n = 3) %>%
-  dfm()
-
-bigramas <- topfeatures(myDfm,n = 30)
-
-
-
-#----------------------------------------------------------------------------------------------------------------------
-# Respuestas que contienen solo salud + análisis de ngramas
-#----------------------------------------------------------------------------------------------------------------------
-
-salud <- base_clean[grepl("salud", base$Descripción),]
-
-
-myDfm <- tokens(salud$Descripción) %>%
-  tokens_ngrams(n = 2) %>%
-  dfm()
-
-bigramas <- topfeatures(myDfm,n = 60)
-bigramas <- as.data.frame(bigramas)
-nombres_row <- rownames(bigramas)
-rownames(bigramas) <- NULL
-bigramas <- data.frame(bigrama=nombres_row,freq=bigramas$bigramas)
-bigramas$bigrama <- gsub("_"," ",bigramas$bigrama)
 
 
