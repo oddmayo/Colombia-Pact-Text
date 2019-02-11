@@ -3,6 +3,8 @@ trace(utils:::unpackPkgZip, edit=TRUE)
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\portal presidencia'
 # DNP
 directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
+# Temporal
+directorio <- 'C:\\Users\\cmayorquin\\Desktop\\Colombia-Pact-Text'
 
 # funciones
 source(paste0(directorio,'/code/funciones.R'))
@@ -152,10 +154,19 @@ for (i in 1:length(colores)){
   palette <- c(palette,color.temp)
 }
 
+
+palabras.por.cluster <- c('1. Diseño e ideas sobre innovación.',
+                          '2. Desarrollo de tecnología por parte de entidad pública.',
+                          '3. Salud pública, centros médicos y deporte.',
+                          '4. Procesos atención ciudadano.',
+                          '5. Política pública para empleados y contratistas.',
+                          '6. Procesos para mejorar trámites (atención y comodidad).',
+                          '7. Alianza Pacífico, Colombia, Chile y México.')
+
 library(ggplot2)
 plot.voronoi <- ggplot(df, aes(x=X,y=Y)) +
   theme_light() +
-  ggtitle("Clasificación por tópico") +
+  ggtitle("Clasificación de temas en respuestas sobre innovación") +
   geom_point(data=df,aes())+#, alpha = 1))+ #,color=Cluster)) +
   geom_map(data=vor_df, map=vor_df,
            aes(x=long, y=lat, map_id=id, fill = id),
@@ -165,7 +176,8 @@ plot.voronoi <- ggplot(df, aes(x=X,y=Y)) +
   geom_segment(aes(x = x1, y = y1, xend = x2, yend = y2), size = 1,
                data = voronoi$dirsgs,linetype = 1,color= "gray40")+
   ggplot2::annotate("text", x=centros$x, y=centros$y, label= as.character(1:n.clusters), #palabras.por.cluster,#
-                    size = 6, col="black", alpha = 0.85)
+                    size = 6, col="black", alpha = 0.85) +
+  theme(plot.title = element_text(hjust = .5))
 
 X11()
 plot.voronoi

@@ -3,7 +3,8 @@ trace(utils:::unpackPkgZip, edit=TRUE)
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\portal presidencia'
 # DNP
 directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
-
+# Temporal
+directorio <- 'C:\\Users\\cmayorquin\\Desktop\\Colombia-Pact-Text'
 
 # Funciones preprocesamiento y t-sne
 source(paste0(directorio,'/code/funciones.R'))
@@ -12,7 +13,7 @@ source(paste0(directorio,'/code/funciones.R'))
 # Cargar paquetes
 paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
-              'rgeos','reshape','tidyr','wordcloud'
+              'rgeos','reshape','tidyr','wordcloud','wordcloud2'
 )
 lapply(paquetes, require, character.only = TRUE)
 
@@ -92,13 +93,14 @@ barplot$lista_palabras <- factor(barplot$lista_palabras, levels=unique(barplot$l
 #################
 # Basic barplot #
 #################
-p<-ggplot(data=barplot, aes(x=barplot$lista_palabras, y=barplot$Freq)) +
+p<-ggplot(data=barplot, aes(x=reorder(barplot$lista_palabras, -barplot$Freq), y=barplot$Freq)) +
   geom_bar(stat="identity",fill='firebrick3') +
-  geom_text(aes(label=Freq), vjust=-0.3, size=3.5,hjust=-0.2)+
-  theme_minimal() +
+  geom_text(aes(label=Freq), vjust=-0.3, size=3.5,hjust=0.5)+
+  theme(plot.title = element_text(hjust = 0.5),panel.grid.minor = element_line(),panel.background = element_blank()) +
   xlab('Palabras') + ylab('Frecuencia') +
-  ggtitle('Verbos más comunes en respuestas sobre innovación') +
-  coord_flip()
+  ggtitle('20 verbos más comunes en respuestas sobre innovación')
+  #coord_flip() #+
+  #theme_bw()
   
 x11()
 p
@@ -118,4 +120,5 @@ write.csv(test, file = "C:\\Users\\ScmayorquinS\\Desktop\\test.csv")
 wordcloud2(definitiva_final[1:50,], size=0.7, 
            color=rep_len( redPalette, nrow(definitiva_final[1:50,])),backgroundColor = "white",shape = 'circle')
 
-
+x11()
+nube

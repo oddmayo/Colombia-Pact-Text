@@ -78,13 +78,15 @@ test2 <- test[1:20,]
 #----------------------------------------------------------------------------------------------------------------------
 
 theme_update(plot.title = element_text(hjust = 0.5))
-p<-ggplot(data=test2, aes(x=test2$lista_palabras, y=test2$Freq)) +
-  geom_bar(stat="identity",fill='steelblue') +
-  ggtitle('Palabras más comunes en respuestas sobre innovación') +
-  theme(plot.title = element_text(hjust = 0.5)) +
-  geom_text(aes(label=Freq), vjust=-0.3, size=3.5) +
+p<-ggplot(data=test2, aes(x=reorder(test2$lista_palabras, -test2$Freq), y=test2$Freq)) +
+  geom_bar(stat="identity",fill='firebrick3') +
+  ggtitle('20 palabras más comunes en respuestas sobre innovación') +
+  geom_text(aes(label=Freq), vjust=-0.5, size=3.5,hjust=0.5) +
   theme_minimal() +
-  xlab('Palabras') + ylab('Frecuencia')
+  xlab('Palabras') + ylab('Frecuencia') +
+  theme(plot.title = element_text(hjust = 0.5),panel.background = element_blank(),panel.grid = element_blank()) 
+  #coord_flip()
+x11()
 p
 
 #----------------------------------------------------------------------------------------------------------------------
@@ -105,8 +107,10 @@ wordcloud2(test,size = 0.7)
 redPalette <- c("#5c1010", "#6f0000", "#560d0d", "#c30101", "#940000")
 write.csv(test, file = "C:\\Users\\ScmayorquinS\\Desktop\\test.csv")
 
+
+test$lista_palabras <- gsub('diseno','diseño',test$lista_palabras)
 wordcloud2(test[1:50,], size=0.7, 
-           color=rep_len( redPalette, nrow(test[1:20,])),backgroundColor = "white",shape = 'triangle-forward')
+           color=rep_len( redPalette, nrow(test[1:20,])),backgroundColor = "white",shape = 'circle')
 
 
 #----------------------------------------------------------------------------------------------------------------------

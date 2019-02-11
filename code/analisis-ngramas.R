@@ -4,7 +4,8 @@ trace(utils:::unpackPkgZip, edit=TRUE)
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\Colombia-Pact-Text'
 # Directorio DNP
 directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
-
+# Temporal
+directorio <- 'C:\\Users\\cmayorquin\\Desktop\\Colombia-Pact-Text'
 # Funciones preprocesamiento y t-sne
 source(paste0(directorio,'/code/funciones.R'))
 
@@ -28,7 +29,7 @@ base_clean2 <- data.frame(username=base_clean$Username,descripcion=base_clean$De
 #----------------------------------------------------------------------------------------------------------------------
 # Análisis de toda la base para la pregunta de innovación
 #----------------------------------------------------------------------------------------------------------------------
-cosas_raras <- c('gov','co','www')
+cosas_raras <- c('gov','co','www','magia','negra','com')
 base_clean2 %<>% mutate_if(is.factor,as.character)
 base_clean2 <- as.data.frame(sapply(base_clean2, function(x) RemoveStopwordsFromText(x,cosas_raras)))
   
@@ -77,27 +78,29 @@ ggraph(bigram_graph, layout = "fr") +
 # FUNCIONAAAAAA
 
 # Gráfico con color y cadena de Markov
-set.seed(1234)
-a <- grid::arrow(type = "closed", length = unit(.15, "inches"))
+set.seed(11234)
+a <- grid::arrow(type = 'closed', length = unit(.15, "inches"))
 x11()
 ggraph(bigram_graph, layout = "fr") +
-  geom_edge_link(aes(edge_alpha = n), show.legend = FALSE,
-                 arrow = a, end_cap = circle(.07, 'inches')) +
-  geom_node_point(color = "lightblue", size = 5) +
+  geom_edge_link(aes(edge_alpha = n), show.legend = F,
+                 arrow = a,linemitre = 8, end_cap = circle(.07, 'inches')) +
+  geom_node_point(color = "firebrick3", size = 5) +
   geom_node_text(aes(label = name), vjust = 1, hjust = 1) +
+  ggtitle('Red de bigramas más utilizados en respuestas sobre innovación') +
   #scale_x_continuous(limits = c(0, 10)) +
   #coord_cartesian(xlim = c(0, 20)) +
-  theme_void()
+  theme_void() +
+  theme(plot.title=element_text(hjust=0.5))
 
 #----------------------------------------------------------------------------------------------------------------------
 # Análisis de solo salud
 #----------------------------------------------------------------------------------------------------------------------
 
-salud <- base_clean[grepl("salud", base_clean$Descripción),]
-base_clean2 <- data.frame(username=salud$Username,descripcion=salud$Descripción)
+salud <- base_clean2[grepl("salud", base_clean2$descripcion),]
+#base_clean2 <- data.frame(username=salud$Username,descripcion=salud$Descripción)
 
 # Totalidad de los bigramas
-bigramas <- base_clean2 %>%
+bigramas <- salud %>%
   unnest_tokens(bigram, descripcion, token = "ngrams", n = 2)
 
 # Frecuencia de bigramas
@@ -123,7 +126,7 @@ bigrama_tf_idf <- bigramas_unidos %>%
   arrange(desc(tf_idf))
 
 
-bigram_tf_idf
+bigrama_tf_idf
 
 
 bigram_graph <- bigramas_conteo %>%
@@ -146,9 +149,11 @@ a <- grid::arrow(type = "closed", length = unit(.15, "inches"))
 ggraph(bigram_graph, layout = "fr") +
   geom_edge_link(aes(edge_alpha = n), show.legend = FALSE,
                  arrow = a, end_cap = circle(.07, 'inches')) +
-  geom_node_point(color = "lightblue", size = 5) +
+  geom_node_point(color = "firebrick3", size = 5) +
   geom_node_text(aes(label = name), vjust = 1, hjust = 1) +
-  theme_void()
+  ggtitle('Red de bigramas más utilizados en respuestas que hablan sobre salud') +
+  theme_void() +
+  theme(plot.title = element_text(hjust=0.5))
 
 
 
