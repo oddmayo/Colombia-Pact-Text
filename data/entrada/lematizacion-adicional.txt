@@ -20,3 +20,6 @@ colombiano colombia
 tecnologias tecnologia
 tecnologia tecnologia
 medica medicos
+profesionales profesional
+programas programa
+programa programa

@@ -4,8 +4,7 @@ trace(utils:::unpackPkgZip, edit=TRUE)
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\Colombia-Pact-Text'
 # Directorio DNP
 directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
-# Temporal
-directorio <- 'C:\\Users\\cmayorquin\\Desktop\\Colombia-Pact-Text'
+
 # Funciones preprocesamiento y t-sne
 source(paste0(directorio,'/code/funciones.R'))
 
@@ -32,7 +31,13 @@ base_clean2 <- data.frame(username=base_clean$Username,descripcion=base_clean$De
 cosas_raras <- c('gov','co','www','magia','negra','com')
 base_clean2 %<>% mutate_if(is.factor,as.character)
 base_clean2 <- as.data.frame(sapply(base_clean2, function(x) RemoveStopwordsFromText(x,cosas_raras)))
-  
+
+library(qdap)
+root <- c('publica','innovacion','medicos','tramites','creacion','tecnologia','pacifico','atencion','informacion','politica','linea','enajenacion','publico','dialogos','peru','mexico','publicos','moviles','investigacion','medica')
+objective <- c('pública','innovación','médicos','trámites','creación','tecnología','pacífico','atención','información','política','línea','enajenación','público','diálogos','perú','méxico','públicos','móviles','investigación','médica')
+base_clean2$descripcion <- mgsub(pattern = root,replacement = objective,text.var = as.character(base_clean2$descripcion))
+
+
 # Totalidad de los bigramas
 bigramas <- base_clean2 %>%
   unnest_tokens(bigram, descripcion, token = "ngrams", n = 2)
@@ -64,7 +69,7 @@ bigrama_tf_idf
 
 
 bigram_graph <- bigramas_conteo %>%
-  filter(n > 1) %>%
+  filter(n > 2) %>%
   graph_from_data_frame()
 
 bigram_graph

@@ -158,3 +158,7 @@ similitud <- cbind(Respuesta = rownames(similitud), similitud)
 rownames(similitud) <- NULL
 
 #write.xlsx(similitud,paste0(directorio,'\\output\\coseno-respuestas-objetivos.xlsx'))
+
+
+
+

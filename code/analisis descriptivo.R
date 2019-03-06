@@ -1,5 +1,5 @@
 # para instalar paquetes modificar linea 142 sys.sleep(5.0)
-trace(utils:::unpackPkgZip, edit=TRUE)
+#trace(utils:::unpackPkgZip, edit=TRUE)
 # Directorio casa
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\Colombia-Pact-Text'
 # Directorio DNP
@@ -70,22 +70,34 @@ test <- test[which(test$lista_palabras!='co'),]
 test <- test[which(test$lista_palabras!='gov'),]
 test <- test[which(test$lista_palabras!='anos'),]
 test <- test[which(test$lista_palabras!='ano'),]
-# Primeras 20 palabras para realizar barplot
-test2 <- test[1:20,]
+
 
 #----------------------------------------------------------------------------------------------------------------------
 # Barplot básico
 #----------------------------------------------------------------------------------------------------------------------
+library(qdap)
+root <- c('publica','innovacion','medicos','tramites','creacion','tecnologia','pacifico','atencion','informacion','politica','linea')
+objective <- c('pública','innovación','médicos','trámites','creación','tecnología','pacífico','atención','información','política','línea')
+
+# Reemplazar palabras
+test$lista_palabras <- mgsub(pattern = root,replacement = objective,text.var = as.character(test$lista_palabras))
+
+for(j in seq_along(root)){
+  test$lista_palabras <- gsub(root[j], objective[j], as.character(test$lista_palabras))
+}
+
+# Primeras 20 palabras para realizar barplot
+test2 <- test[1:20,]
 
 theme_update(plot.title = element_text(hjust = 0.5))
-p<-ggplot(data=test2, aes(x=reorder(test2$lista_palabras, -test2$Freq), y=test2$Freq)) +
+p<-ggplot(data=test2, aes(x=reorder(test2$lista_palabras, test2$Freq), y=test2$Freq)) +
   geom_bar(stat="identity",fill='firebrick3') +
   ggtitle('20 palabras más comunes en respuestas sobre innovación') +
-  geom_text(aes(label=Freq), vjust=-0.5, size=3.5,hjust=0.5) +
+  geom_text(aes(label=Freq), vjust=0.5, size=3.5,hjust=-0.5) +
   theme_minimal() +
   xlab('Palabras') + ylab('Frecuencia') +
-  theme(plot.title = element_text(hjust = 0.5),panel.background = element_blank(),panel.grid = element_blank()) 
-  #coord_flip()
+  theme(plot.title = element_text(hjust = 0.5),panel.background = element_blank(),panel.grid = element_blank()) +
+  coord_flip()
 x11()
 p
 
@@ -105,10 +117,13 @@ wordcloud(words = test$lista_palabras, freq = test$Freq, min.freq = 1,
 wordcloud2(test,size = 0.7)
 
 redPalette <- c("#5c1010", "#6f0000", "#560d0d", "#c30101", "#940000")
-write.csv(test, file = "C:\\Users\\ScmayorquinS\\Desktop\\test.csv")
+#write.csv(test, file = "C:\\Users\\ScmayorquinS\\Desktop\\test.csv")
 
 
 test$lista_palabras <- gsub('diseno','diseño',test$lista_palabras)
+
+
+x11()
 wordcloud2(test[1:50,], size=0.7, 
            color=rep_len( redPalette, nrow(test[1:20,])),backgroundColor = "white",shape = 'circle')
 

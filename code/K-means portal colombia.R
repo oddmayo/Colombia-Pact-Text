@@ -3,14 +3,12 @@ trace(utils:::unpackPkgZip, edit=TRUE)
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\portal presidencia'
 # DNP
 directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
-# Temporal
-directorio <- 'C:\\Users\\cmayorquin\\Desktop\\Colombia-Pact-Text'
 
 # funciones
 source(paste0(directorio,'/code/funciones.R'))
 paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
-              'rgeos','NbClust'
+              'rgeos','NbClust','cluster','FunCluster','tidyr'
               )
 lapply(paquetes, require, character.only = TRUE)
 
@@ -71,7 +69,7 @@ tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = perp,theta = 0.5,check
 intento <- NbClust(data = tiesne$Y,distance = 'euclidean',max.nc = 15,method = 'kmeans')
 n.clusters <- as.numeric(names(sort(table(intento$Best.nc),decreasing=TRUE)[1]))
 
-n.clusters <- 7
+n.clusters <- 8
 kfit <- kmeans(tiesne$Y, n.clusters)
 
 plot(BoW.pca$x[,1:2], col = kfit$cluster)
@@ -94,6 +92,44 @@ plot(sk2)
 # Dos componentes
 clusplot(tiesne$Y, kfit$cluster, color=TRUE, shade=TRUE, 
          labels=2, lines=0)
+
+
+fviz_cluster(kfit, data = as.data.frame(tiesne$Y), stand = FALSE,
+             ellipse = T, show.clust.cent = FALSE,
+             geom = "point",palette = "jco", ggtheme = theme_classic())
+
+res.km <- eclust(as.data.frame(tiesne$Y), "kmeans", nstart = 25)
+fviz_gap_stat(res.km$gap_stat)
+
+fviz_cluster(kfit,as.data.frame(tiesne$Y),ellipse.type = 'norm') + 
+  scale_color_brewer(palette = "Set2")+
+  scale_fill_brewer(palette = "Set2") +
+  theme_minimal()
+
+paleta <- c('#000075','dimgrey','red','#9A6324','navajowhite3','#911eb4','green4','deepskyblue')
+
+x11()
+fviz_cluster(object = kfit, data = as.data.frame(tiesne$Y), show.clust.cent = TRUE,
+             ellipse.type = "norm", star.plot = TRUE, repel = T) +
+  scale_color_manual(values = paleta)+
+  scale_fill_manual(values = paleta) +
+  labs(title = "Resultados clustering K-means") +
+  theme_bw() +
+  theme_void()
+
+base_clean2 <- base_clean
+base_clean2$cluster <- kfit$cluster
+base_clean2 <- base_clean2[order(base_clean2$cluster, decreasing = TRUE),]
+# a las malas
+cluster8 <- base_clean2[which(base_clean2$cluster=='8'),]
+cluster7 <- base_clean2[which(base_clean2$cluster=='7'),]
+cluster6 <- base_clean2[which(base_clean2$cluster=='6'),]
+cluster5 <- base_clean2[which(base_clean2$cluster=='5'),]
+cluster4 <- base_clean2[which(base_clean2$cluster=='4'),]
+cluster3 <- base_clean2[which(base_clean2$cluster=='3'),]
+cluster2 <- base_clean2[which(base_clean2$cluster=='2'),]
+cluster1 <- base_clean2[which(base_clean2$cluster=='1'),]
+
 
 
 #######################################
@@ -129,7 +165,7 @@ df<-data.frame(X=tiesne$Y[,1],Y=tiesne$Y[,2],
 
 # Creamos un vector con las 2 palabras más frecuentes de cada grupo (cluster).
 
-palabras.por.cluster <- palabras.comunes.cluster(BoW = BoW,kmeansobj = kfit, nPalabras = 10)
+palabras.por.cluster <- palabras.comunes.cluster(BoW = BoW,kmeansobj = kfit, nPalabras = 15)
 palabras.por.cluster <- paste(as.character(1:n.clusters),". ",palabras.por.cluster, sep="")
 
 vor_df$id <- as.factor(as.integer(vor_df$id))

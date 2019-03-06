@@ -2,11 +2,12 @@ trace(utils:::unpackPkgZip, edit=TRUE)
 # casa
 directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\portal presidencia'
 # DNP
-directorio <- 'C:\\Users\\cmayorquin\\Desktop\\portal presidencia'
+directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
+
 
 
 # Funciones preprocesamiento y t-sne
-source(paste0(directorio,'/cluster/funciones.R'))
+source(paste0(directorio,'/code/funciones.R'))
 
 
 # Cargar paquetes
@@ -52,7 +53,9 @@ for (i in 1:nrow(adicional)) {
   descripcion <- gsub(adicional[i,'V1'],adicional[i,'V2'],descripcion)
 }
 
-
+# "\\  \\b" marca el inicio y final del patrón
+descripcion <- gsub("\\bgov\\b","web", descripcion)
+descripcion <- gsub("\\bco\\b","web", descripcion)
 
 # Bag of Words binario
 BoW <- BoWveloz(descripcion)
@@ -65,6 +68,13 @@ proyTsneBoW <- function(B){
   PVC <- pca$var$coord
   ts2 <- Rtsne(X = PVC[,1:5],dims = 2,perplexity = perp,pca = F,max_iter = 1000,verbose = T,pca_center = F,check_duplicates = F)
 }
+
+
+t <- proyTsneBoW(BoW)
+x11()
+plot.tsneproy(t$Y,BoW)
+
+
 
   # t-SNE
   t <- proyTsneBoW(BoW)
