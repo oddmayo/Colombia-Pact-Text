@@ -1,11 +1,10 @@
 # para instalar paquetes modificar linea 142 sys.sleep(5.0)
-#trace(utils:::unpackPkgZip, edit=TRUE)
-# Directorio casa
-directorio <- 'C:\\Users\\CamiloAndrés\\Desktop\\Colombia-Pact-Text'
+trace(utils:::unpackPkgZip, edit=TRUE)
+
 # Directorio DNP
 directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Planeacion\\DIDE\\2019\\Data Science Projects\\Colombia-Pact-Text'
 
-# Funciones preprocesamiento y t-sne
+# Funciones preprocesamiento
 source(paste0(directorio,'/code/funciones.R'))
 
 # Cargar paquetes
@@ -14,6 +13,9 @@ paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','gg
               'rgeos','reshape','tidyr','tidytext','stringr','wordcloud','tidyverse','packcircles',
               'viridis','igraph','ggraph','wordcloud2'
 )
+
+paquetes <- c('dplyr','readxl','ggplot2','tm','tidyr','tidytext','stringr','wordcloud2')
+
 lapply(paquetes, require, character.only = TRUE)
 
 #----------------------------------------------------------------------------------------------------------------------
@@ -22,7 +24,9 @@ lapply(paquetes, require, character.only = TRUE)
 
 # Cargo respuestas de las personas
 base <- read_excel(paste0(directorio,'/data/propuestas.xlsx'))
+
 base <- base[,-1] # Eliminar columna sin nombre
+
 # Dejar respuestas solo de innovación
 base <- base %>% filter(Título == '¿Cómo podrían las entidades públicas innovar para mejorar procesos y servicios?')
 
@@ -59,6 +63,7 @@ for (i in 1:nrow(adicional)) {
   descripcion <- gsub(adicional[i,'V1'],adicional[i,'V2'],descripcion)
 }
 #save(descripcion, file=paste0(directorio,"\\data\\desc-lematizada.RData"))
+
 # Obtener cada caracter del texto
 lista_palabras <- unlist(strsplit(descripcion,split = ' ',fixed = T))
 # Ordenar en orden decreciente
@@ -89,7 +94,7 @@ for(j in seq_along(root)){
 # Primeras 20 palabras para realizar barplot
 test2 <- test[1:20,]
 
-theme_update(plot.title = element_text(hjust = 0.5))
+
 p<-ggplot(data=test2, aes(x=reorder(test2$lista_palabras, test2$Freq), y=test2$Freq)) +
   geom_bar(stat="identity",fill='firebrick3') +
   ggtitle('20 palabras más comunes en respuestas sobre innovación') +
@@ -98,6 +103,7 @@ p<-ggplot(data=test2, aes(x=reorder(test2$lista_palabras, test2$Freq), y=test2$F
   xlab('Palabras') + ylab('Frecuencia') +
   theme(plot.title = element_text(hjust = 0.5),panel.background = element_blank(),panel.grid = element_blank()) +
   coord_flip()
+
 x11()
 p
 
@@ -125,7 +131,7 @@ test$lista_palabras <- gsub('diseno','diseño',test$lista_palabras)
 
 x11()
 wordcloud2(test[1:50,], size=0.7, 
-           color=rep_len( redPalette, nrow(test[1:20,])),backgroundColor = "white",shape = 'circle')
+           color=rep_len( redPalette, nrow(test[1:20,])),backgroundColor = "white",shape = 'star')
 
 
 #----------------------------------------------------------------------------------------------------------------------
