@@ -8,7 +8,7 @@ directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Plan
 source(paste0(directorio,'/code/funciones.R'))
 
 # Cargar paquetes
-paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
+paquetes <- c('dplyr','readxl','data.table','magrittr','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
               'rgeos','reshape','tidyr','tidytext','stringr','wordcloud','tidyverse','readtext',
               'slam','xlsx'
@@ -29,6 +29,7 @@ texto_PND <- texto_PND[2:6]
 
 # Cargar stopwords
 sw <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_spanish.txt"),warn = F)
+
 
 # Todas las stop words - No hay necesidad de adicionales
 all_stopwords <- unique(c(sw))
@@ -70,50 +71,20 @@ for (i in descripcion) {
   best2 <- rem_dup.vector(descripcion)  
 }
 
-#----------------------------------------------------------------------------------------------------------------------
-# SVM
-#----------------------------------------------------------------------------------------------------------------------
-
-# Asignarle una clase a cada línea
-nuevo_dataset <- data.frame(text=best,class=1:5)
-
-# Creaer document term matrix
-dtMatrix <- create_matrix(nuevo_dataset["text"])
-
-# Datos de entrenamiento en container
-container <- create_container(dtMatrix, nuevo_dataset$class, trainSize=1:5, virgin=FALSE)
-
-# Entrenar modelo
-model <- train_model(container, "SVM", kernel = "polynomial", cost=10)
-
-# Datos a predecir - Clasificar respuestas en los objetivos
-predictionData <- descripcion
-# Cambiar "Acronym" por "acronym"
-trace("create_matrix", edit=T)
-# Crear document term matrix de predicción
-predMatrix <- create_matrix(predictionData, originalMatrix=dtMatrix)
-
-# Datos a predecir en container - Test data
-predSize = length(predictionData)
-predictionContainer <- create_container(predMatrix, labels=rep(0,predSize), testSize=1:predSize, virgin=FALSE)
-
-# Clasificación y resultados
-results <- classify_model(predictionContainer, model)
-results
-
-
 
 
 #----------------------------------------------------------------------------------------------------------------------
 # Matriz de similitud del coseno
 #----------------------------------------------------------------------------------------------------------------------
+# dtm con quanteda
+# Matriz de entrenamiento con vocabulario los objetivos y de las respuestas
+dtm_nueva <- as.matrix(dfm(c(best,best2)))
 
-# Matriz de "entrenamiento con vocabulario los objetivos y de las respuestas
-dtm_nueva <- create_matrix(c(best,best2))
+#--------------------------------------------
 # Número de líneas
-dtm1 <- dtm_nueva[1:5,]
+dtm1 <- as.simple_triplet_matrix(dtm_nueva[1:5,]) 
 # Número de respuestas
-dtm2 <- dtm_nueva[6:111,]
+dtm2 <-as.simple_triplet_matrix(dtm_nueva[6:111,]) 
 # Matriz cruzada similitud coseno
 cosine_sim <- tcrossprod_simple_triplet_matrix(dtm1, dtm2)/sqrt(row_sums(dtm1^2) %*% t(row_sums(dtm2^2)))
 # Invertir matriz para visibilidad
