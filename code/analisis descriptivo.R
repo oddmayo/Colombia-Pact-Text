@@ -8,7 +8,7 @@ directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Plan
 source(paste0(directorio,'/code/funciones.R'))
 
 # Cargar paquetes
-paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
+paquetes <- c('dplyr','readxl','data.table','magrittr','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
               'rgeos','reshape','tidyr','tidytext','stringr','wordcloud','tidyverse','packcircles',
               'viridis','igraph','ggraph','wordcloud2'
