@@ -14,7 +14,7 @@ paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','gg
               'viridis','igraph','ggraph','wordcloud2'
 )
 
-paquetes <- c('dplyr','readxl','ggplot2','tm','tidyr','tidytext','stringr','wordcloud2')
+
 
 lapply(paquetes, require, character.only = TRUE)
 
@@ -122,7 +122,12 @@ wordcloud(words = test$lista_palabras, freq = test$Freq, min.freq = 1,
 # Intento de mejorar la cosa
 wordcloud2(test,size = 0.7)
 
-redPalette <- c("#5c1010", "#6f0000", "#560d0d", "#c30101", "#940000")
+# Red palette
+
+custom_colors <- c("#5c1010", "#6f0000", "#560d0d", "#c30101", "#940000")
+# Blue palette
+custom_colors <- c("#005073", "#107dac", "#189ad3", "#1ebbd7", "#71c7ec")
+
 #write.csv(test, file = "C:\\Users\\ScmayorquinS\\Desktop\\test.csv")
 
 
@@ -130,8 +135,8 @@ test$lista_palabras <- gsub('diseno','diseño',test$lista_palabras)
 
 
 x11()
-wordcloud2(test[1:50,], size=0.7, 
-           color=rep_len( redPalette, nrow(test[1:20,])),backgroundColor = "white",shape = 'star')
+wordcloud2(test[1:100,], size=0.7, 
+           color=rep_len( custom_colors, nrow(test[1:100,])),backgroundColor = "white",shape = 'circle')
 
 
 #----------------------------------------------------------------------------------------------------------------------
