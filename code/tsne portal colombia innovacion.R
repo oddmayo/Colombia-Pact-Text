@@ -28,6 +28,7 @@ base <- base %>% filter(Título == '¿Cómo podrían las entidades públicas inn
 # Stop words
 sw <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_spanish.txt"))
 
+
 # stop words acidionales
 sw_a <- readLines(paste0(directorio,"\\data\\entrada\\stop_words_adicionales.txt"))
 
@@ -73,14 +74,6 @@ proyTsneBoW <- function(B){
 t <- proyTsneBoW(BoW)
 x11()
 plot.tsneproy(t$Y,BoW)
-
-
-
-  # t-SNE
-  t <- proyTsneBoW(BoW)
-  tic()
-  plot.tsneproy(t$Y,BoW)
-  toc()
 
 
   
