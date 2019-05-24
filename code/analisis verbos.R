@@ -11,7 +11,8 @@ source(paste0(directorio,'/code/funciones.R'))
 
 
 # Cargar paquetes
-paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
+
+paquetes <- c('dplyr','readxl','data.table','magrittr','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
               'rgeos','reshape','tidyr','wordcloud','wordcloud2'
 )
@@ -119,6 +120,3 @@ write.csv(test, file = "C:\\Users\\ScmayorquinS\\Desktop\\test.csv")
 
 wordcloud2(definitiva_final[1:50,], size=0.7, 
            color=rep_len( redPalette, nrow(definitiva_final[1:50,])),backgroundColor = "white",shape = 'circle')
-
-x11()
-nube
