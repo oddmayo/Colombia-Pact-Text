@@ -6,7 +6,7 @@ directorio <- 'C:\\Users\\ScmayorquinS\\OneDrive - Departamento Nacional de Plan
 
 # funciones
 source(paste0(directorio,'/code/funciones.R'))
-paquetes <- c('dplyr','readxl','data.table','magrittr','RTextTools','tictoc','ggplot2','tm',
+paquetes <- c('dplyr','readxl','data.table','magrittr','tictoc','ggplot2','tm',
               'ClusterR','factoextra','FactoMineR','beepr','quanteda','Rtsne','deldir','sp',
               'rgeos','NbClust','cluster','FunCluster','tidyr'
               )
@@ -46,10 +46,20 @@ for (i in 1:nrow(adicional)) {
   descripcion <- gsub(adicional[i,'V1'],adicional[i,'V2'],descripcion)
 }
 
-
+library(bigmemory)
+# Switching bag of words function
 # Bag of words
-dtm <- as.matrix(create_matrix(descripcion))
+dtm <- Corpus(VectorSource(descripcion))
+dtm <- DocumentTermMatrix(dtm)
+dtm <- as.big.matrix(x=as.matrix(dtm))
+dtm <- as.matrix(dtm)
+
 BoW <- as.matrix(create_matrix(descripcion))
+BoW <- Corpus(VectorSource(descripcion))
+BoW <- DocumentTermMatrix(BoW)
+BoW <- as.big.matrix(x=as.matrix(BoW))
+BoW <- as.matrix(BoW)
+
 
 # Matriz de probabilidades
 BoW <- t(apply(dtm,1,function(x)x/sum(x)))
@@ -69,7 +79,7 @@ tiesne <- Rtsne(X = BoW.pca$x[,1:5],dims = 2,perplexity = perp,theta = 0.5,check
 intento <- NbClust(data = tiesne$Y,distance = 'euclidean',max.nc = 15,method = 'kmeans')
 n.clusters <- as.numeric(names(sort(table(intento$Best.nc),decreasing=TRUE)[1]))
 
-n.clusters <- 8
+n.clusters <- 7
 kfit <- kmeans(tiesne$Y, n.clusters)
 
 plot(BoW.pca$x[,1:2], col = kfit$cluster)
